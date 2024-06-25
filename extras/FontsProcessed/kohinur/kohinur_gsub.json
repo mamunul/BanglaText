@@ -1,0 +1,3992 @@
+[
+    {
+        "output": "bnDDxA",
+        "index": "9",
+        "tag": "nukt",
+        "type": "4",
+        "input_glyphs": [
+            "bnDDA",
+            "bnNukta"
+        ]
+    },
+    {
+        "output": "bnDDHxA",
+        "index": "9",
+        "tag": "nukt",
+        "type": "4",
+        "input_glyphs": [
+            "bnDDHA",
+            "bnNukta"
+        ]
+    },
+    {
+        "output": "bnYxA",
+        "index": "9",
+        "tag": "nukt",
+        "type": "4",
+        "input_glyphs": [
+            "bnYA",
+            "bnNukta"
+        ]
+    },
+    {
+        "output": "bnJ_NYA",
+        "index": "10",
+        "tag": "akhn",
+        "type": "4",
+        "input_glyphs": [
+            "bnJA",
+            "bnVirama,bnNYA"
+        ]
+    },
+    {
+        "output": "bnK_SSA",
+        "index": "10",
+        "tag": "akhn",
+        "type": "4",
+        "input_glyphs": [
+            "bnKA",
+            "bnVirama,bnSSA"
+        ]
+    },
+    {
+        "output": "bnReph",
+        "index": "12",
+        "tag": "rphf",
+        "type": "4",
+        "input_glyphs": [
+            "asRA",
+            "bnVirama"
+        ]
+    },
+    {
+        "output": "bnReph",
+        "index": "12",
+        "tag": "rphf",
+        "type": "4",
+        "input_glyphs": [
+            "bnRA",
+            "bnVirama"
+        ]
+    },
+    {
+        "output": "bnBAc2",
+        "index": "13",
+        "tag": "blwf",
+        "type": "4",
+        "input_glyphs": [
+            "bnVirama",
+            "bnBA"
+        ]
+    },
+    {
+        "output": "bnRAc2",
+        "index": "13",
+        "tag": "blwf",
+        "type": "4",
+        "input_glyphs": [
+            "bnVirama",
+            "bnRA"
+        ]
+    },
+    {
+        "output": "bnRAc2",
+        "index": "13",
+        "tag": "blwf",
+        "type": "4",
+        "input_glyphs": [
+            "bnVirama",
+            "asRA"
+        ]
+    },
+    {
+        "output": "bnRAc2",
+        "index": "14",
+        "tag": "blwf",
+        "type": "4",
+        "input_glyphs": [
+            "asRA",
+            "bnVirama"
+        ]
+    },
+    {
+        "output": "bnBAc2",
+        "index": "14",
+        "tag": "blwf",
+        "type": "4",
+        "input_glyphs": [
+            "bnBA",
+            "bnVirama"
+        ]
+    },
+    {
+        "output": "bnRAc2",
+        "index": "14",
+        "tag": "blwf",
+        "type": "4",
+        "input_glyphs": [
+            "bnRA",
+            "bnVirama"
+        ]
+    },
+    {
+        "output": "asR",
+        "index": "15",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "asRA",
+            "bnVirama"
+        ]
+    },
+    {
+        "output": "asW",
+        "index": "15",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "asWA",
+            "bnVirama"
+        ]
+    },
+    {
+        "output": "bnB",
+        "index": "15",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "bnBA",
+            "bnVirama"
+        ]
+    },
+    {
+        "output": "bnBH",
+        "index": "15",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "bnBHA",
+            "bnVirama"
+        ]
+    },
+    {
+        "output": "bnC",
+        "index": "15",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "bnCA",
+            "bnVirama"
+        ]
+    },
+    {
+        "output": "bnCH",
+        "index": "15",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "bnCHA",
+            "bnVirama"
+        ]
+    },
+    {
+        "output": "bnD",
+        "index": "15",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "bnDA",
+            "bnVirama"
+        ]
+    },
+    {
+        "output": "bnDD",
+        "index": "15",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "bnDDA",
+            "bnVirama"
+        ]
+    },
+    {
+        "output": "bnDDH",
+        "index": "15",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "bnDDHA",
+            "bnVirama"
+        ]
+    },
+    {
+        "output": "bnDDHx",
+        "index": "15",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "bnDDHxA",
+            "bnVirama"
+        ]
+    },
+    {
+        "output": "bnDDx",
+        "index": "15",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "bnDDxA",
+            "bnVirama"
+        ]
+    },
+    {
+        "output": "bnDH",
+        "index": "15",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "bnDHA",
+            "bnVirama"
+        ]
+    },
+    {
+        "output": "bnG",
+        "index": "15",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "bnGA",
+            "bnVirama"
+        ]
+    },
+    {
+        "output": "bnGH",
+        "index": "15",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "bnGHA",
+            "bnVirama"
+        ]
+    },
+    {
+        "output": "bnH",
+        "index": "15",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "bnHA",
+            "bnVirama"
+        ]
+    },
+    {
+        "output": "bnJ",
+        "index": "15",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "bnJA",
+            "bnVirama"
+        ]
+    },
+    {
+        "output": "bnJH",
+        "index": "15",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "bnJHA",
+            "bnVirama"
+        ]
+    },
+    {
+        "output": "bnJ_NY",
+        "index": "15",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "bnJ_NYA",
+            "bnVirama"
+        ]
+    },
+    {
+        "output": "bnK",
+        "index": "15",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "bnKA",
+            "bnVirama"
+        ]
+    },
+    {
+        "output": "bnKH",
+        "index": "15",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "bnKHA",
+            "bnVirama"
+        ]
+    },
+    {
+        "output": "bnK_SS",
+        "index": "15",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "bnK_SSA",
+            "bnVirama"
+        ]
+    },
+    {
+        "output": "bnL",
+        "index": "15",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "bnLA",
+            "bnVirama"
+        ]
+    },
+    {
+        "output": "bnM",
+        "index": "15",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "bnMA",
+            "bnVirama"
+        ]
+    },
+    {
+        "output": "bnN",
+        "index": "15",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "bnNA",
+            "bnVirama"
+        ]
+    },
+    {
+        "output": "bnNG",
+        "index": "15",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "bnNGA",
+            "bnVirama"
+        ]
+    },
+    {
+        "output": "bnNN",
+        "index": "15",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "bnNNA",
+            "bnVirama"
+        ]
+    },
+    {
+        "output": "bnNY",
+        "index": "15",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "bnNYA",
+            "bnVirama"
+        ]
+    },
+    {
+        "output": "bnP",
+        "index": "15",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "bnPA",
+            "bnVirama"
+        ]
+    },
+    {
+        "output": "bnPH",
+        "index": "15",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "bnPHA",
+            "bnVirama"
+        ]
+    },
+    {
+        "output": "bnR",
+        "index": "15",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "bnRA",
+            "bnVirama"
+        ]
+    },
+    {
+        "output": "bnS",
+        "index": "15",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "bnSA",
+            "bnVirama"
+        ]
+    },
+    {
+        "output": "bnSH",
+        "index": "15",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "bnSHA",
+            "bnVirama"
+        ]
+    },
+    {
+        "output": "bnSS",
+        "index": "15",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "bnSSA",
+            "bnVirama"
+        ]
+    },
+    {
+        "output": "bnT",
+        "index": "15",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "bnTA",
+            "bnVirama"
+        ]
+    },
+    {
+        "output": "bnTH",
+        "index": "15",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "bnTHA",
+            "bnVirama"
+        ]
+    },
+    {
+        "output": "bnTT",
+        "index": "15",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "bnTTA",
+            "bnVirama"
+        ]
+    },
+    {
+        "output": "bnTTH",
+        "index": "15",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "bnTTHA",
+            "bnVirama"
+        ]
+    },
+    {
+        "output": "bnY",
+        "index": "15",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "bnYA",
+            "bnVirama"
+        ]
+    },
+    {
+        "output": "bnYx",
+        "index": "15",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "bnYxA",
+            "bnVirama"
+        ]
+    },
+    {
+        "output": "bnYAc2",
+        "index": "16",
+        "tag": "pstf",
+        "type": "4",
+        "input_glyphs": [
+            "bnVirama",
+            "bnYA"
+        ]
+    },
+    {
+        "output": "bnYAc2",
+        "index": "17",
+        "tag": "pstf",
+        "type": "4",
+        "input_glyphs": [
+            "bnYA",
+            "bnVirama"
+        ]
+    },
+    {
+        "output": "bnB_BA",
+        "index": "21",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnBA",
+            "bnBAc2"
+        ]
+    },
+    {
+        "output": "bnC_BA",
+        "index": "21",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnCA",
+            "bnBAc2"
+        ]
+    },
+    {
+        "output": "bnCH_BA",
+        "index": "21",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnCHA",
+            "bnBAc2"
+        ]
+    },
+    {
+        "output": "bnD_BA",
+        "index": "21",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnDA",
+            "bnBAc2"
+        ]
+    },
+    {
+        "output": "bnDD_BA",
+        "index": "21",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnDDA",
+            "bnBAc2"
+        ]
+    },
+    {
+        "output": "bnDH_BA",
+        "index": "21",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnDHA",
+            "bnBAc2"
+        ]
+    },
+    {
+        "output": "bnG_BA",
+        "index": "21",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnGA",
+            "bnBAc2"
+        ]
+    },
+    {
+        "output": "bnH_BA",
+        "index": "21",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnHA",
+            "bnBAc2"
+        ]
+    },
+    {
+        "output": "bnJ_BA",
+        "index": "21",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnJA",
+            "bnBAc2"
+        ]
+    },
+    {
+        "output": "bnK_BA",
+        "index": "21",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnKA",
+            "bnBAc2"
+        ]
+    },
+    {
+        "output": "bnKH_BA",
+        "index": "21",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnKHA",
+            "bnBAc2"
+        ]
+    },
+    {
+        "output": "bnK_SS_BA",
+        "index": "21",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnK_SSA",
+            "bnBAc2"
+        ]
+    },
+    {
+        "output": "bnL_BA",
+        "index": "21",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnLA",
+            "bnBAc2"
+        ]
+    },
+    {
+        "output": "bnM_BA",
+        "index": "21",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnMA",
+            "bnBAc2"
+        ]
+    },
+    {
+        "output": "bnN_BA",
+        "index": "21",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnNA",
+            "bnBAc2"
+        ]
+    },
+    {
+        "output": "bnNN_BA",
+        "index": "21",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnNNA",
+            "bnBAc2"
+        ]
+    },
+    {
+        "output": "bnP_BA",
+        "index": "21",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnPA",
+            "bnBAc2"
+        ]
+    },
+    {
+        "output": "bnS_BA",
+        "index": "21",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnSA",
+            "bnBAc2"
+        ]
+    },
+    {
+        "output": "bnSH_BA",
+        "index": "21",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnSHA",
+            "bnBAc2"
+        ]
+    },
+    {
+        "output": "bnSS_BA",
+        "index": "21",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnSSA",
+            "bnBAc2"
+        ]
+    },
+    {
+        "output": "bnT_BA",
+        "index": "21",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnTA",
+            "bnBAc2"
+        ]
+    },
+    {
+        "output": "bnTH_BA",
+        "index": "21",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnTHA",
+            "bnBAc2"
+        ]
+    },
+    {
+        "output": "bnTT_BA",
+        "index": "21",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnTTA",
+            "bnBAc2"
+        ]
+    },
+    {
+        "output": "bnB_RA",
+        "index": "22",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnBA",
+            "bnRAc2"
+        ]
+    },
+    {
+        "output": "bnBH_RA",
+        "index": "22",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnBHA",
+            "bnRAc2"
+        ]
+    },
+    {
+        "output": "bnC_RA",
+        "index": "22",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnCA",
+            "bnRAc2"
+        ]
+    },
+    {
+        "output": "bnCH_RA",
+        "index": "22",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnCHA",
+            "bnRAc2"
+        ]
+    },
+    {
+        "output": "bnD_RA",
+        "index": "22",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnDA",
+            "bnRAc2"
+        ]
+    },
+    {
+        "output": "bnDD_RA",
+        "index": "22",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnDDA",
+            "bnRAc2"
+        ]
+    },
+    {
+        "output": "bnDDH_RA",
+        "index": "22",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnDDHA",
+            "bnRAc2"
+        ]
+    },
+    {
+        "output": "bnDH_RA",
+        "index": "22",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnDHA",
+            "bnRAc2"
+        ]
+    },
+    {
+        "output": "bnG_RA",
+        "index": "22",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnGA",
+            "bnRAc2"
+        ]
+    },
+    {
+        "output": "bnGH_RA",
+        "index": "22",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnGHA",
+            "bnRAc2"
+        ]
+    },
+    {
+        "output": "bnH_RA",
+        "index": "22",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnHA",
+            "bnRAc2"
+        ]
+    },
+    {
+        "output": "bnJ_RA",
+        "index": "22",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnJA",
+            "bnRAc2"
+        ]
+    },
+    {
+        "output": "bnJH_RA",
+        "index": "22",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnJHA",
+            "bnRAc2"
+        ]
+    },
+    {
+        "output": "bnJ_NY_RA",
+        "index": "22",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnJ_NYA",
+            "bnRAc2"
+        ]
+    },
+    {
+        "output": "bnK_RA",
+        "index": "22",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnKA",
+            "bnRAc2"
+        ]
+    },
+    {
+        "output": "bnKH_RA",
+        "index": "22",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnKHA",
+            "bnRAc2"
+        ]
+    },
+    {
+        "output": "bnK_SS_RA",
+        "index": "22",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnK_SSA",
+            "bnRAc2"
+        ]
+    },
+    {
+        "output": "bnL_RA",
+        "index": "22",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnLA",
+            "bnRAc2"
+        ]
+    },
+    {
+        "output": "bnM_B_RA",
+        "index": "22",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnM",
+            "bnBA,bnRAc2"
+        ]
+    },
+    {
+        "output": "bnM_RA",
+        "index": "22",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnMA",
+            "bnRAc2"
+        ]
+    },
+    {
+        "output": "bnM_B_RA",
+        "index": "22",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnM_BA",
+            "bnRAc2"
+        ]
+    },
+    {
+        "output": "bnN_RA",
+        "index": "22",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnNA",
+            "bnRAc2"
+        ]
+    },
+    {
+        "output": "bnNG_RA",
+        "index": "22",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnNGA",
+            "bnRAc2"
+        ]
+    },
+    {
+        "output": "bnNN_RA",
+        "index": "22",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnNNA",
+            "bnRAc2"
+        ]
+    },
+    {
+        "output": "bnNY_RA",
+        "index": "22",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnNYA",
+            "bnRAc2"
+        ]
+    },
+    {
+        "output": "bnP_RA",
+        "index": "22",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnPA",
+            "bnRAc2"
+        ]
+    },
+    {
+        "output": "bnPH_RA",
+        "index": "22",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnPHA",
+            "bnRAc2"
+        ]
+    },
+    {
+        "output": "bnS_RA",
+        "index": "22",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnSA",
+            "bnRAc2"
+        ]
+    },
+    {
+        "output": "bnSH_RA",
+        "index": "22",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnSHA",
+            "bnRAc2"
+        ]
+    },
+    {
+        "output": "bnSS_RA",
+        "index": "22",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnSSA",
+            "bnRAc2"
+        ]
+    },
+    {
+        "output": "bnT_RA",
+        "index": "22",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnTA",
+            "bnRAc2"
+        ]
+    },
+    {
+        "output": "bnTH_RA",
+        "index": "22",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnTHA",
+            "bnRAc2"
+        ]
+    },
+    {
+        "output": "bnTT_RA",
+        "index": "22",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnTTA",
+            "bnRAc2"
+        ]
+    },
+    {
+        "output": "bnTTH_RA",
+        "index": "22",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnTTHA",
+            "bnRAc2"
+        ]
+    },
+    {
+        "output": "bnY_RA",
+        "index": "22",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnYA",
+            "bnRAc2"
+        ]
+    },
+    {
+        "output": "bnB_BH_RA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnB",
+            "bnBH_RA"
+        ]
+    },
+    {
+        "output": "bnB_D_RA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnB",
+            "bnD_RA"
+        ]
+    },
+    {
+        "output": "bnB_LA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnB",
+            "bnLA"
+        ]
+    },
+    {
+        "output": "bnB_BHA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnB",
+            "bnBHA"
+        ]
+    },
+    {
+        "output": "bnB_DHA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnB",
+            "bnDHA"
+        ]
+    },
+    {
+        "output": "bnB_DA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnB",
+            "bnDA"
+        ]
+    },
+    {
+        "output": "bnB_DDHA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnB",
+            "bnDDHA"
+        ]
+    },
+    {
+        "output": "bnB_DDA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnB",
+            "bnDDA"
+        ]
+    },
+    {
+        "output": "bnB_JA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnB",
+            "bnJA"
+        ]
+    },
+    {
+        "output": "bnBH_LA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnBH",
+            "bnLA"
+        ]
+    },
+    {
+        "output": "bnC_CH_BA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnC",
+            "bnCH_BA"
+        ]
+    },
+    {
+        "output": "bnC_CH_RA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnC",
+            "bnCH_RA"
+        ]
+    },
+    {
+        "output": "bnC_NA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnC",
+            "bnNA"
+        ]
+    },
+    {
+        "output": "bnC_NYA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnC",
+            "bnNYA"
+        ]
+    },
+    {
+        "output": "bnC_CHA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnC",
+            "bnCHA"
+        ]
+    },
+    {
+        "output": "bnC_CA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnC",
+            "bnCA"
+        ]
+    },
+    {
+        "output": "bnD_DH_BA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnD",
+            "bnDH_BA"
+        ]
+    },
+    {
+        "output": "bnD_D_BA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnD",
+            "bnD_BA"
+        ]
+    },
+    {
+        "output": "bnD_BH_RA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnD",
+            "bnBH_RA"
+        ]
+    },
+    {
+        "output": "bnD_D_RA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnD",
+            "bnD_RA"
+        ]
+    },
+    {
+        "output": "bnD_MA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnD",
+            "bnMA"
+        ]
+    },
+    {
+        "output": "bnD_BHA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnD",
+            "bnBHA"
+        ]
+    },
+    {
+        "output": "bnD_NA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnD",
+            "bnNA"
+        ]
+    },
+    {
+        "output": "bnD_DHA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnD",
+            "bnDHA"
+        ]
+    },
+    {
+        "output": "bnD_DA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnD",
+            "bnDA"
+        ]
+    },
+    {
+        "output": "bnD_GHA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnD",
+            "bnGHA"
+        ]
+    },
+    {
+        "output": "bnD_GA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnD",
+            "bnGA"
+        ]
+    },
+    {
+        "output": "bnDD_MA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnDD",
+            "bnMA"
+        ]
+    },
+    {
+        "output": "bnDD_DDA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnDD",
+            "bnDDA"
+        ]
+    },
+    {
+        "output": "bnDD_GA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnDD",
+            "bnGA"
+        ]
+    },
+    {
+        "output": "bnDDx_GA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnDDx",
+            "bnGA"
+        ]
+    },
+    {
+        "output": "bnDH_MA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnDH",
+            "bnMA"
+        ]
+    },
+    {
+        "output": "bnDH_NA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnDH",
+            "bnNA"
+        ]
+    },
+    {
+        "output": "bnG_D_RA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnG",
+            "bnD_RA"
+        ]
+    },
+    {
+        "output": "bnG_LA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnG",
+            "bnLA"
+        ]
+    },
+    {
+        "output": "bnG_MA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnG",
+            "bnMA"
+        ]
+    },
+    {
+        "output": "bnG_NA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnG",
+            "bnNA"
+        ]
+    },
+    {
+        "output": "bnG_DHA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnG",
+            "bnDHA"
+        ]
+    },
+    {
+        "output": "bnG_DA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnG",
+            "bnDA"
+        ]
+    },
+    {
+        "output": "bnG_GA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnG",
+            "bnGA"
+        ]
+    },
+    {
+        "output": "bnGH_NA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnGH",
+            "bnNA"
+        ]
+    },
+    {
+        "output": "bnH_LA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnH",
+            "bnLA"
+        ]
+    },
+    {
+        "output": "bnH_MA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnH",
+            "bnMA"
+        ]
+    },
+    {
+        "output": "bnH_NA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnH",
+            "bnNA"
+        ]
+    },
+    {
+        "output": "bnH_NNA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnH",
+            "bnNNA"
+        ]
+    },
+    {
+        "output": "bnJ_J_BA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnJ",
+            "bnJ_BA"
+        ]
+    },
+    {
+        "output": "bnJ_JHA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnJ",
+            "bnJHA"
+        ]
+    },
+    {
+        "output": "bnJ_JA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnJ",
+            "bnJA"
+        ]
+    },
+    {
+        "output": "bnK_T_RA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnK",
+            "bnT_RA"
+        ]
+    },
+    {
+        "output": "bnK_TT_RA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnK",
+            "bnTT_RA"
+        ]
+    },
+    {
+        "output": "bnK_SA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnK",
+            "bnSA"
+        ]
+    },
+    {
+        "output": "bnK_LA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnK",
+            "bnLA"
+        ]
+    },
+    {
+        "output": "bnK_MA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnK",
+            "bnMA"
+        ]
+    },
+    {
+        "output": "bnK_NA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnK",
+            "bnNA"
+        ]
+    },
+    {
+        "output": "bnK_TA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnK",
+            "bnTA"
+        ]
+    },
+    {
+        "output": "bnK_TTA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnK",
+            "bnTTA"
+        ]
+    },
+    {
+        "output": "bnK_KA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnK",
+            "bnKA"
+        ]
+    },
+    {
+        "output": "bnK_SS_MA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnK_SS",
+            "bnMA"
+        ]
+    },
+    {
+        "output": "bnK_SS_NA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnK_SS",
+            "bnNA"
+        ]
+    },
+    {
+        "output": "bnK_SS_NNA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnK_SS",
+            "bnNNA"
+        ]
+    },
+    {
+        "output": "bnL_PH_RA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnL",
+            "bnPH_RA"
+        ]
+    },
+    {
+        "output": "bnL_D_RA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnL",
+            "bnD_RA"
+        ]
+    },
+    {
+        "output": "bnL_DD_RA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnL",
+            "bnDD_RA"
+        ]
+    },
+    {
+        "output": "bnL_TT_RA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnL",
+            "bnTT_RA"
+        ]
+    },
+    {
+        "output": "bnL_LA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnL",
+            "bnLA"
+        ]
+    },
+    {
+        "output": "bnL_MA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnL",
+            "bnMA"
+        ]
+    },
+    {
+        "output": "bnL_BHA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnL",
+            "bnBHA"
+        ]
+    },
+    {
+        "output": "bnL_PHA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnL",
+            "bnPHA"
+        ]
+    },
+    {
+        "output": "bnL_PA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnL",
+            "bnPA"
+        ]
+    },
+    {
+        "output": "bnL_DHA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnL",
+            "bnDHA"
+        ]
+    },
+    {
+        "output": "bnL_DA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnL",
+            "bnDA"
+        ]
+    },
+    {
+        "output": "bnL_TA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnL",
+            "bnTA"
+        ]
+    },
+    {
+        "output": "bnL_DDA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnL",
+            "bnDDA"
+        ]
+    },
+    {
+        "output": "bnL_TTA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnL",
+            "bnTTA"
+        ]
+    },
+    {
+        "output": "bnL_GHA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnL",
+            "bnGHA"
+        ]
+    },
+    {
+        "output": "bnL_GA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnL",
+            "bnGA"
+        ]
+    },
+    {
+        "output": "bnL_KA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnL",
+            "bnKA"
+        ]
+    },
+    {
+        "output": "bnM_P_LA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnM",
+            "bnP,bnLA"
+        ]
+    },
+    {
+        "output": "bnM_PH_RA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnM",
+            "bnPH_RA"
+        ]
+    },
+    {
+        "output": "bnM_P_RA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnM",
+            "bnP_RA"
+        ]
+    },
+    {
+        "output": "bnM_D_RA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnM",
+            "bnD_RA"
+        ]
+    },
+    {
+        "output": "bnM_BH_RA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnM",
+            "bnBH_RA"
+        ]
+    },
+    {
+        "output": "bnM_LA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnM",
+            "bnLA"
+        ]
+    },
+    {
+        "output": "bnM_MA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnM",
+            "bnMA"
+        ]
+    },
+    {
+        "output": "bnM_BHA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnM",
+            "bnBHA"
+        ]
+    },
+    {
+        "output": "bnM_PHA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnM",
+            "bnPHA"
+        ]
+    },
+    {
+        "output": "bnM_PA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnM",
+            "bnPA"
+        ]
+    },
+    {
+        "output": "bnM_NA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnM",
+            "bnNA"
+        ]
+    },
+    {
+        "output": "bnM_DA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnM",
+            "bnDA"
+        ]
+    },
+    {
+        "output": "bnM_THA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnM",
+            "bnTHA"
+        ]
+    },
+    {
+        "output": "bnM_TA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnM",
+            "bnTA"
+        ]
+    },
+    {
+        "output": "bnN_D_BA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnN",
+            "bnD_BA"
+        ]
+    },
+    {
+        "output": "bnN_T_BA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnN",
+            "bnT_BA"
+        ]
+    },
+    {
+        "output": "bnN_DH_BA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnN",
+            "bnDH_BA"
+        ]
+    },
+    {
+        "output": "bnN_DH_RA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnN",
+            "bnDH_RA"
+        ]
+    },
+    {
+        "output": "bnN_D_RA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnN",
+            "bnD_RA"
+        ]
+    },
+    {
+        "output": "bnN_TH_RA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnN",
+            "bnTH_RA"
+        ]
+    },
+    {
+        "output": "bnN_T_RA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnN",
+            "bnT_RA"
+        ]
+    },
+    {
+        "output": "bnN_DD_RA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnN",
+            "bnDD_RA"
+        ]
+    },
+    {
+        "output": "bnN_TT_RA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnN",
+            "bnTT_RA"
+        ]
+    },
+    {
+        "output": "bnN_SA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnN",
+            "bnSA"
+        ]
+    },
+    {
+        "output": "bnN_MA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnN",
+            "bnMA"
+        ]
+    },
+    {
+        "output": "bnN_NA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnN",
+            "bnNA"
+        ]
+    },
+    {
+        "output": "bnN_DHA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnN",
+            "bnDHA"
+        ]
+    },
+    {
+        "output": "bnN_DA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnN",
+            "bnDA"
+        ]
+    },
+    {
+        "output": "bnN_THA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnN",
+            "bnTHA"
+        ]
+    },
+    {
+        "output": "bnN_TA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnN",
+            "bnTA"
+        ]
+    },
+    {
+        "output": "bnN_DDHA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnN",
+            "bnDDHA"
+        ]
+    },
+    {
+        "output": "bnN_DDA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnN",
+            "bnDDA"
+        ]
+    },
+    {
+        "output": "bnN_TTHA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnN",
+            "bnTTHA"
+        ]
+    },
+    {
+        "output": "bnN_TTA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnN",
+            "bnTTA"
+        ]
+    },
+    {
+        "output": "bnN_JA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnN",
+            "bnJA"
+        ]
+    },
+    {
+        "output": "bnNG_GH_RA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnNG",
+            "bnGH_RA"
+        ]
+    },
+    {
+        "output": "bnNG_K_RA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnNG",
+            "bnK_RA"
+        ]
+    },
+    {
+        "output": "bnNG_K_SSA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnNG",
+            "bnK_SSA"
+        ]
+    },
+    {
+        "output": "bnNG_MA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnNG",
+            "bnMA"
+        ]
+    },
+    {
+        "output": "bnNG_GHA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnNG",
+            "bnGHA"
+        ]
+    },
+    {
+        "output": "bnNG_GA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnNG",
+            "bnGA"
+        ]
+    },
+    {
+        "output": "bnNG_KHA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnNG",
+            "bnKHA"
+        ]
+    },
+    {
+        "output": "bnNG_KA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnNG",
+            "bnKA"
+        ]
+    },
+    {
+        "output": "bnNN_DDH_RA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnNN",
+            "bnDDH_RA"
+        ]
+    },
+    {
+        "output": "bnNN_DD_RA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnNN",
+            "bnDD_RA"
+        ]
+    },
+    {
+        "output": "bnNN_TTH_RA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnNN",
+            "bnTTH_RA"
+        ]
+    },
+    {
+        "output": "bnNN_TT_RA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnNN",
+            "bnTT_RA"
+        ]
+    },
+    {
+        "output": "bnNN_MA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnNN",
+            "bnMA"
+        ]
+    },
+    {
+        "output": "bnNN_NNA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnNN",
+            "bnNNA"
+        ]
+    },
+    {
+        "output": "bnNN_DDHA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnNN",
+            "bnDDHA"
+        ]
+    },
+    {
+        "output": "bnNN_DDA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnNN",
+            "bnDDA"
+        ]
+    },
+    {
+        "output": "bnNN_TTHA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnNN",
+            "bnTTHA"
+        ]
+    },
+    {
+        "output": "bnNN_TTA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnNN",
+            "bnTTA"
+        ]
+    },
+    {
+        "output": "bnNY_JHA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnNY",
+            "bnJHA"
+        ]
+    },
+    {
+        "output": "bnNY_JA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnNY",
+            "bnJA"
+        ]
+    },
+    {
+        "output": "bnNY_CHA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnNY",
+            "bnCHA"
+        ]
+    },
+    {
+        "output": "bnNY_CA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnNY",
+            "bnCA"
+        ]
+    },
+    {
+        "output": "bnP_T_RA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnP",
+            "bnT_RA"
+        ]
+    },
+    {
+        "output": "bnP_SA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnP",
+            "bnSA"
+        ]
+    },
+    {
+        "output": "bnP_LA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnP",
+            "bnLA"
+        ]
+    },
+    {
+        "output": "bnP_MA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnP",
+            "bnMA"
+        ]
+    },
+    {
+        "output": "bnP_PA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnP",
+            "bnPA"
+        ]
+    },
+    {
+        "output": "bnP_NA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnP",
+            "bnNA"
+        ]
+    },
+    {
+        "output": "bnP_TA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnP",
+            "bnTA"
+        ]
+    },
+    {
+        "output": "bnP_TTA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnP",
+            "bnTTA"
+        ]
+    },
+    {
+        "output": "bnPH_LA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnPH",
+            "bnLA"
+        ]
+    },
+    {
+        "output": "bnPH_TTA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnPH",
+            "bnTTA"
+        ]
+    },
+    {
+        "output": "bnS_P_LA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnS",
+            "bnP,bnLA"
+        ]
+    },
+    {
+        "output": "bnS_K_LA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnS",
+            "bnK,bnLA"
+        ]
+    },
+    {
+        "output": "bnS_P_RA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnS",
+            "bnP_RA"
+        ]
+    },
+    {
+        "output": "bnS_T_RA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnS",
+            "bnT_RA"
+        ]
+    },
+    {
+        "output": "bnS_TT_RA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnS",
+            "bnTT_RA"
+        ]
+    },
+    {
+        "output": "bnS_K_RA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnS",
+            "bnK_RA"
+        ]
+    },
+    {
+        "output": "bnS_T_BA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnS",
+            "bnT_BA"
+        ]
+    },
+    {
+        "output": "bnS_PH_RA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnS",
+            "bnPH_RA"
+        ]
+    },
+    {
+        "output": "bnS_LA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnS",
+            "bnLA"
+        ]
+    },
+    {
+        "output": "bnS_MA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnS",
+            "bnMA"
+        ]
+    },
+    {
+        "output": "bnS_PHA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnS",
+            "bnPHA"
+        ]
+    },
+    {
+        "output": "bnS_PA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnS",
+            "bnPA"
+        ]
+    },
+    {
+        "output": "bnS_NA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnS",
+            "bnNA"
+        ]
+    },
+    {
+        "output": "bnS_THA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnS",
+            "bnTHA"
+        ]
+    },
+    {
+        "output": "bnS_TA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnS",
+            "bnTA"
+        ]
+    },
+    {
+        "output": "bnS_TTA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnS",
+            "bnTTA"
+        ]
+    },
+    {
+        "output": "bnS_KHA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnS",
+            "bnKHA"
+        ]
+    },
+    {
+        "output": "bnS_KA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnS",
+            "bnKA"
+        ]
+    },
+    {
+        "output": "bnSH_LA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnSH",
+            "bnLA"
+        ]
+    },
+    {
+        "output": "bnSH_MA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnSH",
+            "bnMA"
+        ]
+    },
+    {
+        "output": "bnSH_NA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnSH",
+            "bnNA"
+        ]
+    },
+    {
+        "output": "bnSH_TA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnSH",
+            "bnTA"
+        ]
+    },
+    {
+        "output": "bnSH_CHA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnSH",
+            "bnCHA"
+        ]
+    },
+    {
+        "output": "bnSH_CA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnSH",
+            "bnCA"
+        ]
+    },
+    {
+        "output": "bnSS_P_RA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnSS",
+            "bnP_RA"
+        ]
+    },
+    {
+        "output": "bnSS_TT_RA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnSS",
+            "bnTT_RA"
+        ]
+    },
+    {
+        "output": "bnSS_K_RA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnSS",
+            "bnK_RA"
+        ]
+    },
+    {
+        "output": "bnSS_MA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnSS",
+            "bnMA"
+        ]
+    },
+    {
+        "output": "bnSS_PHA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnSS",
+            "bnPHA"
+        ]
+    },
+    {
+        "output": "bnSS_PA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnSS",
+            "bnPA"
+        ]
+    },
+    {
+        "output": "bnSS_NNA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnSS",
+            "bnNNA"
+        ]
+    },
+    {
+        "output": "bnSS_TTHA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnSS",
+            "bnTTHA"
+        ]
+    },
+    {
+        "output": "bnSS_TTA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnSS",
+            "bnTTA"
+        ]
+    },
+    {
+        "output": "bnSS_KA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnSS",
+            "bnKA"
+        ]
+    },
+    {
+        "output": "bnT_T_BA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnT",
+            "bnT_BA"
+        ]
+    },
+    {
+        "output": "bnT_LA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnT",
+            "bnLA"
+        ]
+    },
+    {
+        "output": "bnT_MA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnT",
+            "bnMA"
+        ]
+    },
+    {
+        "output": "bnT_NA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnT",
+            "bnNA"
+        ]
+    },
+    {
+        "output": "bnT_THA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnT",
+            "bnTHA"
+        ]
+    },
+    {
+        "output": "bnT_TA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnT",
+            "bnTA"
+        ]
+    },
+    {
+        "output": "bnTT_TT_RA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnTT",
+            "bnTT_RA"
+        ]
+    },
+    {
+        "output": "bnTT_MA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnTT",
+            "bnMA"
+        ]
+    },
+    {
+        "output": "bnTT_TTA",
+        "index": "24",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnTT",
+            "bnTTA"
+        ]
+    },
+    {
+        "output": "bnmvR",
+        "index": "25",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "uni200D",
+            "bnmvR"
+        ]
+    },
+    {
+        "output": "bnmUU",
+        "index": "25",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "uni200D",
+            "bnmUU"
+        ]
+    },
+    {
+        "output": "bnmU",
+        "index": "25",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "uni200D",
+            "bnmU"
+        ]
+    },
+    {
+        "output": "bnBH_RA_mUU",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnBH_RA",
+            "bnmUU"
+        ]
+    },
+    {
+        "output": "bnBH_RA_mU",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnBH_RA",
+            "bnmU"
+        ]
+    },
+    {
+        "output": "bnD_RA_mUU",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnD_RA",
+            "bnmUU"
+        ]
+    },
+    {
+        "output": "bnD_RA_mU",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnD_RA",
+            "bnmU"
+        ]
+    },
+    {
+        "output": "bnGA_mU",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnGA",
+            "bnmU"
+        ]
+    },
+    {
+        "output": "bnG_DHA_mII",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnG_DHA",
+            "bnmII"
+        ]
+    },
+    {
+        "output": "bnHA_mvR",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnHA",
+            "bnmvR"
+        ]
+    },
+    {
+        "output": "bnHA_mU",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnHA",
+            "bnmU"
+        ]
+    },
+    {
+        "output": "bnJ_RA_mUU",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnJ_RA",
+            "bnmUU"
+        ]
+    },
+    {
+        "output": "bnJ_RA_mU",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnJ_RA",
+            "bnmU"
+        ]
+    },
+    {
+        "output": "bnK_TTA_AUlengthmark",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnK_TTA",
+            "bnAUlengthmark"
+        ]
+    },
+    {
+        "output": "bnK_TTA_mII",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnK_TTA",
+            "bnmII"
+        ]
+    },
+    {
+        "output": "bnK_TT_RA_AUlengthmark",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnK_TT_RA",
+            "bnAUlengthmark"
+        ]
+    },
+    {
+        "output": "bnK_TT_RA_mII",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnK_TT_RA",
+            "bnmII"
+        ]
+    },
+    {
+        "output": "bnL_GA_mU",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnL_GA",
+            "bnmU"
+        ]
+    },
+    {
+        "output": "bnL_TTA_AUlengthmark",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnL_TTA",
+            "bnAUlengthmark"
+        ]
+    },
+    {
+        "output": "bnL_TTA_mII",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnL_TTA",
+            "bnmII"
+        ]
+    },
+    {
+        "output": "bnL_TT_RA_AUlengthmark",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnL_TT_RA",
+            "bnAUlengthmark"
+        ]
+    },
+    {
+        "output": "bnL_TT_RA_mII",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnL_TT_RA",
+            "bnmII"
+        ]
+    },
+    {
+        "output": "bnM_RA_mUU",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnM_RA",
+            "bnmUU"
+        ]
+    },
+    {
+        "output": "bnM_RA_mU",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnM_RA",
+            "bnmU"
+        ]
+    },
+    {
+        "output": "bnM_TA_mU",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnM_TA",
+            "bnmU"
+        ]
+    },
+    {
+        "output": "bnNN_TTA_AUlengthmark",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnNN_TTA",
+            "bnAUlengthmark"
+        ]
+    },
+    {
+        "output": "bnNN_TTA_mII",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnNN_TTA",
+            "bnmII"
+        ]
+    },
+    {
+        "output": "bnNN_TTHA_mII",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnNN_TTHA",
+            "bnmII"
+        ]
+    },
+    {
+        "output": "bnNN_TTH_RA_mII",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnNN_TTH_RA",
+            "bnmII"
+        ]
+    },
+    {
+        "output": "bnNN_TT_RA_AUlengthmark",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnNN_TT_RA",
+            "bnAUlengthmark"
+        ]
+    },
+    {
+        "output": "bnNN_TT_RA_mII",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnNN_TT_RA",
+            "bnmII"
+        ]
+    },
+    {
+        "output": "bnN_D_RA_mUU",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnN_D_RA",
+            "bnmUU"
+        ]
+    },
+    {
+        "output": "bnN_D_RA_mU",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnN_D_RA",
+            "bnmU"
+        ]
+    },
+    {
+        "output": "bnN_TA_mU",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnN_TA",
+            "bnmU"
+        ]
+    },
+    {
+        "output": "bnN_TTA_AUlengthmark",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnN_TTA",
+            "bnAUlengthmark"
+        ]
+    },
+    {
+        "output": "bnN_TTA_mII",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnN_TTA",
+            "bnmII"
+        ]
+    },
+    {
+        "output": "bnN_TTHA_mII",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnN_TTHA",
+            "bnmII"
+        ]
+    },
+    {
+        "output": "bnN_TT_RA_AUlengthmark",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnN_TT_RA",
+            "bnAUlengthmark"
+        ]
+    },
+    {
+        "output": "bnN_TT_RA_mII",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnN_TT_RA",
+            "bnmII"
+        ]
+    },
+    {
+        "output": "bnP_TA_mU",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnP_TA",
+            "bnmU"
+        ]
+    },
+    {
+        "output": "bnP_TA_mII",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnP_TA",
+            "bnmII"
+        ]
+    },
+    {
+        "output": "bnP_TTA_AUlengthmark",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnP_TTA",
+            "bnAUlengthmark"
+        ]
+    },
+    {
+        "output": "bnP_TTA_mII",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnP_TTA",
+            "bnmII"
+        ]
+    },
+    {
+        "output": "bnP_T_RA_mII",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnP_T_RA",
+            "bnmII"
+        ]
+    },
+    {
+        "output": "bnSHA_mU",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnSHA",
+            "bnmU"
+        ]
+    },
+    {
+        "output": "bnSH_TA_mII",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnSH_TA",
+            "bnmII"
+        ]
+    },
+    {
+        "output": "bnSS_TTA_AUlengthmark",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnSS_TTA",
+            "bnAUlengthmark"
+        ]
+    },
+    {
+        "output": "bnSS_TTA_mII",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnSS_TTA",
+            "bnmII"
+        ]
+    },
+    {
+        "output": "bnSS_TTHA_mII",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnSS_TTHA",
+            "bnmII"
+        ]
+    },
+    {
+        "output": "bnSS_TT_RA_AUlengthmark",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnSS_TT_RA",
+            "bnAUlengthmark"
+        ]
+    },
+    {
+        "output": "bnSS_TT_RA_mII",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnSS_TT_RA",
+            "bnmII"
+        ]
+    },
+    {
+        "output": "bnS_LA_mUU",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnS_LA",
+            "bnmUU"
+        ]
+    },
+    {
+        "output": "bnS_LA_mU",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnS_LA",
+            "bnmU"
+        ]
+    },
+    {
+        "output": "bnS_RA_mUU",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnS_RA",
+            "bnmUU"
+        ]
+    },
+    {
+        "output": "bnS_RA_mU",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnS_RA",
+            "bnmU"
+        ]
+    },
+    {
+        "output": "bnS_TA_mU",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnS_TA",
+            "bnmU"
+        ]
+    },
+    {
+        "output": "bnS_TTA_AUlengthmark",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnS_TTA",
+            "bnAUlengthmark"
+        ]
+    },
+    {
+        "output": "bnS_TTA_mII",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnS_TTA",
+            "bnmII"
+        ]
+    },
+    {
+        "output": "bnS_TT_RA_AUlengthmark",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnS_TT_RA",
+            "bnAUlengthmark"
+        ]
+    },
+    {
+        "output": "bnS_TT_RA_mII",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnS_TT_RA",
+            "bnmII"
+        ]
+    },
+    {
+        "output": "bnTTA_AUlengthmark",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnTTA",
+            "bnAUlengthmark"
+        ]
+    },
+    {
+        "output": "bnTTA_mII",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnTTA",
+            "bnmII"
+        ]
+    },
+    {
+        "output": "bnTTHA_mII",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnTTHA",
+            "bnmII"
+        ]
+    },
+    {
+        "output": "bnTTH_RA_mII",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnTTH_RA",
+            "bnmII"
+        ]
+    },
+    {
+        "output": "bnTT_BA_AUlengthmark",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnTT_BA",
+            "bnAUlengthmark"
+        ]
+    },
+    {
+        "output": "bnTT_BA_mII",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnTT_BA",
+            "bnmII"
+        ]
+    },
+    {
+        "output": "bnTT_MA_AUlengthmark",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnTT_MA",
+            "bnAUlengthmark"
+        ]
+    },
+    {
+        "output": "bnTT_MA_mII",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnTT_MA",
+            "bnmII"
+        ]
+    },
+    {
+        "output": "bnTT_RA_AUlengthmark",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnTT_RA",
+            "bnAUlengthmark"
+        ]
+    },
+    {
+        "output": "bnTT_RA_mII",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnTT_RA",
+            "bnmII"
+        ]
+    },
+    {
+        "output": "bnTT_TTA_AUlengthmark",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnTT_TTA",
+            "bnAUlengthmark"
+        ]
+    },
+    {
+        "output": "bnTT_TTA_mII",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnTT_TTA",
+            "bnmII"
+        ]
+    },
+    {
+        "output": "bnTT_TT_RA_AUlengthmark",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnTT_TT_RA",
+            "bnAUlengthmark"
+        ]
+    },
+    {
+        "output": "bnTT_TT_RA_mII",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnTT_TT_RA",
+            "bnmII"
+        ]
+    },
+    {
+        "output": "bnNN_TTH_RA_mI",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnmI",
+            "bnNN_TTH_RA"
+        ]
+    },
+    {
+        "output": "bnTTH_RA_mI",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnmI",
+            "bnTTH_RA"
+        ]
+    },
+    {
+        "output": "bnSS_TTHA_mI",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnmI",
+            "bnSS_TTHA"
+        ]
+    },
+    {
+        "output": "bnN_TTHA_mI",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnmI",
+            "bnN_TTHA"
+        ]
+    },
+    {
+        "output": "bnNN_TTHA_mI",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnmI",
+            "bnNN_TTHA"
+        ]
+    },
+    {
+        "output": "bnTTHA_mI",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnmI",
+            "bnTTHA"
+        ]
+    },
+    {
+        "output": "bnS_TT_RA_mI",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnmI",
+            "bnS_TT_RA"
+        ]
+    },
+    {
+        "output": "bnSS_TT_RA_mI",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnmI",
+            "bnSS_TT_RA"
+        ]
+    },
+    {
+        "output": "bnL_TT_RA_mI",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnmI",
+            "bnL_TT_RA"
+        ]
+    },
+    {
+        "output": "bnN_TT_RA_mI",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnmI",
+            "bnN_TT_RA"
+        ]
+    },
+    {
+        "output": "bnNN_TT_RA_mI",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnmI",
+            "bnNN_TT_RA"
+        ]
+    },
+    {
+        "output": "bnTT_TT_RA_mI",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnmI",
+            "bnTT_TT_RA"
+        ]
+    },
+    {
+        "output": "bnK_TT_RA_mI",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnmI",
+            "bnK_TT_RA"
+        ]
+    },
+    {
+        "output": "bnTT_RA_mI",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnmI",
+            "bnTT_RA"
+        ]
+    },
+    {
+        "output": "bnTT_MA_mI",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnmI",
+            "bnTT_MA"
+        ]
+    },
+    {
+        "output": "bnTT_BA_mI",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnmI",
+            "bnTT_BA"
+        ]
+    },
+    {
+        "output": "bnS_TTA_mI",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnmI",
+            "bnS_TTA"
+        ]
+    },
+    {
+        "output": "bnP_TTA_mI",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnmI",
+            "bnP_TTA"
+        ]
+    },
+    {
+        "output": "bnSS_TTA_mI",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnmI",
+            "bnSS_TTA"
+        ]
+    },
+    {
+        "output": "bnL_TTA_mI",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnmI",
+            "bnL_TTA"
+        ]
+    },
+    {
+        "output": "bnN_TTA_mI",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnmI",
+            "bnN_TTA"
+        ]
+    },
+    {
+        "output": "bnNN_TTA_mI",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnmI",
+            "bnNN_TTA"
+        ]
+    },
+    {
+        "output": "bnTT_TTA_mI",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnmI",
+            "bnTT_TTA"
+        ]
+    },
+    {
+        "output": "bnK_TTA_mI",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnmI",
+            "bnK_TTA"
+        ]
+    },
+    {
+        "output": "bnTTA_mI",
+        "index": "26",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnmI",
+            "bnTTA"
+        ]
+    },
+    {
+        "output": "bnReph_Candrabindu",
+        "index": "31",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bnReph",
+            "bnCandrabindu"
+        ]
+    }
+]

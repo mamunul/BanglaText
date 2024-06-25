@@ -1,0 +1,2154 @@
+[
+    {
+        "code": 32,
+        "name": "space"
+    },
+    {
+        "code": 33,
+        "name": "exclam"
+    },
+    {
+        "code": 34,
+        "name": "quotedbl"
+    },
+    {
+        "code": 35,
+        "name": "numbersign"
+    },
+    {
+        "code": 36,
+        "name": "dollar"
+    },
+    {
+        "code": 37,
+        "name": "percent"
+    },
+    {
+        "code": 38,
+        "name": "ampersand"
+    },
+    {
+        "code": 39,
+        "name": "quotesingle"
+    },
+    {
+        "code": 40,
+        "name": "parenleft"
+    },
+    {
+        "code": 41,
+        "name": "parenright"
+    },
+    {
+        "code": 42,
+        "name": "asterisk"
+    },
+    {
+        "code": 43,
+        "name": "plus"
+    },
+    {
+        "code": 44,
+        "name": "comma"
+    },
+    {
+        "code": 45,
+        "name": "hyphen"
+    },
+    {
+        "code": 46,
+        "name": "period"
+    },
+    {
+        "code": 47,
+        "name": "slash"
+    },
+    {
+        "code": 48,
+        "name": "zero"
+    },
+    {
+        "code": 49,
+        "name": "one"
+    },
+    {
+        "code": 50,
+        "name": "two"
+    },
+    {
+        "code": 51,
+        "name": "three"
+    },
+    {
+        "code": 52,
+        "name": "four"
+    },
+    {
+        "code": 53,
+        "name": "five"
+    },
+    {
+        "code": 54,
+        "name": "six"
+    },
+    {
+        "code": 55,
+        "name": "seven"
+    },
+    {
+        "code": 56,
+        "name": "eight"
+    },
+    {
+        "code": 57,
+        "name": "nine"
+    },
+    {
+        "code": 58,
+        "name": "colon"
+    },
+    {
+        "code": 59,
+        "name": "semicolon"
+    },
+    {
+        "code": 60,
+        "name": "less"
+    },
+    {
+        "code": 61,
+        "name": "equal"
+    },
+    {
+        "code": 62,
+        "name": "greater"
+    },
+    {
+        "code": 63,
+        "name": "question"
+    },
+    {
+        "code": 64,
+        "name": "at"
+    },
+    {
+        "code": 65,
+        "name": "A"
+    },
+    {
+        "code": 66,
+        "name": "B"
+    },
+    {
+        "code": 67,
+        "name": "C"
+    },
+    {
+        "code": 68,
+        "name": "D"
+    },
+    {
+        "code": 69,
+        "name": "E"
+    },
+    {
+        "code": 70,
+        "name": "F"
+    },
+    {
+        "code": 71,
+        "name": "G"
+    },
+    {
+        "code": 72,
+        "name": "H"
+    },
+    {
+        "code": 73,
+        "name": "I"
+    },
+    {
+        "code": 74,
+        "name": "J"
+    },
+    {
+        "code": 75,
+        "name": "K"
+    },
+    {
+        "code": 76,
+        "name": "L"
+    },
+    {
+        "code": 77,
+        "name": "M"
+    },
+    {
+        "code": 78,
+        "name": "N"
+    },
+    {
+        "code": 79,
+        "name": "O"
+    },
+    {
+        "code": 80,
+        "name": "P"
+    },
+    {
+        "code": 81,
+        "name": "Q"
+    },
+    {
+        "code": 82,
+        "name": "R"
+    },
+    {
+        "code": 83,
+        "name": "S"
+    },
+    {
+        "code": 84,
+        "name": "T"
+    },
+    {
+        "code": 85,
+        "name": "U"
+    },
+    {
+        "code": 86,
+        "name": "V"
+    },
+    {
+        "code": 87,
+        "name": "W"
+    },
+    {
+        "code": 88,
+        "name": "X"
+    },
+    {
+        "code": 89,
+        "name": "Y"
+    },
+    {
+        "code": 90,
+        "name": "Z"
+    },
+    {
+        "code": 91,
+        "name": "bracketleft"
+    },
+    {
+        "code": 92,
+        "name": "backslash"
+    },
+    {
+        "code": 93,
+        "name": "bracketright"
+    },
+    {
+        "code": 94,
+        "name": "asciicircum"
+    },
+    {
+        "code": 95,
+        "name": "underscore"
+    },
+    {
+        "code": 96,
+        "name": "grave"
+    },
+    {
+        "code": 97,
+        "name": "a"
+    },
+    {
+        "code": 98,
+        "name": "b"
+    },
+    {
+        "code": 99,
+        "name": "c"
+    },
+    {
+        "code": 100,
+        "name": "d"
+    },
+    {
+        "code": 101,
+        "name": "e"
+    },
+    {
+        "code": 102,
+        "name": "f"
+    },
+    {
+        "code": 103,
+        "name": "g"
+    },
+    {
+        "code": 104,
+        "name": "h"
+    },
+    {
+        "code": 105,
+        "name": "i"
+    },
+    {
+        "code": 106,
+        "name": "j"
+    },
+    {
+        "code": 107,
+        "name": "k"
+    },
+    {
+        "code": 108,
+        "name": "l"
+    },
+    {
+        "code": 109,
+        "name": "m"
+    },
+    {
+        "code": 110,
+        "name": "n"
+    },
+    {
+        "code": 111,
+        "name": "o"
+    },
+    {
+        "code": 112,
+        "name": "p"
+    },
+    {
+        "code": 113,
+        "name": "q"
+    },
+    {
+        "code": 114,
+        "name": "r"
+    },
+    {
+        "code": 115,
+        "name": "s"
+    },
+    {
+        "code": 116,
+        "name": "t"
+    },
+    {
+        "code": 117,
+        "name": "u"
+    },
+    {
+        "code": 118,
+        "name": "v"
+    },
+    {
+        "code": 119,
+        "name": "w"
+    },
+    {
+        "code": 120,
+        "name": "x"
+    },
+    {
+        "code": 121,
+        "name": "y"
+    },
+    {
+        "code": 122,
+        "name": "z"
+    },
+    {
+        "code": 123,
+        "name": "braceleft"
+    },
+    {
+        "code": 124,
+        "name": "bar"
+    },
+    {
+        "code": 125,
+        "name": "braceright"
+    },
+    {
+        "code": 126,
+        "name": "asciitilde"
+    },
+    {
+        "code": 162,
+        "name": "cent"
+    },
+    {
+        "code": 168,
+        "name": "dieresis"
+    },
+    {
+        "code": 180,
+        "name": "acute"
+    },
+    {
+        "code": 183,
+        "name": "periodcentered"
+    },
+    {
+        "code": 184,
+        "name": "cedilla"
+    },
+    {
+        "code": 191,
+        "name": "questiondown"
+    },
+    {
+        "code": 215,
+        "name": "multiply"
+    },
+    {
+        "code": 247,
+        "name": "divide"
+    },
+    {
+        "code": 710,
+        "name": "circumflex"
+    },
+    {
+        "code": 711,
+        "name": "caron"
+    },
+    {
+        "code": 730,
+        "name": "ring"
+    },
+    {
+        "code": 2404,
+        "name": "bn_dari"
+    },
+    {
+        "code": 2405,
+        "name": "bn_double_dari"
+    },
+    {
+        "code": 2433,
+        "name": "u0981"
+    },
+    {
+        "code": 2434,
+        "name": "u0982"
+    },
+    {
+        "code": 2435,
+        "name": "u0983"
+    },
+    {
+        "code": 2437,
+        "name": "u0985"
+    },
+    {
+        "code": 2438,
+        "name": "u0986"
+    },
+    {
+        "code": 2439,
+        "name": "u0987"
+    },
+    {
+        "code": 2440,
+        "name": "u0988"
+    },
+    {
+        "code": 2441,
+        "name": "u0989"
+    },
+    {
+        "code": 2442,
+        "name": "u098A"
+    },
+    {
+        "code": 2443,
+        "name": "u098B"
+    },
+    {
+        "code": 2444,
+        "name": "u098C"
+    },
+    {
+        "code": 2447,
+        "name": "u098F"
+    },
+    {
+        "code": 2448,
+        "name": "u0990"
+    },
+    {
+        "code": 2451,
+        "name": "u0993"
+    },
+    {
+        "code": 2452,
+        "name": "u0994"
+    },
+    {
+        "code": 2453,
+        "name": "u0995"
+    },
+    {
+        "code": 2454,
+        "name": "u0996"
+    },
+    {
+        "code": 2455,
+        "name": "u0997"
+    },
+    {
+        "code": 2456,
+        "name": "u0998"
+    },
+    {
+        "code": 2457,
+        "name": "u0999"
+    },
+    {
+        "code": 2458,
+        "name": "u099A"
+    },
+    {
+        "code": 2459,
+        "name": "u099B"
+    },
+    {
+        "code": 2460,
+        "name": "u099C"
+    },
+    {
+        "code": 2461,
+        "name": "u099D"
+    },
+    {
+        "code": 2462,
+        "name": "u099E"
+    },
+    {
+        "code": 2463,
+        "name": "u099F"
+    },
+    {
+        "code": 2464,
+        "name": "u09A0"
+    },
+    {
+        "code": 2465,
+        "name": "u09A1"
+    },
+    {
+        "code": 2466,
+        "name": "u09A2"
+    },
+    {
+        "code": 2467,
+        "name": "u09A3"
+    },
+    {
+        "code": 2468,
+        "name": "u09A4"
+    },
+    {
+        "code": 2469,
+        "name": "u09A5"
+    },
+    {
+        "code": 2470,
+        "name": "u09A6"
+    },
+    {
+        "code": 2471,
+        "name": "u09A7"
+    },
+    {
+        "code": 2472,
+        "name": "u09A8"
+    },
+    {
+        "code": 2474,
+        "name": "u09AA"
+    },
+    {
+        "code": 2475,
+        "name": "u09AB"
+    },
+    {
+        "code": 2476,
+        "name": "u09AC"
+    },
+    {
+        "code": 2477,
+        "name": "u09AD"
+    },
+    {
+        "code": 2478,
+        "name": "u09AE"
+    },
+    {
+        "code": 2479,
+        "name": "u09AF"
+    },
+    {
+        "code": 2480,
+        "name": "u09B0"
+    },
+    {
+        "code": 2482,
+        "name": "u09B2"
+    },
+    {
+        "code": 2486,
+        "name": "u09B6"
+    },
+    {
+        "code": 2487,
+        "name": "u09B7"
+    },
+    {
+        "code": 2488,
+        "name": "u09B8"
+    },
+    {
+        "code": 2489,
+        "name": "u09B9"
+    },
+    {
+        "code": 2492,
+        "name": "u09BC"
+    },
+    {
+        "code": 2493,
+        "name": "u09BD"
+    },
+    {
+        "code": 2494,
+        "name": "u09BE"
+    },
+    {
+        "code": 2495,
+        "name": "u09BF"
+    },
+    {
+        "code": 2496,
+        "name": "u09C0"
+    },
+    {
+        "code": 2497,
+        "name": "u09C1"
+    },
+    {
+        "code": 2498,
+        "name": "u09C2"
+    },
+    {
+        "code": 2499,
+        "name": "u09C3"
+    },
+    {
+        "code": 2500,
+        "name": "u09C4"
+    },
+    {
+        "code": 2503,
+        "name": "u09C7"
+    },
+    {
+        "code": 2504,
+        "name": "u09C8"
+    },
+    {
+        "code": 2507,
+        "name": "u09CB"
+    },
+    {
+        "code": 2508,
+        "name": "u09CC"
+    },
+    {
+        "code": 2509,
+        "name": "u09CD"
+    },
+    {
+        "code": 2510,
+        "name": "u09A4_u09CD"
+    },
+    {
+        "code": 2519,
+        "name": "u09D7"
+    },
+    {
+        "code": 2524,
+        "name": "u09DC"
+    },
+    {
+        "code": 2525,
+        "name": "u09DD"
+    },
+    {
+        "code": 2527,
+        "name": "u09DF"
+    },
+    {
+        "code": 2528,
+        "name": "u09E0"
+    },
+    {
+        "code": 2529,
+        "name": "u09E1"
+    },
+    {
+        "code": 2530,
+        "name": "u09E2"
+    },
+    {
+        "code": 2531,
+        "name": "u09E3"
+    },
+    {
+        "code": 2534,
+        "name": "u09E6"
+    },
+    {
+        "code": 2535,
+        "name": "u09E7"
+    },
+    {
+        "code": 2536,
+        "name": "u09E8"
+    },
+    {
+        "code": 2537,
+        "name": "u09E9"
+    },
+    {
+        "code": 2538,
+        "name": "u09EA"
+    },
+    {
+        "code": 2539,
+        "name": "u09EB"
+    },
+    {
+        "code": 2540,
+        "name": "u09EC"
+    },
+    {
+        "code": 2541,
+        "name": "u09ED"
+    },
+    {
+        "code": 2542,
+        "name": "u09EE"
+    },
+    {
+        "code": 2543,
+        "name": "u09EF"
+    },
+    {
+        "code": 2544,
+        "name": "u09F0"
+    },
+    {
+        "code": 2545,
+        "name": "u09F1"
+    },
+    {
+        "code": 2546,
+        "name": "u09F2"
+    },
+    {
+        "code": 2547,
+        "name": "u09F3"
+    },
+    {
+        "code": 2548,
+        "name": "u09F4"
+    },
+    {
+        "code": 2549,
+        "name": "u09F5"
+    },
+    {
+        "code": 2550,
+        "name": "u09F6"
+    },
+    {
+        "code": 2551,
+        "name": "u09F7"
+    },
+    {
+        "code": 2552,
+        "name": "u09F8"
+    },
+    {
+        "code": 2553,
+        "name": "u09F9"
+    },
+    {
+        "code": 2554,
+        "name": "u09FA"
+    },
+    {
+        "code": 8204,
+        "name": "afii61664"
+    },
+    {
+        "code": 8205,
+        "name": "afii301"
+    },
+    {
+        "code": 8211,
+        "name": "endash"
+    },
+    {
+        "code": 8212,
+        "name": "emdash"
+    },
+    {
+        "code": 8216,
+        "name": "quoteleft"
+    },
+    {
+        "code": 8217,
+        "name": "quoteright"
+    },
+    {
+        "code": 8220,
+        "name": "quotedblleft"
+    },
+    {
+        "code": 8221,
+        "name": "quotedblright"
+    },
+    {
+        "code": 8230,
+        "name": "ellipsis"
+    },
+    {
+        "code": 8722,
+        "name": "minus"
+    },
+    {
+        "code": 9676,
+        "name": "uni25CC"
+    },
+    {
+        "code": 0,
+        "name": "NULL"
+    },
+    {
+        "code": 8,
+        "name": "NULL"
+    },
+    {
+        "code": 9,
+        "name": "nonmarkingreturn"
+    },
+    {
+        "code": 10,
+        "name": "nonmarkingreturn"
+    },
+    {
+        "code": 13,
+        "name": "nonmarkingreturn"
+    },
+    {
+        "code": 29,
+        "name": "NULL"
+    },
+    {
+        "code": 32,
+        "name": "space"
+    },
+    {
+        "code": 33,
+        "name": "exclam"
+    },
+    {
+        "code": 34,
+        "name": "quotedbl"
+    },
+    {
+        "code": 35,
+        "name": "numbersign"
+    },
+    {
+        "code": 36,
+        "name": "dollar"
+    },
+    {
+        "code": 37,
+        "name": "percent"
+    },
+    {
+        "code": 38,
+        "name": "ampersand"
+    },
+    {
+        "code": 39,
+        "name": "quotesingle"
+    },
+    {
+        "code": 40,
+        "name": "parenleft"
+    },
+    {
+        "code": 41,
+        "name": "parenright"
+    },
+    {
+        "code": 42,
+        "name": "asterisk"
+    },
+    {
+        "code": 43,
+        "name": "plus"
+    },
+    {
+        "code": 44,
+        "name": "comma"
+    },
+    {
+        "code": 45,
+        "name": "hyphen"
+    },
+    {
+        "code": 46,
+        "name": "period"
+    },
+    {
+        "code": 47,
+        "name": "slash"
+    },
+    {
+        "code": 48,
+        "name": "zero"
+    },
+    {
+        "code": 49,
+        "name": "one"
+    },
+    {
+        "code": 50,
+        "name": "two"
+    },
+    {
+        "code": 51,
+        "name": "three"
+    },
+    {
+        "code": 52,
+        "name": "four"
+    },
+    {
+        "code": 53,
+        "name": "five"
+    },
+    {
+        "code": 54,
+        "name": "six"
+    },
+    {
+        "code": 55,
+        "name": "seven"
+    },
+    {
+        "code": 56,
+        "name": "eight"
+    },
+    {
+        "code": 57,
+        "name": "nine"
+    },
+    {
+        "code": 58,
+        "name": "colon"
+    },
+    {
+        "code": 59,
+        "name": "semicolon"
+    },
+    {
+        "code": 60,
+        "name": "less"
+    },
+    {
+        "code": 61,
+        "name": "equal"
+    },
+    {
+        "code": 62,
+        "name": "greater"
+    },
+    {
+        "code": 63,
+        "name": "question"
+    },
+    {
+        "code": 64,
+        "name": "at"
+    },
+    {
+        "code": 65,
+        "name": "A"
+    },
+    {
+        "code": 66,
+        "name": "B"
+    },
+    {
+        "code": 67,
+        "name": "C"
+    },
+    {
+        "code": 68,
+        "name": "D"
+    },
+    {
+        "code": 69,
+        "name": "E"
+    },
+    {
+        "code": 70,
+        "name": "F"
+    },
+    {
+        "code": 71,
+        "name": "G"
+    },
+    {
+        "code": 72,
+        "name": "H"
+    },
+    {
+        "code": 73,
+        "name": "I"
+    },
+    {
+        "code": 74,
+        "name": "J"
+    },
+    {
+        "code": 75,
+        "name": "K"
+    },
+    {
+        "code": 76,
+        "name": "L"
+    },
+    {
+        "code": 77,
+        "name": "M"
+    },
+    {
+        "code": 78,
+        "name": "N"
+    },
+    {
+        "code": 79,
+        "name": "O"
+    },
+    {
+        "code": 80,
+        "name": "P"
+    },
+    {
+        "code": 81,
+        "name": "Q"
+    },
+    {
+        "code": 82,
+        "name": "R"
+    },
+    {
+        "code": 83,
+        "name": "S"
+    },
+    {
+        "code": 84,
+        "name": "T"
+    },
+    {
+        "code": 85,
+        "name": "U"
+    },
+    {
+        "code": 86,
+        "name": "V"
+    },
+    {
+        "code": 87,
+        "name": "W"
+    },
+    {
+        "code": 88,
+        "name": "X"
+    },
+    {
+        "code": 89,
+        "name": "Y"
+    },
+    {
+        "code": 90,
+        "name": "Z"
+    },
+    {
+        "code": 91,
+        "name": "bracketleft"
+    },
+    {
+        "code": 92,
+        "name": "backslash"
+    },
+    {
+        "code": 93,
+        "name": "bracketright"
+    },
+    {
+        "code": 94,
+        "name": "asciicircum"
+    },
+    {
+        "code": 95,
+        "name": "underscore"
+    },
+    {
+        "code": 96,
+        "name": "grave"
+    },
+    {
+        "code": 97,
+        "name": "a"
+    },
+    {
+        "code": 98,
+        "name": "b"
+    },
+    {
+        "code": 99,
+        "name": "c"
+    },
+    {
+        "code": 100,
+        "name": "d"
+    },
+    {
+        "code": 101,
+        "name": "e"
+    },
+    {
+        "code": 102,
+        "name": "f"
+    },
+    {
+        "code": 103,
+        "name": "g"
+    },
+    {
+        "code": 104,
+        "name": "h"
+    },
+    {
+        "code": 105,
+        "name": "i"
+    },
+    {
+        "code": 106,
+        "name": "j"
+    },
+    {
+        "code": 107,
+        "name": "k"
+    },
+    {
+        "code": 108,
+        "name": "l"
+    },
+    {
+        "code": 109,
+        "name": "m"
+    },
+    {
+        "code": 110,
+        "name": "n"
+    },
+    {
+        "code": 111,
+        "name": "o"
+    },
+    {
+        "code": 112,
+        "name": "p"
+    },
+    {
+        "code": 113,
+        "name": "q"
+    },
+    {
+        "code": 114,
+        "name": "r"
+    },
+    {
+        "code": 115,
+        "name": "s"
+    },
+    {
+        "code": 116,
+        "name": "t"
+    },
+    {
+        "code": 117,
+        "name": "u"
+    },
+    {
+        "code": 118,
+        "name": "v"
+    },
+    {
+        "code": 119,
+        "name": "w"
+    },
+    {
+        "code": 120,
+        "name": "x"
+    },
+    {
+        "code": 121,
+        "name": "y"
+    },
+    {
+        "code": 122,
+        "name": "z"
+    },
+    {
+        "code": 123,
+        "name": "braceleft"
+    },
+    {
+        "code": 124,
+        "name": "bar"
+    },
+    {
+        "code": 125,
+        "name": "braceright"
+    },
+    {
+        "code": 126,
+        "name": "asciitilde"
+    },
+    {
+        "code": 162,
+        "name": "cent"
+    },
+    {
+        "code": 171,
+        "name": "acute"
+    },
+    {
+        "code": 172,
+        "name": "dieresis"
+    },
+    {
+        "code": 192,
+        "name": "questiondown"
+    },
+    {
+        "code": 201,
+        "name": "ellipsis"
+    },
+    {
+        "code": 208,
+        "name": "endash"
+    },
+    {
+        "code": 209,
+        "name": "emdash"
+    },
+    {
+        "code": 210,
+        "name": "quotedblleft"
+    },
+    {
+        "code": 211,
+        "name": "quotedblright"
+    },
+    {
+        "code": 212,
+        "name": "quoteleft"
+    },
+    {
+        "code": 213,
+        "name": "quoteright"
+    },
+    {
+        "code": 214,
+        "name": "divide"
+    },
+    {
+        "code": 225,
+        "name": "periodcentered"
+    },
+    {
+        "code": 246,
+        "name": "circumflex"
+    },
+    {
+        "code": 251,
+        "name": "ring"
+    },
+    {
+        "code": 252,
+        "name": "cedilla"
+    },
+    {
+        "code": 255,
+        "name": "caron"
+    },
+    {
+        "code": 32,
+        "name": "space"
+    },
+    {
+        "code": 33,
+        "name": "exclam"
+    },
+    {
+        "code": 34,
+        "name": "quotedbl"
+    },
+    {
+        "code": 35,
+        "name": "numbersign"
+    },
+    {
+        "code": 36,
+        "name": "dollar"
+    },
+    {
+        "code": 37,
+        "name": "percent"
+    },
+    {
+        "code": 38,
+        "name": "ampersand"
+    },
+    {
+        "code": 39,
+        "name": "quotesingle"
+    },
+    {
+        "code": 40,
+        "name": "parenleft"
+    },
+    {
+        "code": 41,
+        "name": "parenright"
+    },
+    {
+        "code": 42,
+        "name": "asterisk"
+    },
+    {
+        "code": 43,
+        "name": "plus"
+    },
+    {
+        "code": 44,
+        "name": "comma"
+    },
+    {
+        "code": 45,
+        "name": "hyphen"
+    },
+    {
+        "code": 46,
+        "name": "period"
+    },
+    {
+        "code": 47,
+        "name": "slash"
+    },
+    {
+        "code": 48,
+        "name": "zero"
+    },
+    {
+        "code": 49,
+        "name": "one"
+    },
+    {
+        "code": 50,
+        "name": "two"
+    },
+    {
+        "code": 51,
+        "name": "three"
+    },
+    {
+        "code": 52,
+        "name": "four"
+    },
+    {
+        "code": 53,
+        "name": "five"
+    },
+    {
+        "code": 54,
+        "name": "six"
+    },
+    {
+        "code": 55,
+        "name": "seven"
+    },
+    {
+        "code": 56,
+        "name": "eight"
+    },
+    {
+        "code": 57,
+        "name": "nine"
+    },
+    {
+        "code": 58,
+        "name": "colon"
+    },
+    {
+        "code": 59,
+        "name": "semicolon"
+    },
+    {
+        "code": 60,
+        "name": "less"
+    },
+    {
+        "code": 61,
+        "name": "equal"
+    },
+    {
+        "code": 62,
+        "name": "greater"
+    },
+    {
+        "code": 63,
+        "name": "question"
+    },
+    {
+        "code": 64,
+        "name": "at"
+    },
+    {
+        "code": 65,
+        "name": "A"
+    },
+    {
+        "code": 66,
+        "name": "B"
+    },
+    {
+        "code": 67,
+        "name": "C"
+    },
+    {
+        "code": 68,
+        "name": "D"
+    },
+    {
+        "code": 69,
+        "name": "E"
+    },
+    {
+        "code": 70,
+        "name": "F"
+    },
+    {
+        "code": 71,
+        "name": "G"
+    },
+    {
+        "code": 72,
+        "name": "H"
+    },
+    {
+        "code": 73,
+        "name": "I"
+    },
+    {
+        "code": 74,
+        "name": "J"
+    },
+    {
+        "code": 75,
+        "name": "K"
+    },
+    {
+        "code": 76,
+        "name": "L"
+    },
+    {
+        "code": 77,
+        "name": "M"
+    },
+    {
+        "code": 78,
+        "name": "N"
+    },
+    {
+        "code": 79,
+        "name": "O"
+    },
+    {
+        "code": 80,
+        "name": "P"
+    },
+    {
+        "code": 81,
+        "name": "Q"
+    },
+    {
+        "code": 82,
+        "name": "R"
+    },
+    {
+        "code": 83,
+        "name": "S"
+    },
+    {
+        "code": 84,
+        "name": "T"
+    },
+    {
+        "code": 85,
+        "name": "U"
+    },
+    {
+        "code": 86,
+        "name": "V"
+    },
+    {
+        "code": 87,
+        "name": "W"
+    },
+    {
+        "code": 88,
+        "name": "X"
+    },
+    {
+        "code": 89,
+        "name": "Y"
+    },
+    {
+        "code": 90,
+        "name": "Z"
+    },
+    {
+        "code": 91,
+        "name": "bracketleft"
+    },
+    {
+        "code": 92,
+        "name": "backslash"
+    },
+    {
+        "code": 93,
+        "name": "bracketright"
+    },
+    {
+        "code": 94,
+        "name": "asciicircum"
+    },
+    {
+        "code": 95,
+        "name": "underscore"
+    },
+    {
+        "code": 96,
+        "name": "grave"
+    },
+    {
+        "code": 97,
+        "name": "a"
+    },
+    {
+        "code": 98,
+        "name": "b"
+    },
+    {
+        "code": 99,
+        "name": "c"
+    },
+    {
+        "code": 100,
+        "name": "d"
+    },
+    {
+        "code": 101,
+        "name": "e"
+    },
+    {
+        "code": 102,
+        "name": "f"
+    },
+    {
+        "code": 103,
+        "name": "g"
+    },
+    {
+        "code": 104,
+        "name": "h"
+    },
+    {
+        "code": 105,
+        "name": "i"
+    },
+    {
+        "code": 106,
+        "name": "j"
+    },
+    {
+        "code": 107,
+        "name": "k"
+    },
+    {
+        "code": 108,
+        "name": "l"
+    },
+    {
+        "code": 109,
+        "name": "m"
+    },
+    {
+        "code": 110,
+        "name": "n"
+    },
+    {
+        "code": 111,
+        "name": "o"
+    },
+    {
+        "code": 112,
+        "name": "p"
+    },
+    {
+        "code": 113,
+        "name": "q"
+    },
+    {
+        "code": 114,
+        "name": "r"
+    },
+    {
+        "code": 115,
+        "name": "s"
+    },
+    {
+        "code": 116,
+        "name": "t"
+    },
+    {
+        "code": 117,
+        "name": "u"
+    },
+    {
+        "code": 118,
+        "name": "v"
+    },
+    {
+        "code": 119,
+        "name": "w"
+    },
+    {
+        "code": 120,
+        "name": "x"
+    },
+    {
+        "code": 121,
+        "name": "y"
+    },
+    {
+        "code": 122,
+        "name": "z"
+    },
+    {
+        "code": 123,
+        "name": "braceleft"
+    },
+    {
+        "code": 124,
+        "name": "bar"
+    },
+    {
+        "code": 125,
+        "name": "braceright"
+    },
+    {
+        "code": 126,
+        "name": "asciitilde"
+    },
+    {
+        "code": 162,
+        "name": "cent"
+    },
+    {
+        "code": 168,
+        "name": "dieresis"
+    },
+    {
+        "code": 180,
+        "name": "acute"
+    },
+    {
+        "code": 183,
+        "name": "periodcentered"
+    },
+    {
+        "code": 184,
+        "name": "cedilla"
+    },
+    {
+        "code": 191,
+        "name": "questiondown"
+    },
+    {
+        "code": 215,
+        "name": "multiply"
+    },
+    {
+        "code": 247,
+        "name": "divide"
+    },
+    {
+        "code": 710,
+        "name": "circumflex"
+    },
+    {
+        "code": 711,
+        "name": "caron"
+    },
+    {
+        "code": 730,
+        "name": "ring"
+    },
+    {
+        "code": 2404,
+        "name": "bn_dari"
+    },
+    {
+        "code": 2405,
+        "name": "bn_double_dari"
+    },
+    {
+        "code": 2433,
+        "name": "u0981"
+    },
+    {
+        "code": 2434,
+        "name": "u0982"
+    },
+    {
+        "code": 2435,
+        "name": "u0983"
+    },
+    {
+        "code": 2437,
+        "name": "u0985"
+    },
+    {
+        "code": 2438,
+        "name": "u0986"
+    },
+    {
+        "code": 2439,
+        "name": "u0987"
+    },
+    {
+        "code": 2440,
+        "name": "u0988"
+    },
+    {
+        "code": 2441,
+        "name": "u0989"
+    },
+    {
+        "code": 2442,
+        "name": "u098A"
+    },
+    {
+        "code": 2443,
+        "name": "u098B"
+    },
+    {
+        "code": 2444,
+        "name": "u098C"
+    },
+    {
+        "code": 2447,
+        "name": "u098F"
+    },
+    {
+        "code": 2448,
+        "name": "u0990"
+    },
+    {
+        "code": 2451,
+        "name": "u0993"
+    },
+    {
+        "code": 2452,
+        "name": "u0994"
+    },
+    {
+        "code": 2453,
+        "name": "u0995"
+    },
+    {
+        "code": 2454,
+        "name": "u0996"
+    },
+    {
+        "code": 2455,
+        "name": "u0997"
+    },
+    {
+        "code": 2456,
+        "name": "u0998"
+    },
+    {
+        "code": 2457,
+        "name": "u0999"
+    },
+    {
+        "code": 2458,
+        "name": "u099A"
+    },
+    {
+        "code": 2459,
+        "name": "u099B"
+    },
+    {
+        "code": 2460,
+        "name": "u099C"
+    },
+    {
+        "code": 2461,
+        "name": "u099D"
+    },
+    {
+        "code": 2462,
+        "name": "u099E"
+    },
+    {
+        "code": 2463,
+        "name": "u099F"
+    },
+    {
+        "code": 2464,
+        "name": "u09A0"
+    },
+    {
+        "code": 2465,
+        "name": "u09A1"
+    },
+    {
+        "code": 2466,
+        "name": "u09A2"
+    },
+    {
+        "code": 2467,
+        "name": "u09A3"
+    },
+    {
+        "code": 2468,
+        "name": "u09A4"
+    },
+    {
+        "code": 2469,
+        "name": "u09A5"
+    },
+    {
+        "code": 2470,
+        "name": "u09A6"
+    },
+    {
+        "code": 2471,
+        "name": "u09A7"
+    },
+    {
+        "code": 2472,
+        "name": "u09A8"
+    },
+    {
+        "code": 2474,
+        "name": "u09AA"
+    },
+    {
+        "code": 2475,
+        "name": "u09AB"
+    },
+    {
+        "code": 2476,
+        "name": "u09AC"
+    },
+    {
+        "code": 2477,
+        "name": "u09AD"
+    },
+    {
+        "code": 2478,
+        "name": "u09AE"
+    },
+    {
+        "code": 2479,
+        "name": "u09AF"
+    },
+    {
+        "code": 2480,
+        "name": "u09B0"
+    },
+    {
+        "code": 2482,
+        "name": "u09B2"
+    },
+    {
+        "code": 2486,
+        "name": "u09B6"
+    },
+    {
+        "code": 2487,
+        "name": "u09B7"
+    },
+    {
+        "code": 2488,
+        "name": "u09B8"
+    },
+    {
+        "code": 2489,
+        "name": "u09B9"
+    },
+    {
+        "code": 2492,
+        "name": "u09BC"
+    },
+    {
+        "code": 2493,
+        "name": "u09BD"
+    },
+    {
+        "code": 2494,
+        "name": "u09BE"
+    },
+    {
+        "code": 2495,
+        "name": "u09BF"
+    },
+    {
+        "code": 2496,
+        "name": "u09C0"
+    },
+    {
+        "code": 2497,
+        "name": "u09C1"
+    },
+    {
+        "code": 2498,
+        "name": "u09C2"
+    },
+    {
+        "code": 2499,
+        "name": "u09C3"
+    },
+    {
+        "code": 2500,
+        "name": "u09C4"
+    },
+    {
+        "code": 2503,
+        "name": "u09C7"
+    },
+    {
+        "code": 2504,
+        "name": "u09C8"
+    },
+    {
+        "code": 2507,
+        "name": "u09CB"
+    },
+    {
+        "code": 2508,
+        "name": "u09CC"
+    },
+    {
+        "code": 2509,
+        "name": "u09CD"
+    },
+    {
+        "code": 2510,
+        "name": "u09A4_u09CD"
+    },
+    {
+        "code": 2519,
+        "name": "u09D7"
+    },
+    {
+        "code": 2524,
+        "name": "u09DC"
+    },
+    {
+        "code": 2525,
+        "name": "u09DD"
+    },
+    {
+        "code": 2527,
+        "name": "u09DF"
+    },
+    {
+        "code": 2528,
+        "name": "u09E0"
+    },
+    {
+        "code": 2529,
+        "name": "u09E1"
+    },
+    {
+        "code": 2530,
+        "name": "u09E2"
+    },
+    {
+        "code": 2531,
+        "name": "u09E3"
+    },
+    {
+        "code": 2534,
+        "name": "u09E6"
+    },
+    {
+        "code": 2535,
+        "name": "u09E7"
+    },
+    {
+        "code": 2536,
+        "name": "u09E8"
+    },
+    {
+        "code": 2537,
+        "name": "u09E9"
+    },
+    {
+        "code": 2538,
+        "name": "u09EA"
+    },
+    {
+        "code": 2539,
+        "name": "u09EB"
+    },
+    {
+        "code": 2540,
+        "name": "u09EC"
+    },
+    {
+        "code": 2541,
+        "name": "u09ED"
+    },
+    {
+        "code": 2542,
+        "name": "u09EE"
+    },
+    {
+        "code": 2543,
+        "name": "u09EF"
+    },
+    {
+        "code": 2544,
+        "name": "u09F0"
+    },
+    {
+        "code": 2545,
+        "name": "u09F1"
+    },
+    {
+        "code": 2546,
+        "name": "u09F2"
+    },
+    {
+        "code": 2547,
+        "name": "u09F3"
+    },
+    {
+        "code": 2548,
+        "name": "u09F4"
+    },
+    {
+        "code": 2549,
+        "name": "u09F5"
+    },
+    {
+        "code": 2550,
+        "name": "u09F6"
+    },
+    {
+        "code": 2551,
+        "name": "u09F7"
+    },
+    {
+        "code": 2552,
+        "name": "u09F8"
+    },
+    {
+        "code": 2553,
+        "name": "u09F9"
+    },
+    {
+        "code": 2554,
+        "name": "u09FA"
+    },
+    {
+        "code": 8204,
+        "name": "afii61664"
+    },
+    {
+        "code": 8205,
+        "name": "afii301"
+    },
+    {
+        "code": 8211,
+        "name": "endash"
+    },
+    {
+        "code": 8212,
+        "name": "emdash"
+    },
+    {
+        "code": 8216,
+        "name": "quoteleft"
+    },
+    {
+        "code": 8217,
+        "name": "quoteright"
+    },
+    {
+        "code": 8220,
+        "name": "quotedblleft"
+    },
+    {
+        "code": 8221,
+        "name": "quotedblright"
+    },
+    {
+        "code": 8230,
+        "name": "ellipsis"
+    },
+    {
+        "code": 8722,
+        "name": "minus"
+    },
+    {
+        "code": 9676,
+        "name": "uni25CC"
+    }
+]

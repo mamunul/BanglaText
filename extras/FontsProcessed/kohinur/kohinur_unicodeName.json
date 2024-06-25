@@ -1,0 +1,4682 @@
+[
+    {
+        "code": 0,
+        "name": "NULL"
+    },
+    {
+        "code": 13,
+        "name": "CR"
+    },
+    {
+        "code": 32,
+        "name": "space"
+    },
+    {
+        "code": 33,
+        "name": "exclam"
+    },
+    {
+        "code": 34,
+        "name": "quotedbl"
+    },
+    {
+        "code": 35,
+        "name": "numbersign"
+    },
+    {
+        "code": 36,
+        "name": "dollar"
+    },
+    {
+        "code": 37,
+        "name": "percent"
+    },
+    {
+        "code": 38,
+        "name": "ampersand"
+    },
+    {
+        "code": 39,
+        "name": "quotesingle"
+    },
+    {
+        "code": 40,
+        "name": "parenleft"
+    },
+    {
+        "code": 41,
+        "name": "parenright"
+    },
+    {
+        "code": 42,
+        "name": "asterisk"
+    },
+    {
+        "code": 43,
+        "name": "plus"
+    },
+    {
+        "code": 44,
+        "name": "comma"
+    },
+    {
+        "code": 45,
+        "name": "hyphen"
+    },
+    {
+        "code": 46,
+        "name": "period"
+    },
+    {
+        "code": 47,
+        "name": "slash"
+    },
+    {
+        "code": 48,
+        "name": "zero"
+    },
+    {
+        "code": 49,
+        "name": "one"
+    },
+    {
+        "code": 50,
+        "name": "two"
+    },
+    {
+        "code": 51,
+        "name": "three"
+    },
+    {
+        "code": 52,
+        "name": "four"
+    },
+    {
+        "code": 53,
+        "name": "five"
+    },
+    {
+        "code": 54,
+        "name": "six"
+    },
+    {
+        "code": 55,
+        "name": "seven"
+    },
+    {
+        "code": 56,
+        "name": "eight"
+    },
+    {
+        "code": 57,
+        "name": "nine"
+    },
+    {
+        "code": 58,
+        "name": "colon"
+    },
+    {
+        "code": 59,
+        "name": "semicolon"
+    },
+    {
+        "code": 60,
+        "name": "less"
+    },
+    {
+        "code": 61,
+        "name": "equal"
+    },
+    {
+        "code": 62,
+        "name": "greater"
+    },
+    {
+        "code": 63,
+        "name": "question"
+    },
+    {
+        "code": 64,
+        "name": "at"
+    },
+    {
+        "code": 65,
+        "name": "A"
+    },
+    {
+        "code": 66,
+        "name": "B"
+    },
+    {
+        "code": 67,
+        "name": "C"
+    },
+    {
+        "code": 68,
+        "name": "D"
+    },
+    {
+        "code": 69,
+        "name": "E"
+    },
+    {
+        "code": 70,
+        "name": "F"
+    },
+    {
+        "code": 71,
+        "name": "G"
+    },
+    {
+        "code": 72,
+        "name": "H"
+    },
+    {
+        "code": 73,
+        "name": "I"
+    },
+    {
+        "code": 74,
+        "name": "J"
+    },
+    {
+        "code": 75,
+        "name": "K"
+    },
+    {
+        "code": 76,
+        "name": "L"
+    },
+    {
+        "code": 77,
+        "name": "M"
+    },
+    {
+        "code": 78,
+        "name": "N"
+    },
+    {
+        "code": 79,
+        "name": "O"
+    },
+    {
+        "code": 80,
+        "name": "P"
+    },
+    {
+        "code": 81,
+        "name": "Q"
+    },
+    {
+        "code": 82,
+        "name": "R"
+    },
+    {
+        "code": 83,
+        "name": "S"
+    },
+    {
+        "code": 84,
+        "name": "T"
+    },
+    {
+        "code": 85,
+        "name": "U"
+    },
+    {
+        "code": 86,
+        "name": "V"
+    },
+    {
+        "code": 87,
+        "name": "W"
+    },
+    {
+        "code": 88,
+        "name": "X"
+    },
+    {
+        "code": 89,
+        "name": "Y"
+    },
+    {
+        "code": 90,
+        "name": "Z"
+    },
+    {
+        "code": 91,
+        "name": "bracketleft"
+    },
+    {
+        "code": 92,
+        "name": "backslash"
+    },
+    {
+        "code": 93,
+        "name": "bracketright"
+    },
+    {
+        "code": 94,
+        "name": "asciicircum"
+    },
+    {
+        "code": 95,
+        "name": "underscore"
+    },
+    {
+        "code": 96,
+        "name": "grave"
+    },
+    {
+        "code": 97,
+        "name": "a"
+    },
+    {
+        "code": 98,
+        "name": "b"
+    },
+    {
+        "code": 99,
+        "name": "c"
+    },
+    {
+        "code": 100,
+        "name": "d"
+    },
+    {
+        "code": 101,
+        "name": "e"
+    },
+    {
+        "code": 102,
+        "name": "f"
+    },
+    {
+        "code": 103,
+        "name": "g"
+    },
+    {
+        "code": 104,
+        "name": "h"
+    },
+    {
+        "code": 105,
+        "name": "i"
+    },
+    {
+        "code": 106,
+        "name": "j"
+    },
+    {
+        "code": 107,
+        "name": "k"
+    },
+    {
+        "code": 108,
+        "name": "l"
+    },
+    {
+        "code": 109,
+        "name": "m"
+    },
+    {
+        "code": 110,
+        "name": "n"
+    },
+    {
+        "code": 111,
+        "name": "o"
+    },
+    {
+        "code": 112,
+        "name": "p"
+    },
+    {
+        "code": 113,
+        "name": "q"
+    },
+    {
+        "code": 114,
+        "name": "r"
+    },
+    {
+        "code": 115,
+        "name": "s"
+    },
+    {
+        "code": 116,
+        "name": "t"
+    },
+    {
+        "code": 117,
+        "name": "u"
+    },
+    {
+        "code": 118,
+        "name": "v"
+    },
+    {
+        "code": 119,
+        "name": "w"
+    },
+    {
+        "code": 120,
+        "name": "x"
+    },
+    {
+        "code": 121,
+        "name": "y"
+    },
+    {
+        "code": 122,
+        "name": "z"
+    },
+    {
+        "code": 123,
+        "name": "braceleft"
+    },
+    {
+        "code": 124,
+        "name": "bar"
+    },
+    {
+        "code": 125,
+        "name": "braceright"
+    },
+    {
+        "code": 126,
+        "name": "asciitilde"
+    },
+    {
+        "code": 161,
+        "name": "exclamdown"
+    },
+    {
+        "code": 162,
+        "name": "cent"
+    },
+    {
+        "code": 163,
+        "name": "sterling"
+    },
+    {
+        "code": 164,
+        "name": "currency"
+    },
+    {
+        "code": 165,
+        "name": "yen"
+    },
+    {
+        "code": 166,
+        "name": "brokenbar"
+    },
+    {
+        "code": 167,
+        "name": "section"
+    },
+    {
+        "code": 168,
+        "name": "dieresis"
+    },
+    {
+        "code": 169,
+        "name": "copyright"
+    },
+    {
+        "code": 171,
+        "name": "guillemotleft"
+    },
+    {
+        "code": 172,
+        "name": "logicalnot"
+    },
+    {
+        "code": 174,
+        "name": "registered"
+    },
+    {
+        "code": 175,
+        "name": "macron"
+    },
+    {
+        "code": 176,
+        "name": "degree"
+    },
+    {
+        "code": 177,
+        "name": "plusminus"
+    },
+    {
+        "code": 178,
+        "name": "twosuperior"
+    },
+    {
+        "code": 179,
+        "name": "threesuperior"
+    },
+    {
+        "code": 180,
+        "name": "acute"
+    },
+    {
+        "code": 181,
+        "name": "uni00B5"
+    },
+    {
+        "code": 182,
+        "name": "paragraph"
+    },
+    {
+        "code": 183,
+        "name": "periodcentered"
+    },
+    {
+        "code": 184,
+        "name": "cedilla"
+    },
+    {
+        "code": 185,
+        "name": "onesuperior"
+    },
+    {
+        "code": 187,
+        "name": "guillemotright"
+    },
+    {
+        "code": 191,
+        "name": "questiondown"
+    },
+    {
+        "code": 192,
+        "name": "Agrave"
+    },
+    {
+        "code": 193,
+        "name": "Aacute"
+    },
+    {
+        "code": 194,
+        "name": "Acircumflex"
+    },
+    {
+        "code": 195,
+        "name": "Atilde"
+    },
+    {
+        "code": 196,
+        "name": "Adieresis"
+    },
+    {
+        "code": 197,
+        "name": "Aring"
+    },
+    {
+        "code": 198,
+        "name": "AE"
+    },
+    {
+        "code": 199,
+        "name": "Ccedilla"
+    },
+    {
+        "code": 200,
+        "name": "Egrave"
+    },
+    {
+        "code": 201,
+        "name": "Eacute"
+    },
+    {
+        "code": 202,
+        "name": "Ecircumflex"
+    },
+    {
+        "code": 203,
+        "name": "Edieresis"
+    },
+    {
+        "code": 204,
+        "name": "Igrave"
+    },
+    {
+        "code": 205,
+        "name": "Iacute"
+    },
+    {
+        "code": 206,
+        "name": "Icircumflex"
+    },
+    {
+        "code": 207,
+        "name": "Idieresis"
+    },
+    {
+        "code": 208,
+        "name": "Eth"
+    },
+    {
+        "code": 209,
+        "name": "Ntilde"
+    },
+    {
+        "code": 210,
+        "name": "Ograve"
+    },
+    {
+        "code": 211,
+        "name": "Oacute"
+    },
+    {
+        "code": 212,
+        "name": "Ocircumflex"
+    },
+    {
+        "code": 213,
+        "name": "Otilde"
+    },
+    {
+        "code": 214,
+        "name": "Odieresis"
+    },
+    {
+        "code": 215,
+        "name": "multiply"
+    },
+    {
+        "code": 216,
+        "name": "Oslash"
+    },
+    {
+        "code": 217,
+        "name": "Ugrave"
+    },
+    {
+        "code": 218,
+        "name": "Uacute"
+    },
+    {
+        "code": 219,
+        "name": "Ucircumflex"
+    },
+    {
+        "code": 220,
+        "name": "Udieresis"
+    },
+    {
+        "code": 221,
+        "name": "Yacute"
+    },
+    {
+        "code": 222,
+        "name": "Thorn"
+    },
+    {
+        "code": 223,
+        "name": "germandbls"
+    },
+    {
+        "code": 224,
+        "name": "agrave"
+    },
+    {
+        "code": 225,
+        "name": "aacute"
+    },
+    {
+        "code": 226,
+        "name": "acircumflex"
+    },
+    {
+        "code": 227,
+        "name": "atilde"
+    },
+    {
+        "code": 228,
+        "name": "adieresis"
+    },
+    {
+        "code": 229,
+        "name": "aring"
+    },
+    {
+        "code": 230,
+        "name": "ae"
+    },
+    {
+        "code": 231,
+        "name": "ccedilla"
+    },
+    {
+        "code": 232,
+        "name": "egrave"
+    },
+    {
+        "code": 233,
+        "name": "eacute"
+    },
+    {
+        "code": 234,
+        "name": "ecircumflex"
+    },
+    {
+        "code": 235,
+        "name": "edieresis"
+    },
+    {
+        "code": 236,
+        "name": "igrave"
+    },
+    {
+        "code": 237,
+        "name": "iacute"
+    },
+    {
+        "code": 238,
+        "name": "icircumflex"
+    },
+    {
+        "code": 239,
+        "name": "idieresis"
+    },
+    {
+        "code": 240,
+        "name": "eth"
+    },
+    {
+        "code": 241,
+        "name": "ntilde"
+    },
+    {
+        "code": 242,
+        "name": "ograve"
+    },
+    {
+        "code": 243,
+        "name": "oacute"
+    },
+    {
+        "code": 244,
+        "name": "ocircumflex"
+    },
+    {
+        "code": 245,
+        "name": "otilde"
+    },
+    {
+        "code": 246,
+        "name": "odieresis"
+    },
+    {
+        "code": 247,
+        "name": "divide"
+    },
+    {
+        "code": 248,
+        "name": "oslash"
+    },
+    {
+        "code": 249,
+        "name": "ugrave"
+    },
+    {
+        "code": 250,
+        "name": "uacute"
+    },
+    {
+        "code": 251,
+        "name": "ucircumflex"
+    },
+    {
+        "code": 252,
+        "name": "udieresis"
+    },
+    {
+        "code": 253,
+        "name": "yacute"
+    },
+    {
+        "code": 254,
+        "name": "thorn"
+    },
+    {
+        "code": 255,
+        "name": "ydieresis"
+    },
+    {
+        "code": 256,
+        "name": "Amacron"
+    },
+    {
+        "code": 257,
+        "name": "amacron"
+    },
+    {
+        "code": 258,
+        "name": "Abreve"
+    },
+    {
+        "code": 259,
+        "name": "abreve"
+    },
+    {
+        "code": 260,
+        "name": "Aogonek"
+    },
+    {
+        "code": 261,
+        "name": "aogonek"
+    },
+    {
+        "code": 262,
+        "name": "Cacute"
+    },
+    {
+        "code": 263,
+        "name": "cacute"
+    },
+    {
+        "code": 264,
+        "name": "Ccircumflex"
+    },
+    {
+        "code": 265,
+        "name": "ccircumflex"
+    },
+    {
+        "code": 266,
+        "name": "Cdotaccent"
+    },
+    {
+        "code": 267,
+        "name": "cdotaccent"
+    },
+    {
+        "code": 268,
+        "name": "Ccaron"
+    },
+    {
+        "code": 269,
+        "name": "ccaron"
+    },
+    {
+        "code": 270,
+        "name": "Dcaron"
+    },
+    {
+        "code": 271,
+        "name": "dcaron"
+    },
+    {
+        "code": 272,
+        "name": "Dcroat"
+    },
+    {
+        "code": 273,
+        "name": "dcroat"
+    },
+    {
+        "code": 274,
+        "name": "Emacron"
+    },
+    {
+        "code": 275,
+        "name": "emacron"
+    },
+    {
+        "code": 276,
+        "name": "Ebreve"
+    },
+    {
+        "code": 277,
+        "name": "ebreve"
+    },
+    {
+        "code": 278,
+        "name": "Edotaccent"
+    },
+    {
+        "code": 279,
+        "name": "edotaccent"
+    },
+    {
+        "code": 280,
+        "name": "Eogonek"
+    },
+    {
+        "code": 281,
+        "name": "eogonek"
+    },
+    {
+        "code": 282,
+        "name": "Ecaron"
+    },
+    {
+        "code": 283,
+        "name": "ecaron"
+    },
+    {
+        "code": 284,
+        "name": "Gcircumflex"
+    },
+    {
+        "code": 285,
+        "name": "gcircumflex"
+    },
+    {
+        "code": 286,
+        "name": "Gbreve"
+    },
+    {
+        "code": 287,
+        "name": "gbreve"
+    },
+    {
+        "code": 288,
+        "name": "Gdotaccent"
+    },
+    {
+        "code": 289,
+        "name": "gdotaccent"
+    },
+    {
+        "code": 290,
+        "name": "uni0122"
+    },
+    {
+        "code": 291,
+        "name": "uni0123"
+    },
+    {
+        "code": 292,
+        "name": "Hcircumflex"
+    },
+    {
+        "code": 293,
+        "name": "hcircumflex"
+    },
+    {
+        "code": 294,
+        "name": "Hbar"
+    },
+    {
+        "code": 295,
+        "name": "hbar"
+    },
+    {
+        "code": 296,
+        "name": "Itilde"
+    },
+    {
+        "code": 297,
+        "name": "itilde"
+    },
+    {
+        "code": 298,
+        "name": "Imacron"
+    },
+    {
+        "code": 299,
+        "name": "imacron"
+    },
+    {
+        "code": 300,
+        "name": "Ibreve"
+    },
+    {
+        "code": 301,
+        "name": "ibreve"
+    },
+    {
+        "code": 302,
+        "name": "Iogonek"
+    },
+    {
+        "code": 303,
+        "name": "iogonek"
+    },
+    {
+        "code": 304,
+        "name": "Idotaccent"
+    },
+    {
+        "code": 305,
+        "name": "dotlessi"
+    },
+    {
+        "code": 306,
+        "name": "IJ"
+    },
+    {
+        "code": 307,
+        "name": "ij"
+    },
+    {
+        "code": 308,
+        "name": "Jcircumflex"
+    },
+    {
+        "code": 309,
+        "name": "jcircumflex"
+    },
+    {
+        "code": 310,
+        "name": "uni0136"
+    },
+    {
+        "code": 311,
+        "name": "uni0137"
+    },
+    {
+        "code": 312,
+        "name": "uni0138"
+    },
+    {
+        "code": 313,
+        "name": "Lacute"
+    },
+    {
+        "code": 314,
+        "name": "lacute"
+    },
+    {
+        "code": 315,
+        "name": "uni013B"
+    },
+    {
+        "code": 316,
+        "name": "uni013C"
+    },
+    {
+        "code": 317,
+        "name": "Lcaron"
+    },
+    {
+        "code": 318,
+        "name": "lcaron"
+    },
+    {
+        "code": 319,
+        "name": "Ldot"
+    },
+    {
+        "code": 320,
+        "name": "ldot"
+    },
+    {
+        "code": 321,
+        "name": "Lslash"
+    },
+    {
+        "code": 322,
+        "name": "lslash"
+    },
+    {
+        "code": 323,
+        "name": "Nacute"
+    },
+    {
+        "code": 324,
+        "name": "nacute"
+    },
+    {
+        "code": 325,
+        "name": "uni0145"
+    },
+    {
+        "code": 326,
+        "name": "uni0146"
+    },
+    {
+        "code": 327,
+        "name": "Ncaron"
+    },
+    {
+        "code": 328,
+        "name": "ncaron"
+    },
+    {
+        "code": 329,
+        "name": "uni0149"
+    },
+    {
+        "code": 330,
+        "name": "uni014A"
+    },
+    {
+        "code": 331,
+        "name": "uni014B"
+    },
+    {
+        "code": 332,
+        "name": "Omacron"
+    },
+    {
+        "code": 333,
+        "name": "omacron"
+    },
+    {
+        "code": 334,
+        "name": "Obreve"
+    },
+    {
+        "code": 335,
+        "name": "obreve"
+    },
+    {
+        "code": 336,
+        "name": "Ohungarumlaut"
+    },
+    {
+        "code": 337,
+        "name": "ohungarumlaut"
+    },
+    {
+        "code": 338,
+        "name": "OE"
+    },
+    {
+        "code": 339,
+        "name": "oe"
+    },
+    {
+        "code": 340,
+        "name": "Racute"
+    },
+    {
+        "code": 341,
+        "name": "racute"
+    },
+    {
+        "code": 342,
+        "name": "uni0156"
+    },
+    {
+        "code": 343,
+        "name": "uni0157"
+    },
+    {
+        "code": 344,
+        "name": "Rcaron"
+    },
+    {
+        "code": 345,
+        "name": "rcaron"
+    },
+    {
+        "code": 346,
+        "name": "Sacute"
+    },
+    {
+        "code": 347,
+        "name": "sacute"
+    },
+    {
+        "code": 348,
+        "name": "Scircumflex"
+    },
+    {
+        "code": 349,
+        "name": "scircumflex"
+    },
+    {
+        "code": 350,
+        "name": "uni015E"
+    },
+    {
+        "code": 351,
+        "name": "uni015F"
+    },
+    {
+        "code": 352,
+        "name": "Scaron"
+    },
+    {
+        "code": 353,
+        "name": "scaron"
+    },
+    {
+        "code": 354,
+        "name": "uni0162"
+    },
+    {
+        "code": 355,
+        "name": "uni0163"
+    },
+    {
+        "code": 356,
+        "name": "Tcaron"
+    },
+    {
+        "code": 357,
+        "name": "tcaron"
+    },
+    {
+        "code": 358,
+        "name": "Tbar"
+    },
+    {
+        "code": 359,
+        "name": "tbar"
+    },
+    {
+        "code": 360,
+        "name": "Utilde"
+    },
+    {
+        "code": 361,
+        "name": "utilde"
+    },
+    {
+        "code": 362,
+        "name": "Umacron"
+    },
+    {
+        "code": 363,
+        "name": "umacron"
+    },
+    {
+        "code": 364,
+        "name": "Ubreve"
+    },
+    {
+        "code": 365,
+        "name": "ubreve"
+    },
+    {
+        "code": 366,
+        "name": "Uring"
+    },
+    {
+        "code": 367,
+        "name": "uring"
+    },
+    {
+        "code": 368,
+        "name": "Uhungarumlaut"
+    },
+    {
+        "code": 369,
+        "name": "uhungarumlaut"
+    },
+    {
+        "code": 370,
+        "name": "Uogonek"
+    },
+    {
+        "code": 371,
+        "name": "uogonek"
+    },
+    {
+        "code": 372,
+        "name": "Wcircumflex"
+    },
+    {
+        "code": 373,
+        "name": "wcircumflex"
+    },
+    {
+        "code": 374,
+        "name": "Ycircumflex"
+    },
+    {
+        "code": 375,
+        "name": "ycircumflex"
+    },
+    {
+        "code": 376,
+        "name": "Ydieresis"
+    },
+    {
+        "code": 377,
+        "name": "Zacute"
+    },
+    {
+        "code": 378,
+        "name": "zacute"
+    },
+    {
+        "code": 379,
+        "name": "Zdotaccent"
+    },
+    {
+        "code": 380,
+        "name": "zdotaccent"
+    },
+    {
+        "code": 381,
+        "name": "Zcaron"
+    },
+    {
+        "code": 382,
+        "name": "zcaron"
+    },
+    {
+        "code": 383,
+        "name": "uni017F"
+    },
+    {
+        "code": 402,
+        "name": "florin"
+    },
+    {
+        "code": 536,
+        "name": "uni0218"
+    },
+    {
+        "code": 537,
+        "name": "uni0219"
+    },
+    {
+        "code": 538,
+        "name": "uni021A"
+    },
+    {
+        "code": 539,
+        "name": "uni021B"
+    },
+    {
+        "code": 567,
+        "name": "uni0237"
+    },
+    {
+        "code": 700,
+        "name": "uni02BC"
+    },
+    {
+        "code": 710,
+        "name": "circumflex"
+    },
+    {
+        "code": 711,
+        "name": "caron"
+    },
+    {
+        "code": 728,
+        "name": "breve"
+    },
+    {
+        "code": 729,
+        "name": "dotaccent"
+    },
+    {
+        "code": 730,
+        "name": "ring"
+    },
+    {
+        "code": 731,
+        "name": "ogonek"
+    },
+    {
+        "code": 732,
+        "name": "tilde"
+    },
+    {
+        "code": 733,
+        "name": "hungarumlaut"
+    },
+    {
+        "code": 960,
+        "name": "pi"
+    },
+    {
+        "code": 2404,
+        "name": "danda"
+    },
+    {
+        "code": 2405,
+        "name": "doubledanda"
+    },
+    {
+        "code": 2432,
+        "name": "bnAnji"
+    },
+    {
+        "code": 2433,
+        "name": "bnCandrabindu"
+    },
+    {
+        "code": 2434,
+        "name": "bnAnusvara"
+    },
+    {
+        "code": 2435,
+        "name": "bnVisarga"
+    },
+    {
+        "code": 2437,
+        "name": "bnA"
+    },
+    {
+        "code": 2438,
+        "name": "bnAA"
+    },
+    {
+        "code": 2439,
+        "name": "bnI"
+    },
+    {
+        "code": 2440,
+        "name": "bnII"
+    },
+    {
+        "code": 2441,
+        "name": "bnU"
+    },
+    {
+        "code": 2442,
+        "name": "bnUU"
+    },
+    {
+        "code": 2443,
+        "name": "bnvR"
+    },
+    {
+        "code": 2444,
+        "name": "bnvL"
+    },
+    {
+        "code": 2447,
+        "name": "bnE"
+    },
+    {
+        "code": 2448,
+        "name": "bnAI"
+    },
+    {
+        "code": 2451,
+        "name": "bnO"
+    },
+    {
+        "code": 2452,
+        "name": "bnAU"
+    },
+    {
+        "code": 2453,
+        "name": "bnKA"
+    },
+    {
+        "code": 2454,
+        "name": "bnKHA"
+    },
+    {
+        "code": 2455,
+        "name": "bnGA"
+    },
+    {
+        "code": 2456,
+        "name": "bnGHA"
+    },
+    {
+        "code": 2457,
+        "name": "bnNGA"
+    },
+    {
+        "code": 2458,
+        "name": "bnCA"
+    },
+    {
+        "code": 2459,
+        "name": "bnCHA"
+    },
+    {
+        "code": 2460,
+        "name": "bnJA"
+    },
+    {
+        "code": 2461,
+        "name": "bnJHA"
+    },
+    {
+        "code": 2462,
+        "name": "bnNYA"
+    },
+    {
+        "code": 2463,
+        "name": "bnTTA"
+    },
+    {
+        "code": 2464,
+        "name": "bnTTHA"
+    },
+    {
+        "code": 2465,
+        "name": "bnDDA"
+    },
+    {
+        "code": 2466,
+        "name": "bnDDHA"
+    },
+    {
+        "code": 2467,
+        "name": "bnNNA"
+    },
+    {
+        "code": 2468,
+        "name": "bnTA"
+    },
+    {
+        "code": 2469,
+        "name": "bnTHA"
+    },
+    {
+        "code": 2470,
+        "name": "bnDA"
+    },
+    {
+        "code": 2471,
+        "name": "bnDHA"
+    },
+    {
+        "code": 2472,
+        "name": "bnNA"
+    },
+    {
+        "code": 2474,
+        "name": "bnPA"
+    },
+    {
+        "code": 2475,
+        "name": "bnPHA"
+    },
+    {
+        "code": 2476,
+        "name": "bnBA"
+    },
+    {
+        "code": 2477,
+        "name": "bnBHA"
+    },
+    {
+        "code": 2478,
+        "name": "bnMA"
+    },
+    {
+        "code": 2479,
+        "name": "bnYA"
+    },
+    {
+        "code": 2480,
+        "name": "bnRA"
+    },
+    {
+        "code": 2482,
+        "name": "bnLA"
+    },
+    {
+        "code": 2486,
+        "name": "bnSHA"
+    },
+    {
+        "code": 2487,
+        "name": "bnSSA"
+    },
+    {
+        "code": 2488,
+        "name": "bnSA"
+    },
+    {
+        "code": 2489,
+        "name": "bnHA"
+    },
+    {
+        "code": 2492,
+        "name": "bnNukta"
+    },
+    {
+        "code": 2493,
+        "name": "bnAvagraha"
+    },
+    {
+        "code": 2494,
+        "name": "bnmAA"
+    },
+    {
+        "code": 2495,
+        "name": "bnmI"
+    },
+    {
+        "code": 2496,
+        "name": "bnmII"
+    },
+    {
+        "code": 2497,
+        "name": "bnmU"
+    },
+    {
+        "code": 2498,
+        "name": "bnmUU"
+    },
+    {
+        "code": 2499,
+        "name": "bnmvR"
+    },
+    {
+        "code": 2500,
+        "name": "bnmvRR"
+    },
+    {
+        "code": 2503,
+        "name": "bnmE"
+    },
+    {
+        "code": 2504,
+        "name": "bnmAI"
+    },
+    {
+        "code": 2507,
+        "name": "bnmO"
+    },
+    {
+        "code": 2508,
+        "name": "bnmAU"
+    },
+    {
+        "code": 2509,
+        "name": "bnVirama"
+    },
+    {
+        "code": 2510,
+        "name": "bnTAkhanda"
+    },
+    {
+        "code": 2519,
+        "name": "bnAUlengthmark"
+    },
+    {
+        "code": 2524,
+        "name": "bnDDxA"
+    },
+    {
+        "code": 2525,
+        "name": "bnDDHxA"
+    },
+    {
+        "code": 2527,
+        "name": "bnYxA"
+    },
+    {
+        "code": 2528,
+        "name": "bnvRR"
+    },
+    {
+        "code": 2529,
+        "name": "bnvLL"
+    },
+    {
+        "code": 2530,
+        "name": "bnmvL"
+    },
+    {
+        "code": 2531,
+        "name": "bnmvLL"
+    },
+    {
+        "code": 2534,
+        "name": "bnZero"
+    },
+    {
+        "code": 2535,
+        "name": "bnOne"
+    },
+    {
+        "code": 2536,
+        "name": "bnTwo"
+    },
+    {
+        "code": 2537,
+        "name": "bnThree"
+    },
+    {
+        "code": 2538,
+        "name": "bnFour"
+    },
+    {
+        "code": 2539,
+        "name": "bnFive"
+    },
+    {
+        "code": 2540,
+        "name": "bnSix"
+    },
+    {
+        "code": 2541,
+        "name": "bnSeven"
+    },
+    {
+        "code": 2542,
+        "name": "bnEight"
+    },
+    {
+        "code": 2543,
+        "name": "bnNine"
+    },
+    {
+        "code": 2544,
+        "name": "asRA"
+    },
+    {
+        "code": 2545,
+        "name": "asWA"
+    },
+    {
+        "code": 2546,
+        "name": "bnTaka"
+    },
+    {
+        "code": 2547,
+        "name": "bnBangladeshitaka"
+    },
+    {
+        "code": 2548,
+        "name": "bnNumeratorone"
+    },
+    {
+        "code": 2549,
+        "name": "bnNumeratortwo"
+    },
+    {
+        "code": 2550,
+        "name": "bnNumeratorthree"
+    },
+    {
+        "code": 2551,
+        "name": "bnNumeratorfour"
+    },
+    {
+        "code": 2552,
+        "name": "bnNumeratoroneless"
+    },
+    {
+        "code": 2553,
+        "name": "bnDenominatorsixteen"
+    },
+    {
+        "code": 2554,
+        "name": "bnIsshar"
+    },
+    {
+        "code": 2555,
+        "name": "bnGanda"
+    },
+    {
+        "code": 7808,
+        "name": "Wgrave"
+    },
+    {
+        "code": 7809,
+        "name": "wgrave"
+    },
+    {
+        "code": 7810,
+        "name": "Wacute"
+    },
+    {
+        "code": 7811,
+        "name": "wacute"
+    },
+    {
+        "code": 7812,
+        "name": "Wdieresis"
+    },
+    {
+        "code": 7813,
+        "name": "wdieresis"
+    },
+    {
+        "code": 7922,
+        "name": "Ygrave"
+    },
+    {
+        "code": 7923,
+        "name": "ygrave"
+    },
+    {
+        "code": 8204,
+        "name": "uni200C"
+    },
+    {
+        "code": 8205,
+        "name": "uni200D"
+    },
+    {
+        "code": 8211,
+        "name": "endash"
+    },
+    {
+        "code": 8212,
+        "name": "emdash"
+    },
+    {
+        "code": 8216,
+        "name": "quoteleft"
+    },
+    {
+        "code": 8217,
+        "name": "quoteright"
+    },
+    {
+        "code": 8218,
+        "name": "quotesinglbase"
+    },
+    {
+        "code": 8220,
+        "name": "quotedblleft"
+    },
+    {
+        "code": 8221,
+        "name": "quotedblright"
+    },
+    {
+        "code": 8222,
+        "name": "quotedblbase"
+    },
+    {
+        "code": 8224,
+        "name": "dagger"
+    },
+    {
+        "code": 8225,
+        "name": "daggerdbl"
+    },
+    {
+        "code": 8226,
+        "name": "bullet"
+    },
+    {
+        "code": 8230,
+        "name": "ellipsis"
+    },
+    {
+        "code": 8240,
+        "name": "perthousand"
+    },
+    {
+        "code": 8249,
+        "name": "guilsinglleft"
+    },
+    {
+        "code": 8250,
+        "name": "guilsinglright"
+    },
+    {
+        "code": 8260,
+        "name": "fraction"
+    },
+    {
+        "code": 8308,
+        "name": "four.superior"
+    },
+    {
+        "code": 8364,
+        "name": "Euro"
+    },
+    {
+        "code": 8377,
+        "name": "indianrupee"
+    },
+    {
+        "code": 8482,
+        "name": "trademark"
+    },
+    {
+        "code": 8486,
+        "name": "uni2126"
+    },
+    {
+        "code": 8494,
+        "name": "estimated"
+    },
+    {
+        "code": 8706,
+        "name": "partialdiff"
+    },
+    {
+        "code": 8710,
+        "name": "uni2206"
+    },
+    {
+        "code": 8719,
+        "name": "product"
+    },
+    {
+        "code": 8721,
+        "name": "summation"
+    },
+    {
+        "code": 8722,
+        "name": "minus"
+    },
+    {
+        "code": 8725,
+        "name": "uni2215"
+    },
+    {
+        "code": 8729,
+        "name": "uni2219"
+    },
+    {
+        "code": 8730,
+        "name": "radical"
+    },
+    {
+        "code": 8734,
+        "name": "infinity"
+    },
+    {
+        "code": 8747,
+        "name": "integral"
+    },
+    {
+        "code": 8776,
+        "name": "approxequal"
+    },
+    {
+        "code": 8800,
+        "name": "notequal"
+    },
+    {
+        "code": 8804,
+        "name": "lessequal"
+    },
+    {
+        "code": 8805,
+        "name": "greaterequal"
+    },
+    {
+        "code": 9674,
+        "name": "lozenge"
+    },
+    {
+        "code": 9676,
+        "name": "uni25CC"
+    },
+    {
+        "code": 64257,
+        "name": "fi"
+    },
+    {
+        "code": 64258,
+        "name": "fl"
+    },
+    {
+        "code": 0,
+        "name": "NULL"
+    },
+    {
+        "code": 13,
+        "name": "CR"
+    },
+    {
+        "code": 32,
+        "name": "space"
+    },
+    {
+        "code": 33,
+        "name": "exclam"
+    },
+    {
+        "code": 34,
+        "name": "quotedbl"
+    },
+    {
+        "code": 35,
+        "name": "numbersign"
+    },
+    {
+        "code": 36,
+        "name": "dollar"
+    },
+    {
+        "code": 37,
+        "name": "percent"
+    },
+    {
+        "code": 38,
+        "name": "ampersand"
+    },
+    {
+        "code": 39,
+        "name": "quotesingle"
+    },
+    {
+        "code": 40,
+        "name": "parenleft"
+    },
+    {
+        "code": 41,
+        "name": "parenright"
+    },
+    {
+        "code": 42,
+        "name": "asterisk"
+    },
+    {
+        "code": 43,
+        "name": "plus"
+    },
+    {
+        "code": 44,
+        "name": "comma"
+    },
+    {
+        "code": 45,
+        "name": "hyphen"
+    },
+    {
+        "code": 46,
+        "name": "period"
+    },
+    {
+        "code": 47,
+        "name": "slash"
+    },
+    {
+        "code": 48,
+        "name": "zero"
+    },
+    {
+        "code": 49,
+        "name": "one"
+    },
+    {
+        "code": 50,
+        "name": "two"
+    },
+    {
+        "code": 51,
+        "name": "three"
+    },
+    {
+        "code": 52,
+        "name": "four"
+    },
+    {
+        "code": 53,
+        "name": "five"
+    },
+    {
+        "code": 54,
+        "name": "six"
+    },
+    {
+        "code": 55,
+        "name": "seven"
+    },
+    {
+        "code": 56,
+        "name": "eight"
+    },
+    {
+        "code": 57,
+        "name": "nine"
+    },
+    {
+        "code": 58,
+        "name": "colon"
+    },
+    {
+        "code": 59,
+        "name": "semicolon"
+    },
+    {
+        "code": 60,
+        "name": "less"
+    },
+    {
+        "code": 61,
+        "name": "equal"
+    },
+    {
+        "code": 62,
+        "name": "greater"
+    },
+    {
+        "code": 63,
+        "name": "question"
+    },
+    {
+        "code": 64,
+        "name": "at"
+    },
+    {
+        "code": 65,
+        "name": "A"
+    },
+    {
+        "code": 66,
+        "name": "B"
+    },
+    {
+        "code": 67,
+        "name": "C"
+    },
+    {
+        "code": 68,
+        "name": "D"
+    },
+    {
+        "code": 69,
+        "name": "E"
+    },
+    {
+        "code": 70,
+        "name": "F"
+    },
+    {
+        "code": 71,
+        "name": "G"
+    },
+    {
+        "code": 72,
+        "name": "H"
+    },
+    {
+        "code": 73,
+        "name": "I"
+    },
+    {
+        "code": 74,
+        "name": "J"
+    },
+    {
+        "code": 75,
+        "name": "K"
+    },
+    {
+        "code": 76,
+        "name": "L"
+    },
+    {
+        "code": 77,
+        "name": "M"
+    },
+    {
+        "code": 78,
+        "name": "N"
+    },
+    {
+        "code": 79,
+        "name": "O"
+    },
+    {
+        "code": 80,
+        "name": "P"
+    },
+    {
+        "code": 81,
+        "name": "Q"
+    },
+    {
+        "code": 82,
+        "name": "R"
+    },
+    {
+        "code": 83,
+        "name": "S"
+    },
+    {
+        "code": 84,
+        "name": "T"
+    },
+    {
+        "code": 85,
+        "name": "U"
+    },
+    {
+        "code": 86,
+        "name": "V"
+    },
+    {
+        "code": 87,
+        "name": "W"
+    },
+    {
+        "code": 88,
+        "name": "X"
+    },
+    {
+        "code": 89,
+        "name": "Y"
+    },
+    {
+        "code": 90,
+        "name": "Z"
+    },
+    {
+        "code": 91,
+        "name": "bracketleft"
+    },
+    {
+        "code": 92,
+        "name": "backslash"
+    },
+    {
+        "code": 93,
+        "name": "bracketright"
+    },
+    {
+        "code": 94,
+        "name": "asciicircum"
+    },
+    {
+        "code": 95,
+        "name": "underscore"
+    },
+    {
+        "code": 96,
+        "name": "grave"
+    },
+    {
+        "code": 97,
+        "name": "a"
+    },
+    {
+        "code": 98,
+        "name": "b"
+    },
+    {
+        "code": 99,
+        "name": "c"
+    },
+    {
+        "code": 100,
+        "name": "d"
+    },
+    {
+        "code": 101,
+        "name": "e"
+    },
+    {
+        "code": 102,
+        "name": "f"
+    },
+    {
+        "code": 103,
+        "name": "g"
+    },
+    {
+        "code": 104,
+        "name": "h"
+    },
+    {
+        "code": 105,
+        "name": "i"
+    },
+    {
+        "code": 106,
+        "name": "j"
+    },
+    {
+        "code": 107,
+        "name": "k"
+    },
+    {
+        "code": 108,
+        "name": "l"
+    },
+    {
+        "code": 109,
+        "name": "m"
+    },
+    {
+        "code": 110,
+        "name": "n"
+    },
+    {
+        "code": 111,
+        "name": "o"
+    },
+    {
+        "code": 112,
+        "name": "p"
+    },
+    {
+        "code": 113,
+        "name": "q"
+    },
+    {
+        "code": 114,
+        "name": "r"
+    },
+    {
+        "code": 115,
+        "name": "s"
+    },
+    {
+        "code": 116,
+        "name": "t"
+    },
+    {
+        "code": 117,
+        "name": "u"
+    },
+    {
+        "code": 118,
+        "name": "v"
+    },
+    {
+        "code": 119,
+        "name": "w"
+    },
+    {
+        "code": 120,
+        "name": "x"
+    },
+    {
+        "code": 121,
+        "name": "y"
+    },
+    {
+        "code": 122,
+        "name": "z"
+    },
+    {
+        "code": 123,
+        "name": "braceleft"
+    },
+    {
+        "code": 124,
+        "name": "bar"
+    },
+    {
+        "code": 125,
+        "name": "braceright"
+    },
+    {
+        "code": 126,
+        "name": "asciitilde"
+    },
+    {
+        "code": 128,
+        "name": "Adieresis"
+    },
+    {
+        "code": 129,
+        "name": "Aring"
+    },
+    {
+        "code": 130,
+        "name": "Ccedilla"
+    },
+    {
+        "code": 131,
+        "name": "Eacute"
+    },
+    {
+        "code": 132,
+        "name": "Ntilde"
+    },
+    {
+        "code": 133,
+        "name": "Odieresis"
+    },
+    {
+        "code": 134,
+        "name": "Udieresis"
+    },
+    {
+        "code": 135,
+        "name": "aacute"
+    },
+    {
+        "code": 136,
+        "name": "agrave"
+    },
+    {
+        "code": 137,
+        "name": "acircumflex"
+    },
+    {
+        "code": 138,
+        "name": "adieresis"
+    },
+    {
+        "code": 139,
+        "name": "atilde"
+    },
+    {
+        "code": 140,
+        "name": "aring"
+    },
+    {
+        "code": 141,
+        "name": "ccedilla"
+    },
+    {
+        "code": 142,
+        "name": "eacute"
+    },
+    {
+        "code": 143,
+        "name": "egrave"
+    },
+    {
+        "code": 144,
+        "name": "ecircumflex"
+    },
+    {
+        "code": 145,
+        "name": "edieresis"
+    },
+    {
+        "code": 146,
+        "name": "iacute"
+    },
+    {
+        "code": 147,
+        "name": "igrave"
+    },
+    {
+        "code": 148,
+        "name": "icircumflex"
+    },
+    {
+        "code": 149,
+        "name": "idieresis"
+    },
+    {
+        "code": 150,
+        "name": "ntilde"
+    },
+    {
+        "code": 151,
+        "name": "oacute"
+    },
+    {
+        "code": 152,
+        "name": "ograve"
+    },
+    {
+        "code": 153,
+        "name": "ocircumflex"
+    },
+    {
+        "code": 154,
+        "name": "odieresis"
+    },
+    {
+        "code": 155,
+        "name": "otilde"
+    },
+    {
+        "code": 156,
+        "name": "uacute"
+    },
+    {
+        "code": 157,
+        "name": "ugrave"
+    },
+    {
+        "code": 158,
+        "name": "ucircumflex"
+    },
+    {
+        "code": 159,
+        "name": "udieresis"
+    },
+    {
+        "code": 160,
+        "name": "dagger"
+    },
+    {
+        "code": 161,
+        "name": "degree"
+    },
+    {
+        "code": 162,
+        "name": "cent"
+    },
+    {
+        "code": 163,
+        "name": "sterling"
+    },
+    {
+        "code": 164,
+        "name": "section"
+    },
+    {
+        "code": 165,
+        "name": "bullet"
+    },
+    {
+        "code": 166,
+        "name": "paragraph"
+    },
+    {
+        "code": 167,
+        "name": "germandbls"
+    },
+    {
+        "code": 168,
+        "name": "registered"
+    },
+    {
+        "code": 169,
+        "name": "copyright"
+    },
+    {
+        "code": 170,
+        "name": "trademark"
+    },
+    {
+        "code": 171,
+        "name": "acute"
+    },
+    {
+        "code": 172,
+        "name": "dieresis"
+    },
+    {
+        "code": 173,
+        "name": "notequal"
+    },
+    {
+        "code": 174,
+        "name": "AE"
+    },
+    {
+        "code": 175,
+        "name": "Oslash"
+    },
+    {
+        "code": 176,
+        "name": "infinity"
+    },
+    {
+        "code": 177,
+        "name": "plusminus"
+    },
+    {
+        "code": 178,
+        "name": "lessequal"
+    },
+    {
+        "code": 179,
+        "name": "greaterequal"
+    },
+    {
+        "code": 180,
+        "name": "yen"
+    },
+    {
+        "code": 181,
+        "name": "uni00B5"
+    },
+    {
+        "code": 182,
+        "name": "partialdiff"
+    },
+    {
+        "code": 183,
+        "name": "summation"
+    },
+    {
+        "code": 184,
+        "name": "product"
+    },
+    {
+        "code": 185,
+        "name": "pi"
+    },
+    {
+        "code": 186,
+        "name": "integral"
+    },
+    {
+        "code": 190,
+        "name": "ae"
+    },
+    {
+        "code": 191,
+        "name": "oslash"
+    },
+    {
+        "code": 192,
+        "name": "questiondown"
+    },
+    {
+        "code": 193,
+        "name": "exclamdown"
+    },
+    {
+        "code": 194,
+        "name": "logicalnot"
+    },
+    {
+        "code": 195,
+        "name": "radical"
+    },
+    {
+        "code": 196,
+        "name": "florin"
+    },
+    {
+        "code": 197,
+        "name": "approxequal"
+    },
+    {
+        "code": 198,
+        "name": "uni2206"
+    },
+    {
+        "code": 199,
+        "name": "guillemotleft"
+    },
+    {
+        "code": 200,
+        "name": "guillemotright"
+    },
+    {
+        "code": 201,
+        "name": "ellipsis"
+    },
+    {
+        "code": 203,
+        "name": "Agrave"
+    },
+    {
+        "code": 204,
+        "name": "Atilde"
+    },
+    {
+        "code": 205,
+        "name": "Otilde"
+    },
+    {
+        "code": 206,
+        "name": "OE"
+    },
+    {
+        "code": 207,
+        "name": "oe"
+    },
+    {
+        "code": 208,
+        "name": "endash"
+    },
+    {
+        "code": 209,
+        "name": "emdash"
+    },
+    {
+        "code": 210,
+        "name": "quotedblleft"
+    },
+    {
+        "code": 211,
+        "name": "quotedblright"
+    },
+    {
+        "code": 212,
+        "name": "quoteleft"
+    },
+    {
+        "code": 213,
+        "name": "quoteright"
+    },
+    {
+        "code": 214,
+        "name": "divide"
+    },
+    {
+        "code": 215,
+        "name": "lozenge"
+    },
+    {
+        "code": 216,
+        "name": "ydieresis"
+    },
+    {
+        "code": 217,
+        "name": "Ydieresis"
+    },
+    {
+        "code": 218,
+        "name": "fraction"
+    },
+    {
+        "code": 219,
+        "name": "Euro"
+    },
+    {
+        "code": 220,
+        "name": "guilsinglleft"
+    },
+    {
+        "code": 221,
+        "name": "guilsinglright"
+    },
+    {
+        "code": 222,
+        "name": "fi"
+    },
+    {
+        "code": 223,
+        "name": "fl"
+    },
+    {
+        "code": 224,
+        "name": "daggerdbl"
+    },
+    {
+        "code": 225,
+        "name": "periodcentered"
+    },
+    {
+        "code": 226,
+        "name": "quotesinglbase"
+    },
+    {
+        "code": 227,
+        "name": "quotedblbase"
+    },
+    {
+        "code": 228,
+        "name": "perthousand"
+    },
+    {
+        "code": 229,
+        "name": "Acircumflex"
+    },
+    {
+        "code": 230,
+        "name": "Ecircumflex"
+    },
+    {
+        "code": 231,
+        "name": "Aacute"
+    },
+    {
+        "code": 232,
+        "name": "Edieresis"
+    },
+    {
+        "code": 233,
+        "name": "Egrave"
+    },
+    {
+        "code": 234,
+        "name": "Iacute"
+    },
+    {
+        "code": 235,
+        "name": "Icircumflex"
+    },
+    {
+        "code": 236,
+        "name": "Idieresis"
+    },
+    {
+        "code": 237,
+        "name": "Igrave"
+    },
+    {
+        "code": 238,
+        "name": "Oacute"
+    },
+    {
+        "code": 239,
+        "name": "Ocircumflex"
+    },
+    {
+        "code": 241,
+        "name": "Ograve"
+    },
+    {
+        "code": 242,
+        "name": "Uacute"
+    },
+    {
+        "code": 243,
+        "name": "Ucircumflex"
+    },
+    {
+        "code": 244,
+        "name": "Ugrave"
+    },
+    {
+        "code": 245,
+        "name": "dotlessi"
+    },
+    {
+        "code": 246,
+        "name": "circumflex"
+    },
+    {
+        "code": 247,
+        "name": "tilde"
+    },
+    {
+        "code": 248,
+        "name": "macron"
+    },
+    {
+        "code": 249,
+        "name": "breve"
+    },
+    {
+        "code": 250,
+        "name": "dotaccent"
+    },
+    {
+        "code": 251,
+        "name": "ring"
+    },
+    {
+        "code": 252,
+        "name": "cedilla"
+    },
+    {
+        "code": 253,
+        "name": "hungarumlaut"
+    },
+    {
+        "code": 254,
+        "name": "ogonek"
+    },
+    {
+        "code": 255,
+        "name": "caron"
+    },
+    {
+        "code": 0,
+        "name": "NULL"
+    },
+    {
+        "code": 13,
+        "name": "CR"
+    },
+    {
+        "code": 32,
+        "name": "space"
+    },
+    {
+        "code": 33,
+        "name": "exclam"
+    },
+    {
+        "code": 34,
+        "name": "quotedbl"
+    },
+    {
+        "code": 35,
+        "name": "numbersign"
+    },
+    {
+        "code": 36,
+        "name": "dollar"
+    },
+    {
+        "code": 37,
+        "name": "percent"
+    },
+    {
+        "code": 38,
+        "name": "ampersand"
+    },
+    {
+        "code": 39,
+        "name": "quotesingle"
+    },
+    {
+        "code": 40,
+        "name": "parenleft"
+    },
+    {
+        "code": 41,
+        "name": "parenright"
+    },
+    {
+        "code": 42,
+        "name": "asterisk"
+    },
+    {
+        "code": 43,
+        "name": "plus"
+    },
+    {
+        "code": 44,
+        "name": "comma"
+    },
+    {
+        "code": 45,
+        "name": "hyphen"
+    },
+    {
+        "code": 46,
+        "name": "period"
+    },
+    {
+        "code": 47,
+        "name": "slash"
+    },
+    {
+        "code": 48,
+        "name": "zero"
+    },
+    {
+        "code": 49,
+        "name": "one"
+    },
+    {
+        "code": 50,
+        "name": "two"
+    },
+    {
+        "code": 51,
+        "name": "three"
+    },
+    {
+        "code": 52,
+        "name": "four"
+    },
+    {
+        "code": 53,
+        "name": "five"
+    },
+    {
+        "code": 54,
+        "name": "six"
+    },
+    {
+        "code": 55,
+        "name": "seven"
+    },
+    {
+        "code": 56,
+        "name": "eight"
+    },
+    {
+        "code": 57,
+        "name": "nine"
+    },
+    {
+        "code": 58,
+        "name": "colon"
+    },
+    {
+        "code": 59,
+        "name": "semicolon"
+    },
+    {
+        "code": 60,
+        "name": "less"
+    },
+    {
+        "code": 61,
+        "name": "equal"
+    },
+    {
+        "code": 62,
+        "name": "greater"
+    },
+    {
+        "code": 63,
+        "name": "question"
+    },
+    {
+        "code": 64,
+        "name": "at"
+    },
+    {
+        "code": 65,
+        "name": "A"
+    },
+    {
+        "code": 66,
+        "name": "B"
+    },
+    {
+        "code": 67,
+        "name": "C"
+    },
+    {
+        "code": 68,
+        "name": "D"
+    },
+    {
+        "code": 69,
+        "name": "E"
+    },
+    {
+        "code": 70,
+        "name": "F"
+    },
+    {
+        "code": 71,
+        "name": "G"
+    },
+    {
+        "code": 72,
+        "name": "H"
+    },
+    {
+        "code": 73,
+        "name": "I"
+    },
+    {
+        "code": 74,
+        "name": "J"
+    },
+    {
+        "code": 75,
+        "name": "K"
+    },
+    {
+        "code": 76,
+        "name": "L"
+    },
+    {
+        "code": 77,
+        "name": "M"
+    },
+    {
+        "code": 78,
+        "name": "N"
+    },
+    {
+        "code": 79,
+        "name": "O"
+    },
+    {
+        "code": 80,
+        "name": "P"
+    },
+    {
+        "code": 81,
+        "name": "Q"
+    },
+    {
+        "code": 82,
+        "name": "R"
+    },
+    {
+        "code": 83,
+        "name": "S"
+    },
+    {
+        "code": 84,
+        "name": "T"
+    },
+    {
+        "code": 85,
+        "name": "U"
+    },
+    {
+        "code": 86,
+        "name": "V"
+    },
+    {
+        "code": 87,
+        "name": "W"
+    },
+    {
+        "code": 88,
+        "name": "X"
+    },
+    {
+        "code": 89,
+        "name": "Y"
+    },
+    {
+        "code": 90,
+        "name": "Z"
+    },
+    {
+        "code": 91,
+        "name": "bracketleft"
+    },
+    {
+        "code": 92,
+        "name": "backslash"
+    },
+    {
+        "code": 93,
+        "name": "bracketright"
+    },
+    {
+        "code": 94,
+        "name": "asciicircum"
+    },
+    {
+        "code": 95,
+        "name": "underscore"
+    },
+    {
+        "code": 96,
+        "name": "grave"
+    },
+    {
+        "code": 97,
+        "name": "a"
+    },
+    {
+        "code": 98,
+        "name": "b"
+    },
+    {
+        "code": 99,
+        "name": "c"
+    },
+    {
+        "code": 100,
+        "name": "d"
+    },
+    {
+        "code": 101,
+        "name": "e"
+    },
+    {
+        "code": 102,
+        "name": "f"
+    },
+    {
+        "code": 103,
+        "name": "g"
+    },
+    {
+        "code": 104,
+        "name": "h"
+    },
+    {
+        "code": 105,
+        "name": "i"
+    },
+    {
+        "code": 106,
+        "name": "j"
+    },
+    {
+        "code": 107,
+        "name": "k"
+    },
+    {
+        "code": 108,
+        "name": "l"
+    },
+    {
+        "code": 109,
+        "name": "m"
+    },
+    {
+        "code": 110,
+        "name": "n"
+    },
+    {
+        "code": 111,
+        "name": "o"
+    },
+    {
+        "code": 112,
+        "name": "p"
+    },
+    {
+        "code": 113,
+        "name": "q"
+    },
+    {
+        "code": 114,
+        "name": "r"
+    },
+    {
+        "code": 115,
+        "name": "s"
+    },
+    {
+        "code": 116,
+        "name": "t"
+    },
+    {
+        "code": 117,
+        "name": "u"
+    },
+    {
+        "code": 118,
+        "name": "v"
+    },
+    {
+        "code": 119,
+        "name": "w"
+    },
+    {
+        "code": 120,
+        "name": "x"
+    },
+    {
+        "code": 121,
+        "name": "y"
+    },
+    {
+        "code": 122,
+        "name": "z"
+    },
+    {
+        "code": 123,
+        "name": "braceleft"
+    },
+    {
+        "code": 124,
+        "name": "bar"
+    },
+    {
+        "code": 125,
+        "name": "braceright"
+    },
+    {
+        "code": 126,
+        "name": "asciitilde"
+    },
+    {
+        "code": 161,
+        "name": "exclamdown"
+    },
+    {
+        "code": 162,
+        "name": "cent"
+    },
+    {
+        "code": 163,
+        "name": "sterling"
+    },
+    {
+        "code": 164,
+        "name": "currency"
+    },
+    {
+        "code": 165,
+        "name": "yen"
+    },
+    {
+        "code": 166,
+        "name": "brokenbar"
+    },
+    {
+        "code": 167,
+        "name": "section"
+    },
+    {
+        "code": 168,
+        "name": "dieresis"
+    },
+    {
+        "code": 169,
+        "name": "copyright"
+    },
+    {
+        "code": 171,
+        "name": "guillemotleft"
+    },
+    {
+        "code": 172,
+        "name": "logicalnot"
+    },
+    {
+        "code": 174,
+        "name": "registered"
+    },
+    {
+        "code": 175,
+        "name": "macron"
+    },
+    {
+        "code": 176,
+        "name": "degree"
+    },
+    {
+        "code": 177,
+        "name": "plusminus"
+    },
+    {
+        "code": 178,
+        "name": "twosuperior"
+    },
+    {
+        "code": 179,
+        "name": "threesuperior"
+    },
+    {
+        "code": 180,
+        "name": "acute"
+    },
+    {
+        "code": 181,
+        "name": "uni00B5"
+    },
+    {
+        "code": 182,
+        "name": "paragraph"
+    },
+    {
+        "code": 183,
+        "name": "periodcentered"
+    },
+    {
+        "code": 184,
+        "name": "cedilla"
+    },
+    {
+        "code": 185,
+        "name": "onesuperior"
+    },
+    {
+        "code": 187,
+        "name": "guillemotright"
+    },
+    {
+        "code": 191,
+        "name": "questiondown"
+    },
+    {
+        "code": 192,
+        "name": "Agrave"
+    },
+    {
+        "code": 193,
+        "name": "Aacute"
+    },
+    {
+        "code": 194,
+        "name": "Acircumflex"
+    },
+    {
+        "code": 195,
+        "name": "Atilde"
+    },
+    {
+        "code": 196,
+        "name": "Adieresis"
+    },
+    {
+        "code": 197,
+        "name": "Aring"
+    },
+    {
+        "code": 198,
+        "name": "AE"
+    },
+    {
+        "code": 199,
+        "name": "Ccedilla"
+    },
+    {
+        "code": 200,
+        "name": "Egrave"
+    },
+    {
+        "code": 201,
+        "name": "Eacute"
+    },
+    {
+        "code": 202,
+        "name": "Ecircumflex"
+    },
+    {
+        "code": 203,
+        "name": "Edieresis"
+    },
+    {
+        "code": 204,
+        "name": "Igrave"
+    },
+    {
+        "code": 205,
+        "name": "Iacute"
+    },
+    {
+        "code": 206,
+        "name": "Icircumflex"
+    },
+    {
+        "code": 207,
+        "name": "Idieresis"
+    },
+    {
+        "code": 208,
+        "name": "Eth"
+    },
+    {
+        "code": 209,
+        "name": "Ntilde"
+    },
+    {
+        "code": 210,
+        "name": "Ograve"
+    },
+    {
+        "code": 211,
+        "name": "Oacute"
+    },
+    {
+        "code": 212,
+        "name": "Ocircumflex"
+    },
+    {
+        "code": 213,
+        "name": "Otilde"
+    },
+    {
+        "code": 214,
+        "name": "Odieresis"
+    },
+    {
+        "code": 215,
+        "name": "multiply"
+    },
+    {
+        "code": 216,
+        "name": "Oslash"
+    },
+    {
+        "code": 217,
+        "name": "Ugrave"
+    },
+    {
+        "code": 218,
+        "name": "Uacute"
+    },
+    {
+        "code": 219,
+        "name": "Ucircumflex"
+    },
+    {
+        "code": 220,
+        "name": "Udieresis"
+    },
+    {
+        "code": 221,
+        "name": "Yacute"
+    },
+    {
+        "code": 222,
+        "name": "Thorn"
+    },
+    {
+        "code": 223,
+        "name": "germandbls"
+    },
+    {
+        "code": 224,
+        "name": "agrave"
+    },
+    {
+        "code": 225,
+        "name": "aacute"
+    },
+    {
+        "code": 226,
+        "name": "acircumflex"
+    },
+    {
+        "code": 227,
+        "name": "atilde"
+    },
+    {
+        "code": 228,
+        "name": "adieresis"
+    },
+    {
+        "code": 229,
+        "name": "aring"
+    },
+    {
+        "code": 230,
+        "name": "ae"
+    },
+    {
+        "code": 231,
+        "name": "ccedilla"
+    },
+    {
+        "code": 232,
+        "name": "egrave"
+    },
+    {
+        "code": 233,
+        "name": "eacute"
+    },
+    {
+        "code": 234,
+        "name": "ecircumflex"
+    },
+    {
+        "code": 235,
+        "name": "edieresis"
+    },
+    {
+        "code": 236,
+        "name": "igrave"
+    },
+    {
+        "code": 237,
+        "name": "iacute"
+    },
+    {
+        "code": 238,
+        "name": "icircumflex"
+    },
+    {
+        "code": 239,
+        "name": "idieresis"
+    },
+    {
+        "code": 240,
+        "name": "eth"
+    },
+    {
+        "code": 241,
+        "name": "ntilde"
+    },
+    {
+        "code": 242,
+        "name": "ograve"
+    },
+    {
+        "code": 243,
+        "name": "oacute"
+    },
+    {
+        "code": 244,
+        "name": "ocircumflex"
+    },
+    {
+        "code": 245,
+        "name": "otilde"
+    },
+    {
+        "code": 246,
+        "name": "odieresis"
+    },
+    {
+        "code": 247,
+        "name": "divide"
+    },
+    {
+        "code": 248,
+        "name": "oslash"
+    },
+    {
+        "code": 249,
+        "name": "ugrave"
+    },
+    {
+        "code": 250,
+        "name": "uacute"
+    },
+    {
+        "code": 251,
+        "name": "ucircumflex"
+    },
+    {
+        "code": 252,
+        "name": "udieresis"
+    },
+    {
+        "code": 253,
+        "name": "yacute"
+    },
+    {
+        "code": 254,
+        "name": "thorn"
+    },
+    {
+        "code": 255,
+        "name": "ydieresis"
+    },
+    {
+        "code": 256,
+        "name": "Amacron"
+    },
+    {
+        "code": 257,
+        "name": "amacron"
+    },
+    {
+        "code": 258,
+        "name": "Abreve"
+    },
+    {
+        "code": 259,
+        "name": "abreve"
+    },
+    {
+        "code": 260,
+        "name": "Aogonek"
+    },
+    {
+        "code": 261,
+        "name": "aogonek"
+    },
+    {
+        "code": 262,
+        "name": "Cacute"
+    },
+    {
+        "code": 263,
+        "name": "cacute"
+    },
+    {
+        "code": 264,
+        "name": "Ccircumflex"
+    },
+    {
+        "code": 265,
+        "name": "ccircumflex"
+    },
+    {
+        "code": 266,
+        "name": "Cdotaccent"
+    },
+    {
+        "code": 267,
+        "name": "cdotaccent"
+    },
+    {
+        "code": 268,
+        "name": "Ccaron"
+    },
+    {
+        "code": 269,
+        "name": "ccaron"
+    },
+    {
+        "code": 270,
+        "name": "Dcaron"
+    },
+    {
+        "code": 271,
+        "name": "dcaron"
+    },
+    {
+        "code": 272,
+        "name": "Dcroat"
+    },
+    {
+        "code": 273,
+        "name": "dcroat"
+    },
+    {
+        "code": 274,
+        "name": "Emacron"
+    },
+    {
+        "code": 275,
+        "name": "emacron"
+    },
+    {
+        "code": 276,
+        "name": "Ebreve"
+    },
+    {
+        "code": 277,
+        "name": "ebreve"
+    },
+    {
+        "code": 278,
+        "name": "Edotaccent"
+    },
+    {
+        "code": 279,
+        "name": "edotaccent"
+    },
+    {
+        "code": 280,
+        "name": "Eogonek"
+    },
+    {
+        "code": 281,
+        "name": "eogonek"
+    },
+    {
+        "code": 282,
+        "name": "Ecaron"
+    },
+    {
+        "code": 283,
+        "name": "ecaron"
+    },
+    {
+        "code": 284,
+        "name": "Gcircumflex"
+    },
+    {
+        "code": 285,
+        "name": "gcircumflex"
+    },
+    {
+        "code": 286,
+        "name": "Gbreve"
+    },
+    {
+        "code": 287,
+        "name": "gbreve"
+    },
+    {
+        "code": 288,
+        "name": "Gdotaccent"
+    },
+    {
+        "code": 289,
+        "name": "gdotaccent"
+    },
+    {
+        "code": 290,
+        "name": "uni0122"
+    },
+    {
+        "code": 291,
+        "name": "uni0123"
+    },
+    {
+        "code": 292,
+        "name": "Hcircumflex"
+    },
+    {
+        "code": 293,
+        "name": "hcircumflex"
+    },
+    {
+        "code": 294,
+        "name": "Hbar"
+    },
+    {
+        "code": 295,
+        "name": "hbar"
+    },
+    {
+        "code": 296,
+        "name": "Itilde"
+    },
+    {
+        "code": 297,
+        "name": "itilde"
+    },
+    {
+        "code": 298,
+        "name": "Imacron"
+    },
+    {
+        "code": 299,
+        "name": "imacron"
+    },
+    {
+        "code": 300,
+        "name": "Ibreve"
+    },
+    {
+        "code": 301,
+        "name": "ibreve"
+    },
+    {
+        "code": 302,
+        "name": "Iogonek"
+    },
+    {
+        "code": 303,
+        "name": "iogonek"
+    },
+    {
+        "code": 304,
+        "name": "Idotaccent"
+    },
+    {
+        "code": 305,
+        "name": "dotlessi"
+    },
+    {
+        "code": 306,
+        "name": "IJ"
+    },
+    {
+        "code": 307,
+        "name": "ij"
+    },
+    {
+        "code": 308,
+        "name": "Jcircumflex"
+    },
+    {
+        "code": 309,
+        "name": "jcircumflex"
+    },
+    {
+        "code": 310,
+        "name": "uni0136"
+    },
+    {
+        "code": 311,
+        "name": "uni0137"
+    },
+    {
+        "code": 312,
+        "name": "uni0138"
+    },
+    {
+        "code": 313,
+        "name": "Lacute"
+    },
+    {
+        "code": 314,
+        "name": "lacute"
+    },
+    {
+        "code": 315,
+        "name": "uni013B"
+    },
+    {
+        "code": 316,
+        "name": "uni013C"
+    },
+    {
+        "code": 317,
+        "name": "Lcaron"
+    },
+    {
+        "code": 318,
+        "name": "lcaron"
+    },
+    {
+        "code": 319,
+        "name": "Ldot"
+    },
+    {
+        "code": 320,
+        "name": "ldot"
+    },
+    {
+        "code": 321,
+        "name": "Lslash"
+    },
+    {
+        "code": 322,
+        "name": "lslash"
+    },
+    {
+        "code": 323,
+        "name": "Nacute"
+    },
+    {
+        "code": 324,
+        "name": "nacute"
+    },
+    {
+        "code": 325,
+        "name": "uni0145"
+    },
+    {
+        "code": 326,
+        "name": "uni0146"
+    },
+    {
+        "code": 327,
+        "name": "Ncaron"
+    },
+    {
+        "code": 328,
+        "name": "ncaron"
+    },
+    {
+        "code": 329,
+        "name": "uni0149"
+    },
+    {
+        "code": 330,
+        "name": "uni014A"
+    },
+    {
+        "code": 331,
+        "name": "uni014B"
+    },
+    {
+        "code": 332,
+        "name": "Omacron"
+    },
+    {
+        "code": 333,
+        "name": "omacron"
+    },
+    {
+        "code": 334,
+        "name": "Obreve"
+    },
+    {
+        "code": 335,
+        "name": "obreve"
+    },
+    {
+        "code": 336,
+        "name": "Ohungarumlaut"
+    },
+    {
+        "code": 337,
+        "name": "ohungarumlaut"
+    },
+    {
+        "code": 338,
+        "name": "OE"
+    },
+    {
+        "code": 339,
+        "name": "oe"
+    },
+    {
+        "code": 340,
+        "name": "Racute"
+    },
+    {
+        "code": 341,
+        "name": "racute"
+    },
+    {
+        "code": 342,
+        "name": "uni0156"
+    },
+    {
+        "code": 343,
+        "name": "uni0157"
+    },
+    {
+        "code": 344,
+        "name": "Rcaron"
+    },
+    {
+        "code": 345,
+        "name": "rcaron"
+    },
+    {
+        "code": 346,
+        "name": "Sacute"
+    },
+    {
+        "code": 347,
+        "name": "sacute"
+    },
+    {
+        "code": 348,
+        "name": "Scircumflex"
+    },
+    {
+        "code": 349,
+        "name": "scircumflex"
+    },
+    {
+        "code": 350,
+        "name": "uni015E"
+    },
+    {
+        "code": 351,
+        "name": "uni015F"
+    },
+    {
+        "code": 352,
+        "name": "Scaron"
+    },
+    {
+        "code": 353,
+        "name": "scaron"
+    },
+    {
+        "code": 354,
+        "name": "uni0162"
+    },
+    {
+        "code": 355,
+        "name": "uni0163"
+    },
+    {
+        "code": 356,
+        "name": "Tcaron"
+    },
+    {
+        "code": 357,
+        "name": "tcaron"
+    },
+    {
+        "code": 358,
+        "name": "Tbar"
+    },
+    {
+        "code": 359,
+        "name": "tbar"
+    },
+    {
+        "code": 360,
+        "name": "Utilde"
+    },
+    {
+        "code": 361,
+        "name": "utilde"
+    },
+    {
+        "code": 362,
+        "name": "Umacron"
+    },
+    {
+        "code": 363,
+        "name": "umacron"
+    },
+    {
+        "code": 364,
+        "name": "Ubreve"
+    },
+    {
+        "code": 365,
+        "name": "ubreve"
+    },
+    {
+        "code": 366,
+        "name": "Uring"
+    },
+    {
+        "code": 367,
+        "name": "uring"
+    },
+    {
+        "code": 368,
+        "name": "Uhungarumlaut"
+    },
+    {
+        "code": 369,
+        "name": "uhungarumlaut"
+    },
+    {
+        "code": 370,
+        "name": "Uogonek"
+    },
+    {
+        "code": 371,
+        "name": "uogonek"
+    },
+    {
+        "code": 372,
+        "name": "Wcircumflex"
+    },
+    {
+        "code": 373,
+        "name": "wcircumflex"
+    },
+    {
+        "code": 374,
+        "name": "Ycircumflex"
+    },
+    {
+        "code": 375,
+        "name": "ycircumflex"
+    },
+    {
+        "code": 376,
+        "name": "Ydieresis"
+    },
+    {
+        "code": 377,
+        "name": "Zacute"
+    },
+    {
+        "code": 378,
+        "name": "zacute"
+    },
+    {
+        "code": 379,
+        "name": "Zdotaccent"
+    },
+    {
+        "code": 380,
+        "name": "zdotaccent"
+    },
+    {
+        "code": 381,
+        "name": "Zcaron"
+    },
+    {
+        "code": 382,
+        "name": "zcaron"
+    },
+    {
+        "code": 383,
+        "name": "uni017F"
+    },
+    {
+        "code": 402,
+        "name": "florin"
+    },
+    {
+        "code": 536,
+        "name": "uni0218"
+    },
+    {
+        "code": 537,
+        "name": "uni0219"
+    },
+    {
+        "code": 538,
+        "name": "uni021A"
+    },
+    {
+        "code": 539,
+        "name": "uni021B"
+    },
+    {
+        "code": 567,
+        "name": "uni0237"
+    },
+    {
+        "code": 700,
+        "name": "uni02BC"
+    },
+    {
+        "code": 710,
+        "name": "circumflex"
+    },
+    {
+        "code": 711,
+        "name": "caron"
+    },
+    {
+        "code": 728,
+        "name": "breve"
+    },
+    {
+        "code": 729,
+        "name": "dotaccent"
+    },
+    {
+        "code": 730,
+        "name": "ring"
+    },
+    {
+        "code": 731,
+        "name": "ogonek"
+    },
+    {
+        "code": 732,
+        "name": "tilde"
+    },
+    {
+        "code": 733,
+        "name": "hungarumlaut"
+    },
+    {
+        "code": 960,
+        "name": "pi"
+    },
+    {
+        "code": 2404,
+        "name": "danda"
+    },
+    {
+        "code": 2405,
+        "name": "doubledanda"
+    },
+    {
+        "code": 2432,
+        "name": "bnAnji"
+    },
+    {
+        "code": 2433,
+        "name": "bnCandrabindu"
+    },
+    {
+        "code": 2434,
+        "name": "bnAnusvara"
+    },
+    {
+        "code": 2435,
+        "name": "bnVisarga"
+    },
+    {
+        "code": 2437,
+        "name": "bnA"
+    },
+    {
+        "code": 2438,
+        "name": "bnAA"
+    },
+    {
+        "code": 2439,
+        "name": "bnI"
+    },
+    {
+        "code": 2440,
+        "name": "bnII"
+    },
+    {
+        "code": 2441,
+        "name": "bnU"
+    },
+    {
+        "code": 2442,
+        "name": "bnUU"
+    },
+    {
+        "code": 2443,
+        "name": "bnvR"
+    },
+    {
+        "code": 2444,
+        "name": "bnvL"
+    },
+    {
+        "code": 2447,
+        "name": "bnE"
+    },
+    {
+        "code": 2448,
+        "name": "bnAI"
+    },
+    {
+        "code": 2451,
+        "name": "bnO"
+    },
+    {
+        "code": 2452,
+        "name": "bnAU"
+    },
+    {
+        "code": 2453,
+        "name": "bnKA"
+    },
+    {
+        "code": 2454,
+        "name": "bnKHA"
+    },
+    {
+        "code": 2455,
+        "name": "bnGA"
+    },
+    {
+        "code": 2456,
+        "name": "bnGHA"
+    },
+    {
+        "code": 2457,
+        "name": "bnNGA"
+    },
+    {
+        "code": 2458,
+        "name": "bnCA"
+    },
+    {
+        "code": 2459,
+        "name": "bnCHA"
+    },
+    {
+        "code": 2460,
+        "name": "bnJA"
+    },
+    {
+        "code": 2461,
+        "name": "bnJHA"
+    },
+    {
+        "code": 2462,
+        "name": "bnNYA"
+    },
+    {
+        "code": 2463,
+        "name": "bnTTA"
+    },
+    {
+        "code": 2464,
+        "name": "bnTTHA"
+    },
+    {
+        "code": 2465,
+        "name": "bnDDA"
+    },
+    {
+        "code": 2466,
+        "name": "bnDDHA"
+    },
+    {
+        "code": 2467,
+        "name": "bnNNA"
+    },
+    {
+        "code": 2468,
+        "name": "bnTA"
+    },
+    {
+        "code": 2469,
+        "name": "bnTHA"
+    },
+    {
+        "code": 2470,
+        "name": "bnDA"
+    },
+    {
+        "code": 2471,
+        "name": "bnDHA"
+    },
+    {
+        "code": 2472,
+        "name": "bnNA"
+    },
+    {
+        "code": 2474,
+        "name": "bnPA"
+    },
+    {
+        "code": 2475,
+        "name": "bnPHA"
+    },
+    {
+        "code": 2476,
+        "name": "bnBA"
+    },
+    {
+        "code": 2477,
+        "name": "bnBHA"
+    },
+    {
+        "code": 2478,
+        "name": "bnMA"
+    },
+    {
+        "code": 2479,
+        "name": "bnYA"
+    },
+    {
+        "code": 2480,
+        "name": "bnRA"
+    },
+    {
+        "code": 2482,
+        "name": "bnLA"
+    },
+    {
+        "code": 2486,
+        "name": "bnSHA"
+    },
+    {
+        "code": 2487,
+        "name": "bnSSA"
+    },
+    {
+        "code": 2488,
+        "name": "bnSA"
+    },
+    {
+        "code": 2489,
+        "name": "bnHA"
+    },
+    {
+        "code": 2492,
+        "name": "bnNukta"
+    },
+    {
+        "code": 2493,
+        "name": "bnAvagraha"
+    },
+    {
+        "code": 2494,
+        "name": "bnmAA"
+    },
+    {
+        "code": 2495,
+        "name": "bnmI"
+    },
+    {
+        "code": 2496,
+        "name": "bnmII"
+    },
+    {
+        "code": 2497,
+        "name": "bnmU"
+    },
+    {
+        "code": 2498,
+        "name": "bnmUU"
+    },
+    {
+        "code": 2499,
+        "name": "bnmvR"
+    },
+    {
+        "code": 2500,
+        "name": "bnmvRR"
+    },
+    {
+        "code": 2503,
+        "name": "bnmE"
+    },
+    {
+        "code": 2504,
+        "name": "bnmAI"
+    },
+    {
+        "code": 2507,
+        "name": "bnmO"
+    },
+    {
+        "code": 2508,
+        "name": "bnmAU"
+    },
+    {
+        "code": 2509,
+        "name": "bnVirama"
+    },
+    {
+        "code": 2510,
+        "name": "bnTAkhanda"
+    },
+    {
+        "code": 2519,
+        "name": "bnAUlengthmark"
+    },
+    {
+        "code": 2524,
+        "name": "bnDDxA"
+    },
+    {
+        "code": 2525,
+        "name": "bnDDHxA"
+    },
+    {
+        "code": 2527,
+        "name": "bnYxA"
+    },
+    {
+        "code": 2528,
+        "name": "bnvRR"
+    },
+    {
+        "code": 2529,
+        "name": "bnvLL"
+    },
+    {
+        "code": 2530,
+        "name": "bnmvL"
+    },
+    {
+        "code": 2531,
+        "name": "bnmvLL"
+    },
+    {
+        "code": 2534,
+        "name": "bnZero"
+    },
+    {
+        "code": 2535,
+        "name": "bnOne"
+    },
+    {
+        "code": 2536,
+        "name": "bnTwo"
+    },
+    {
+        "code": 2537,
+        "name": "bnThree"
+    },
+    {
+        "code": 2538,
+        "name": "bnFour"
+    },
+    {
+        "code": 2539,
+        "name": "bnFive"
+    },
+    {
+        "code": 2540,
+        "name": "bnSix"
+    },
+    {
+        "code": 2541,
+        "name": "bnSeven"
+    },
+    {
+        "code": 2542,
+        "name": "bnEight"
+    },
+    {
+        "code": 2543,
+        "name": "bnNine"
+    },
+    {
+        "code": 2544,
+        "name": "asRA"
+    },
+    {
+        "code": 2545,
+        "name": "asWA"
+    },
+    {
+        "code": 2546,
+        "name": "bnTaka"
+    },
+    {
+        "code": 2547,
+        "name": "bnBangladeshitaka"
+    },
+    {
+        "code": 2548,
+        "name": "bnNumeratorone"
+    },
+    {
+        "code": 2549,
+        "name": "bnNumeratortwo"
+    },
+    {
+        "code": 2550,
+        "name": "bnNumeratorthree"
+    },
+    {
+        "code": 2551,
+        "name": "bnNumeratorfour"
+    },
+    {
+        "code": 2552,
+        "name": "bnNumeratoroneless"
+    },
+    {
+        "code": 2553,
+        "name": "bnDenominatorsixteen"
+    },
+    {
+        "code": 2554,
+        "name": "bnIsshar"
+    },
+    {
+        "code": 2555,
+        "name": "bnGanda"
+    },
+    {
+        "code": 7808,
+        "name": "Wgrave"
+    },
+    {
+        "code": 7809,
+        "name": "wgrave"
+    },
+    {
+        "code": 7810,
+        "name": "Wacute"
+    },
+    {
+        "code": 7811,
+        "name": "wacute"
+    },
+    {
+        "code": 7812,
+        "name": "Wdieresis"
+    },
+    {
+        "code": 7813,
+        "name": "wdieresis"
+    },
+    {
+        "code": 7922,
+        "name": "Ygrave"
+    },
+    {
+        "code": 7923,
+        "name": "ygrave"
+    },
+    {
+        "code": 8204,
+        "name": "uni200C"
+    },
+    {
+        "code": 8205,
+        "name": "uni200D"
+    },
+    {
+        "code": 8211,
+        "name": "endash"
+    },
+    {
+        "code": 8212,
+        "name": "emdash"
+    },
+    {
+        "code": 8216,
+        "name": "quoteleft"
+    },
+    {
+        "code": 8217,
+        "name": "quoteright"
+    },
+    {
+        "code": 8218,
+        "name": "quotesinglbase"
+    },
+    {
+        "code": 8220,
+        "name": "quotedblleft"
+    },
+    {
+        "code": 8221,
+        "name": "quotedblright"
+    },
+    {
+        "code": 8222,
+        "name": "quotedblbase"
+    },
+    {
+        "code": 8224,
+        "name": "dagger"
+    },
+    {
+        "code": 8225,
+        "name": "daggerdbl"
+    },
+    {
+        "code": 8226,
+        "name": "bullet"
+    },
+    {
+        "code": 8230,
+        "name": "ellipsis"
+    },
+    {
+        "code": 8240,
+        "name": "perthousand"
+    },
+    {
+        "code": 8249,
+        "name": "guilsinglleft"
+    },
+    {
+        "code": 8250,
+        "name": "guilsinglright"
+    },
+    {
+        "code": 8260,
+        "name": "fraction"
+    },
+    {
+        "code": 8308,
+        "name": "four.superior"
+    },
+    {
+        "code": 8364,
+        "name": "Euro"
+    },
+    {
+        "code": 8377,
+        "name": "indianrupee"
+    },
+    {
+        "code": 8482,
+        "name": "trademark"
+    },
+    {
+        "code": 8486,
+        "name": "uni2126"
+    },
+    {
+        "code": 8494,
+        "name": "estimated"
+    },
+    {
+        "code": 8706,
+        "name": "partialdiff"
+    },
+    {
+        "code": 8710,
+        "name": "uni2206"
+    },
+    {
+        "code": 8719,
+        "name": "product"
+    },
+    {
+        "code": 8721,
+        "name": "summation"
+    },
+    {
+        "code": 8722,
+        "name": "minus"
+    },
+    {
+        "code": 8725,
+        "name": "uni2215"
+    },
+    {
+        "code": 8729,
+        "name": "uni2219"
+    },
+    {
+        "code": 8730,
+        "name": "radical"
+    },
+    {
+        "code": 8734,
+        "name": "infinity"
+    },
+    {
+        "code": 8747,
+        "name": "integral"
+    },
+    {
+        "code": 8776,
+        "name": "approxequal"
+    },
+    {
+        "code": 8800,
+        "name": "notequal"
+    },
+    {
+        "code": 8804,
+        "name": "lessequal"
+    },
+    {
+        "code": 8805,
+        "name": "greaterequal"
+    },
+    {
+        "code": 9674,
+        "name": "lozenge"
+    },
+    {
+        "code": 9676,
+        "name": "uni25CC"
+    },
+    {
+        "code": 64257,
+        "name": "fi"
+    },
+    {
+        "code": 64258,
+        "name": "fl"
+    }
+]

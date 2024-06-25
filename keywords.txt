@@ -1,0 +1,24 @@
+#######################################
+# Syntax Coloring Map For BanglaText
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+BanglaText	KEYWORD1
+BTfont KEYWORD1
+BTTextSize KEYWORD1
+BanglaTextRenderer KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+getTextSize	KEYWORD2
+BanglaTextRenderer	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+#	LITERAL1
