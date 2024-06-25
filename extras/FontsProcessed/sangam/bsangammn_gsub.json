@@ -1,0 +1,4562 @@
+[
+    {
+        "output": "bn_j_nya",
+        "index": "7",
+        "tag": "akhn",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ja",
+            "bn_halanth,bn_nya"
+        ]
+    },
+    {
+        "output": "bn_k_ssa",
+        "index": "7",
+        "tag": "akhn",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ka",
+            "bn_halanth,bn_ssa"
+        ]
+    },
+    {
+        "output": "bn_ba_phala",
+        "index": "9",
+        "tag": "blwf",
+        "type": "4",
+        "input_glyphs": [
+            "bn_halanth",
+            "bn_ba"
+        ]
+    },
+    {
+        "output": "bn_ra_phala",
+        "index": "9",
+        "tag": "blwf",
+        "type": "4",
+        "input_glyphs": [
+            "bn_halanth",
+            "bn_ra"
+        ]
+    },
+    {
+        "output": "bn_ra_phala",
+        "index": "9",
+        "tag": "blwf",
+        "type": "4",
+        "input_glyphs": [
+            "bn_halanth",
+            "asa_ra"
+        ]
+    },
+    {
+        "output": "bn_b_la",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ba_half",
+            "bn_la"
+        ]
+    },
+    {
+        "output": "bn_b_bha",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ba_half",
+            "bn_bha"
+        ]
+    },
+    {
+        "output": "bn_b_na",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ba_half",
+            "bn_na"
+        ]
+    },
+    {
+        "output": "bn_b_dha",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ba_half",
+            "bn_dha"
+        ]
+    },
+    {
+        "output": "bn_b_da",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ba_half",
+            "bn_da"
+        ]
+    },
+    {
+        "output": "bn_b_ja",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ba_half",
+            "bn_ja"
+        ]
+    },
+    {
+        "output": "bn_bh_la",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_bha_half",
+            "bn_la"
+        ]
+    },
+    {
+        "output": "bn_c_na",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ca_half",
+            "bn_na"
+        ]
+    },
+    {
+        "output": "bn_c_nya",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ca_half",
+            "bn_nya"
+        ]
+    },
+    {
+        "output": "bn_c_cha",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ca_half",
+            "bn_cha"
+        ]
+    },
+    {
+        "output": "bn_c_ca",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ca_half",
+            "bn_ca"
+        ]
+    },
+    {
+        "output": "bn_d_ma",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_da_half",
+            "bn_ma"
+        ]
+    },
+    {
+        "output": "bn_d_bha",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_da_half",
+            "bn_bha"
+        ]
+    },
+    {
+        "output": "bn_d_na",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_da_half",
+            "bn_na"
+        ]
+    },
+    {
+        "output": "bn_d_dha",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_da_half",
+            "bn_dha"
+        ]
+    },
+    {
+        "output": "bn_d_da",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_da_half",
+            "bn_da"
+        ]
+    },
+    {
+        "output": "bn_d_gha",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_da_half",
+            "bn_gha"
+        ]
+    },
+    {
+        "output": "bn_d_ga",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_da_half",
+            "bn_ga"
+        ]
+    },
+    {
+        "output": "bn_dd_ma",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_dda_half",
+            "bn_ma"
+        ]
+    },
+    {
+        "output": "bn_dd_dda",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_dda_half",
+            "bn_dda"
+        ]
+    },
+    {
+        "output": "bn_dd_ga",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_dda_half",
+            "bn_ga"
+        ]
+    },
+    {
+        "output": "bn_dh_ma",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_dha_half",
+            "bn_ma"
+        ]
+    },
+    {
+        "output": "bn_dh_na",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_dha_half",
+            "bn_na"
+        ]
+    },
+    {
+        "output": "bn_g_ma",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ga_half",
+            "bn_ma"
+        ]
+    },
+    {
+        "output": "bn_g_na",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ga_half",
+            "bn_na"
+        ]
+    },
+    {
+        "output": "bn_g_la",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ga_half",
+            "bn_la"
+        ]
+    },
+    {
+        "output": "bn_g_dha",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ga_half",
+            "bn_dha"
+        ]
+    },
+    {
+        "output": "bn_g_da",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ga_half",
+            "bn_da"
+        ]
+    },
+    {
+        "output": "bn_g_ga",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ga_half",
+            "bn_ga"
+        ]
+    },
+    {
+        "output": "bn_gh_na",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_gha_half",
+            "bn_na"
+        ]
+    },
+    {
+        "output": "bn_h_la",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ha_half",
+            "bn_la"
+        ]
+    },
+    {
+        "output": "bn_h_ma",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ha_half",
+            "bn_ma"
+        ]
+    },
+    {
+        "output": "bn_h_na",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ha_half",
+            "bn_na"
+        ]
+    },
+    {
+        "output": "bn_h_nna",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ha_half",
+            "bn_nna"
+        ]
+    },
+    {
+        "output": "bn_j_jha",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ja_half",
+            "bn_jha"
+        ]
+    },
+    {
+        "output": "bn_j_ja",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ja_half",
+            "bn_ja"
+        ]
+    },
+    {
+        "output": "bn_k_ss_ma",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_k_ssa",
+            "bn_halanth,bn_ma"
+        ]
+    },
+    {
+        "output": "bn_k_ss_nna",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_k_ssa",
+            "bn_halanth,bn_nna"
+        ]
+    },
+    {
+        "output": "bn_k_ss_ma",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_k_ssa_halanth",
+            "bn_ma"
+        ]
+    },
+    {
+        "output": "bn_k_ss_nna",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_k_ssa_halanth",
+            "bn_nna"
+        ]
+    },
+    {
+        "output": "bn_k_sa",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ka_half",
+            "bn_sa"
+        ]
+    },
+    {
+        "output": "bn_k_la",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ka_half",
+            "bn_la"
+        ]
+    },
+    {
+        "output": "bn_k_ma",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ka_half",
+            "bn_ma"
+        ]
+    },
+    {
+        "output": "bn_k_na",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ka_half",
+            "bn_na"
+        ]
+    },
+    {
+        "output": "bn_k_ta",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ka_half",
+            "bn_ta"
+        ]
+    },
+    {
+        "output": "bn_k_tta",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ka_half",
+            "bn_tta"
+        ]
+    },
+    {
+        "output": "bn_k_ka",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ka_half",
+            "bn_ka"
+        ]
+    },
+    {
+        "output": "bn_l_la",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_la_half",
+            "bn_la"
+        ]
+    },
+    {
+        "output": "bn_l_ma",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_la_half",
+            "bn_ma"
+        ]
+    },
+    {
+        "output": "bn_l_pha",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_la_half",
+            "bn_pha"
+        ]
+    },
+    {
+        "output": "bn_l_pa",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_la_half",
+            "bn_pa"
+        ]
+    },
+    {
+        "output": "bn_l_dha",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_la_half",
+            "bn_dha"
+        ]
+    },
+    {
+        "output": "bn_l_da",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_la_half",
+            "bn_da"
+        ]
+    },
+    {
+        "output": "bn_l_ta",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_la_half",
+            "bn_ta"
+        ]
+    },
+    {
+        "output": "bn_l_dda",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_la_half",
+            "bn_dda"
+        ]
+    },
+    {
+        "output": "bn_l_tta",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_la_half",
+            "bn_tta"
+        ]
+    },
+    {
+        "output": "bn_l_ga",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_la_half",
+            "bn_ga"
+        ]
+    },
+    {
+        "output": "bn_l_ka",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_la_half",
+            "bn_ka"
+        ]
+    },
+    {
+        "output": "bn_m_p_la",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ma_half",
+            "bn_pa_half,bn_la"
+        ]
+    },
+    {
+        "output": "bn_m_sa",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ma_half",
+            "bn_sa"
+        ]
+    },
+    {
+        "output": "bn_m_la",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ma_half",
+            "bn_la"
+        ]
+    },
+    {
+        "output": "bn_m_ma",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ma_half",
+            "bn_ma"
+        ]
+    },
+    {
+        "output": "bn_m_bha",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ma_half",
+            "bn_bha"
+        ]
+    },
+    {
+        "output": "bn_m_pha",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ma_half",
+            "bn_pha"
+        ]
+    },
+    {
+        "output": "bn_m_pa",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ma_half",
+            "bn_pa"
+        ]
+    },
+    {
+        "output": "bn_m_na",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ma_half",
+            "bn_na"
+        ]
+    },
+    {
+        "output": "bn_m_da",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ma_half",
+            "bn_da"
+        ]
+    },
+    {
+        "output": "bn_m_tha",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ma_half",
+            "bn_tha"
+        ]
+    },
+    {
+        "output": "bn_m_ta",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ma_half",
+            "bn_ta"
+        ]
+    },
+    {
+        "output": "bn_n_sa",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_na_half",
+            "bn_sa"
+        ]
+    },
+    {
+        "output": "bn_n_ma",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_na_half",
+            "bn_ma"
+        ]
+    },
+    {
+        "output": "bn_n_na",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_na_half",
+            "bn_na"
+        ]
+    },
+    {
+        "output": "bn_n_dha",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_na_half",
+            "bn_dha"
+        ]
+    },
+    {
+        "output": "bn_n_da",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_na_half",
+            "bn_da"
+        ]
+    },
+    {
+        "output": "bn_n_tha",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_na_half",
+            "bn_tha"
+        ]
+    },
+    {
+        "output": "bn_n_ta",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_na_half",
+            "bn_ta"
+        ]
+    },
+    {
+        "output": "bn_n_ddha",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_na_half",
+            "bn_ddha"
+        ]
+    },
+    {
+        "output": "bn_n_dda",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_na_half",
+            "bn_dda"
+        ]
+    },
+    {
+        "output": "bn_n_ttha",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_na_half",
+            "bn_ttha"
+        ]
+    },
+    {
+        "output": "bn_n_tta",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_na_half",
+            "bn_tta"
+        ]
+    },
+    {
+        "output": "bn_ng_ma",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_nga_half",
+            "bn_ma"
+        ]
+    },
+    {
+        "output": "bn_ng_gha",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_nga_half",
+            "bn_gha"
+        ]
+    },
+    {
+        "output": "bn_ng_ga",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_nga_half",
+            "bn_ga"
+        ]
+    },
+    {
+        "output": "bn_ng_kha",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_nga_half",
+            "bn_kha"
+        ]
+    },
+    {
+        "output": "bn_ng_k_ssa",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_nga_half",
+            "bn_k_ssa"
+        ]
+    },
+    {
+        "output": "bn_ng_ka",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_nga_half",
+            "bn_ka"
+        ]
+    },
+    {
+        "output": "bn_nn_ma",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_nna_half",
+            "bn_ma"
+        ]
+    },
+    {
+        "output": "bn_nn_nna",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_nna_half",
+            "bn_nna"
+        ]
+    },
+    {
+        "output": "bn_nn_ddha",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_nna_half",
+            "bn_ddha"
+        ]
+    },
+    {
+        "output": "bn_nn_dda",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_nna_half",
+            "bn_dda"
+        ]
+    },
+    {
+        "output": "bn_nn_ttha",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_nna_half",
+            "bn_ttha"
+        ]
+    },
+    {
+        "output": "bn_nn_tta",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_nna_half",
+            "bn_tta"
+        ]
+    },
+    {
+        "output": "bn_ny_jha",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_nya_half",
+            "bn_jha"
+        ]
+    },
+    {
+        "output": "bn_ny_ja",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_nya_half",
+            "bn_ja"
+        ]
+    },
+    {
+        "output": "bn_ny_cha",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_nya_half",
+            "bn_cha"
+        ]
+    },
+    {
+        "output": "bn_ny_ca",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_nya_half",
+            "bn_ca"
+        ]
+    },
+    {
+        "output": "bn_p_sa",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_pa_half",
+            "bn_sa"
+        ]
+    },
+    {
+        "output": "bn_p_la",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_pa_half",
+            "bn_la"
+        ]
+    },
+    {
+        "output": "bn_p_na",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_pa_half",
+            "bn_na"
+        ]
+    },
+    {
+        "output": "bn_p_ma",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_pa_half",
+            "bn_ma"
+        ]
+    },
+    {
+        "output": "bn_p_pa",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_pa_half",
+            "bn_pa"
+        ]
+    },
+    {
+        "output": "bn_p_ta",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_pa_half",
+            "bn_ta"
+        ]
+    },
+    {
+        "output": "bn_p_tta",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_pa_half",
+            "bn_tta"
+        ]
+    },
+    {
+        "output": "bn_ph_la",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_pha_half",
+            "bn_la"
+        ]
+    },
+    {
+        "output": "bn_ph_tta",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_pha_half",
+            "bn_tta"
+        ]
+    },
+    {
+        "output": "bn_rr_ga",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_rra_halanth",
+            "bn_ga"
+        ]
+    },
+    {
+        "output": "bn_s_p_la",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_sa_half",
+            "bn_pa_half,bn_la"
+        ]
+    },
+    {
+        "output": "bn_s_ma",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_sa_half",
+            "bn_ma"
+        ]
+    },
+    {
+        "output": "bn_s_pha",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_sa_half",
+            "bn_pha"
+        ]
+    },
+    {
+        "output": "bn_s_la",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_sa_half",
+            "bn_la"
+        ]
+    },
+    {
+        "output": "bn_s_pa",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_sa_half",
+            "bn_pa"
+        ]
+    },
+    {
+        "output": "bn_s_na",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_sa_half",
+            "bn_na"
+        ]
+    },
+    {
+        "output": "bn_s_tha",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_sa_half",
+            "bn_tha"
+        ]
+    },
+    {
+        "output": "bn_s_ta",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_sa_half",
+            "bn_ta"
+        ]
+    },
+    {
+        "output": "bn_s_tta",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_sa_half",
+            "bn_tta"
+        ]
+    },
+    {
+        "output": "bn_s_kha",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_sa_half",
+            "bn_kha"
+        ]
+    },
+    {
+        "output": "bn_s_ka",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_sa_half",
+            "bn_ka"
+        ]
+    },
+    {
+        "output": "bn_sh_la",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_sha_half",
+            "bn_la"
+        ]
+    },
+    {
+        "output": "bn_sh_ma",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_sha_half",
+            "bn_ma"
+        ]
+    },
+    {
+        "output": "bn_sh_na",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_sha_half",
+            "bn_na"
+        ]
+    },
+    {
+        "output": "bn_sh_ta",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_sha_half",
+            "bn_ta"
+        ]
+    },
+    {
+        "output": "bn_sh_cha",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_sha_half",
+            "bn_cha"
+        ]
+    },
+    {
+        "output": "bn_sh_ca",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_sha_half",
+            "bn_ca"
+        ]
+    },
+    {
+        "output": "bn_ss_ma",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ssa_half",
+            "bn_ma"
+        ]
+    },
+    {
+        "output": "bn_ss_pha",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ssa_half",
+            "bn_pha"
+        ]
+    },
+    {
+        "output": "bn_ss_pa",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ssa_half",
+            "bn_pa"
+        ]
+    },
+    {
+        "output": "bn_ss_nna",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ssa_half",
+            "bn_nna"
+        ]
+    },
+    {
+        "output": "bn_ss_ttha",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ssa_half",
+            "bn_ttha"
+        ]
+    },
+    {
+        "output": "bn_ss_tta",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ssa_half",
+            "bn_tta"
+        ]
+    },
+    {
+        "output": "bn_ss_ka",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ssa_half",
+            "bn_ka"
+        ]
+    },
+    {
+        "output": "bn_t_la",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ta_half",
+            "bn_la"
+        ]
+    },
+    {
+        "output": "bn_t_ma",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ta_half",
+            "bn_ma"
+        ]
+    },
+    {
+        "output": "bn_t_na",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ta_half",
+            "bn_na"
+        ]
+    },
+    {
+        "output": "bn_t_tha",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ta_half",
+            "bn_tha"
+        ]
+    },
+    {
+        "output": "bn_t_ta",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ta_half",
+            "bn_ta"
+        ]
+    },
+    {
+        "output": "bn_tt_ma",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_tta_half",
+            "bn_ma"
+        ]
+    },
+    {
+        "output": "bn_tt_tta",
+        "index": "10",
+        "tag": "cjct",
+        "type": "4",
+        "input_glyphs": [
+            "bn_tta_half",
+            "bn_tta"
+        ]
+    },
+    {
+        "output": "asa_ba_half",
+        "index": "11",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "asa_ba",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "asa_ra_half",
+        "index": "11",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "asa_ra",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_ba_half",
+        "index": "11",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ba",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_bha_half",
+        "index": "11",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "bn_bha",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_ca_half",
+        "index": "11",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ca",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_cha_half",
+        "index": "11",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "bn_cha",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_da_half",
+        "index": "11",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "bn_da",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_dda_half",
+        "index": "11",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "bn_dda",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_ddha_half",
+        "index": "11",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ddha",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_dha_half",
+        "index": "11",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "bn_dha",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_ga_half",
+        "index": "11",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ga",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_gha_half",
+        "index": "11",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "bn_gha",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_ha_half",
+        "index": "11",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ha",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_j_nya_halanth",
+        "index": "11",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "bn_j_nya",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_ja_half",
+        "index": "11",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ja",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_jha_half",
+        "index": "11",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "bn_jha",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_k_ssa_halanth",
+        "index": "11",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "bn_k_ssa",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_ka_half",
+        "index": "11",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ka",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_kha_half",
+        "index": "11",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "bn_kha",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_la_half",
+        "index": "11",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "bn_la",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_ma_half",
+        "index": "11",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ma",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_na_half",
+        "index": "11",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "bn_na",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_nga_half",
+        "index": "11",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "bn_nga",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_nna_half",
+        "index": "11",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "bn_nna",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_nya_half",
+        "index": "11",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "bn_nya",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_pa_half",
+        "index": "11",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "bn_pa",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_pha_half",
+        "index": "11",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "bn_pha",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_rha_halanth",
+        "index": "11",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "bn_rha",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_rra_halanth",
+        "index": "11",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "bn_rra",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_sa_half",
+        "index": "11",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "bn_sa",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_sha_half",
+        "index": "11",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "bn_sha",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_ssa_half",
+        "index": "11",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ssa",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_ta_half",
+        "index": "11",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ta",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_tha_half",
+        "index": "11",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "bn_tha",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_tta_half",
+        "index": "11",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "bn_tta",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_ttha_half",
+        "index": "11",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ttha",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_ya_half",
+        "index": "11",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ya",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_yya_halanth",
+        "index": "11",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "bn_yya",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "asa_ba_half",
+        "index": "12",
+        "tag": "haln",
+        "type": "4",
+        "input_glyphs": [
+            "asa_ba",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "asa_ra_half",
+        "index": "12",
+        "tag": "haln",
+        "type": "4",
+        "input_glyphs": [
+            "asa_ra",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_bha_half",
+        "index": "12",
+        "tag": "haln",
+        "type": "4",
+        "input_glyphs": [
+            "bn_bha",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_cha_half",
+        "index": "12",
+        "tag": "haln",
+        "type": "4",
+        "input_glyphs": [
+            "bn_cha",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_dha_half",
+        "index": "12",
+        "tag": "haln",
+        "type": "4",
+        "input_glyphs": [
+            "bn_dha",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_gha_half",
+        "index": "12",
+        "tag": "haln",
+        "type": "4",
+        "input_glyphs": [
+            "bn_gha",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_ha_half",
+        "index": "12",
+        "tag": "haln",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ha",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_j_nya_halanth",
+        "index": "12",
+        "tag": "haln",
+        "type": "4",
+        "input_glyphs": [
+            "bn_j_nya",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_ja_half",
+        "index": "12",
+        "tag": "haln",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ja",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_jha_half",
+        "index": "12",
+        "tag": "haln",
+        "type": "4",
+        "input_glyphs": [
+            "bn_jha",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_k_ssa_halanth",
+        "index": "12",
+        "tag": "haln",
+        "type": "4",
+        "input_glyphs": [
+            "bn_k_ssa",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_kha_half",
+        "index": "12",
+        "tag": "haln",
+        "type": "4",
+        "input_glyphs": [
+            "bn_kha",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_nya_half",
+        "index": "12",
+        "tag": "haln",
+        "type": "4",
+        "input_glyphs": [
+            "bn_nya",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_pha_half",
+        "index": "12",
+        "tag": "haln",
+        "type": "4",
+        "input_glyphs": [
+            "bn_pha",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_ta_half",
+        "index": "12",
+        "tag": "haln",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ta",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_tha_half",
+        "index": "12",
+        "tag": "haln",
+        "type": "4",
+        "input_glyphs": [
+            "bn_tha",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_ttha_half",
+        "index": "12",
+        "tag": "haln",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ttha",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_ya_half",
+        "index": "12",
+        "tag": "haln",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ya",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_bha_nukta",
+        "index": "14",
+        "tag": "nukt",
+        "type": "4",
+        "input_glyphs": [
+            "bn_bha",
+            "bn_nukta"
+        ]
+    },
+    {
+        "output": "bn_ca_nukta",
+        "index": "14",
+        "tag": "nukt",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ca",
+            "bn_nukta"
+        ]
+    },
+    {
+        "output": "bn_cha_nukta",
+        "index": "14",
+        "tag": "nukt",
+        "type": "4",
+        "input_glyphs": [
+            "bn_cha",
+            "bn_nukta"
+        ]
+    },
+    {
+        "output": "bn_da_nukta",
+        "index": "14",
+        "tag": "nukt",
+        "type": "4",
+        "input_glyphs": [
+            "bn_da",
+            "bn_nukta"
+        ]
+    },
+    {
+        "output": "bn_rra",
+        "index": "14",
+        "tag": "nukt",
+        "type": "4",
+        "input_glyphs": [
+            "bn_dda",
+            "bn_nukta"
+        ]
+    },
+    {
+        "output": "bn_rha",
+        "index": "14",
+        "tag": "nukt",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ddha",
+            "bn_nukta"
+        ]
+    },
+    {
+        "output": "bn_dha_nukta",
+        "index": "14",
+        "tag": "nukt",
+        "type": "4",
+        "input_glyphs": [
+            "bn_dha",
+            "bn_nukta"
+        ]
+    },
+    {
+        "output": "bn_ga_nukta",
+        "index": "14",
+        "tag": "nukt",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ga",
+            "bn_nukta"
+        ]
+    },
+    {
+        "output": "bn_gha_nukta",
+        "index": "14",
+        "tag": "nukt",
+        "type": "4",
+        "input_glyphs": [
+            "bn_gha",
+            "bn_nukta"
+        ]
+    },
+    {
+        "output": "bn_ha_nukta",
+        "index": "14",
+        "tag": "nukt",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ha",
+            "bn_nukta"
+        ]
+    },
+    {
+        "output": "bn_ja_nukta",
+        "index": "14",
+        "tag": "nukt",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ja",
+            "bn_nukta"
+        ]
+    },
+    {
+        "output": "bn_jha_nukta",
+        "index": "14",
+        "tag": "nukt",
+        "type": "4",
+        "input_glyphs": [
+            "bn_jha",
+            "bn_nukta"
+        ]
+    },
+    {
+        "output": "bn_ka_nukta",
+        "index": "14",
+        "tag": "nukt",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ka",
+            "bn_nukta"
+        ]
+    },
+    {
+        "output": "bn_kha_nukta",
+        "index": "14",
+        "tag": "nukt",
+        "type": "4",
+        "input_glyphs": [
+            "bn_kha",
+            "bn_nukta"
+        ]
+    },
+    {
+        "output": "bn_la_nukta",
+        "index": "14",
+        "tag": "nukt",
+        "type": "4",
+        "input_glyphs": [
+            "bn_la",
+            "bn_nukta"
+        ]
+    },
+    {
+        "output": "bn_ma_nukta",
+        "index": "14",
+        "tag": "nukt",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ma",
+            "bn_nukta"
+        ]
+    },
+    {
+        "output": "bn_na_nukta",
+        "index": "14",
+        "tag": "nukt",
+        "type": "4",
+        "input_glyphs": [
+            "bn_na",
+            "bn_nukta"
+        ]
+    },
+    {
+        "output": "bn_nga_nukta",
+        "index": "14",
+        "tag": "nukt",
+        "type": "4",
+        "input_glyphs": [
+            "bn_nga",
+            "bn_nukta"
+        ]
+    },
+    {
+        "output": "bn_nna_nukta",
+        "index": "14",
+        "tag": "nukt",
+        "type": "4",
+        "input_glyphs": [
+            "bn_nna",
+            "bn_nukta"
+        ]
+    },
+    {
+        "output": "bn_nya_nukta",
+        "index": "14",
+        "tag": "nukt",
+        "type": "4",
+        "input_glyphs": [
+            "bn_nya",
+            "bn_nukta"
+        ]
+    },
+    {
+        "output": "bn_pa_nukta",
+        "index": "14",
+        "tag": "nukt",
+        "type": "4",
+        "input_glyphs": [
+            "bn_pa",
+            "bn_nukta"
+        ]
+    },
+    {
+        "output": "bn_pha_nukta",
+        "index": "14",
+        "tag": "nukt",
+        "type": "4",
+        "input_glyphs": [
+            "bn_pha",
+            "bn_nukta"
+        ]
+    },
+    {
+        "output": "bn_sa_nukta",
+        "index": "14",
+        "tag": "nukt",
+        "type": "4",
+        "input_glyphs": [
+            "bn_sa",
+            "bn_nukta"
+        ]
+    },
+    {
+        "output": "bn_sha_nukta",
+        "index": "14",
+        "tag": "nukt",
+        "type": "4",
+        "input_glyphs": [
+            "bn_sha",
+            "bn_nukta"
+        ]
+    },
+    {
+        "output": "bn_ssa_nukta",
+        "index": "14",
+        "tag": "nukt",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ssa",
+            "bn_nukta"
+        ]
+    },
+    {
+        "output": "bn_ta_nukta",
+        "index": "14",
+        "tag": "nukt",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ta",
+            "bn_nukta"
+        ]
+    },
+    {
+        "output": "bn_tha_nukta",
+        "index": "14",
+        "tag": "nukt",
+        "type": "4",
+        "input_glyphs": [
+            "bn_tha",
+            "bn_nukta"
+        ]
+    },
+    {
+        "output": "bn_tta_nukta",
+        "index": "14",
+        "tag": "nukt",
+        "type": "4",
+        "input_glyphs": [
+            "bn_tta",
+            "bn_nukta"
+        ]
+    },
+    {
+        "output": "bn_ttha_nukta",
+        "index": "14",
+        "tag": "nukt",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ttha",
+            "bn_nukta"
+        ]
+    },
+    {
+        "output": "bn_yya",
+        "index": "14",
+        "tag": "nukt",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ya",
+            "bn_nukta"
+        ]
+    },
+    {
+        "output": "asa_b_ra",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "asa_ba",
+            "bn_ra_phala"
+        ]
+    },
+    {
+        "output": "bn_b_d_ra",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_b_da",
+            "bn_ra_phala"
+        ]
+    },
+    {
+        "output": "bn_b_ba",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ba",
+            "bn_ba_phala"
+        ]
+    },
+    {
+        "output": "bn_b_ra",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ba",
+            "bn_ra_phala"
+        ]
+    },
+    {
+        "output": "bn_bh_ba",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_bha",
+            "bn_ba_phala"
+        ]
+    },
+    {
+        "output": "bn_bh_ra",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_bha",
+            "bn_ra_phala"
+        ]
+    },
+    {
+        "output": "bn_c_ch_ra",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_c_cha",
+            "bn_ra_phala"
+        ]
+    },
+    {
+        "output": "bn_c_ch_ba",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_c_cha",
+            "bn_ba_phala"
+        ]
+    },
+    {
+        "output": "bn_c_ba",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ca",
+            "bn_ba_phala"
+        ]
+    },
+    {
+        "output": "bn_c_ra",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ca",
+            "bn_ra_phala"
+        ]
+    },
+    {
+        "output": "bn_ch_ba",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_cha",
+            "bn_ba_phala"
+        ]
+    },
+    {
+        "output": "bn_ch_ra",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_cha",
+            "bn_ra_phala"
+        ]
+    },
+    {
+        "output": "bn_d_bh_ra",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_d_bha",
+            "bn_ra_phala"
+        ]
+    },
+    {
+        "output": "bn_d_d_ra",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_d_da",
+            "bn_ra_phala"
+        ]
+    },
+    {
+        "output": "bn_d_d_ba",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_d_da",
+            "bn_ba_phala"
+        ]
+    },
+    {
+        "output": "bn_d_dh_ba",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_d_dha",
+            "bn_ba_phala"
+        ]
+    },
+    {
+        "output": "bn_d_ba",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_da",
+            "bn_ba_phala"
+        ]
+    },
+    {
+        "output": "bn_d_ra",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_da",
+            "bn_ra_phala"
+        ]
+    },
+    {
+        "output": "bn_dd_ba",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_dda",
+            "bn_ba_phala"
+        ]
+    },
+    {
+        "output": "bn_dd_ra",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_dda",
+            "bn_ra_phala"
+        ]
+    },
+    {
+        "output": "bn_ddh_ba",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ddha",
+            "bn_ba_phala"
+        ]
+    },
+    {
+        "output": "bn_ddh_ra",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ddha",
+            "bn_ra_phala"
+        ]
+    },
+    {
+        "output": "bn_dh_ba",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_dha",
+            "bn_ba_phala"
+        ]
+    },
+    {
+        "output": "bn_dh_ra",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_dha",
+            "bn_ra_phala"
+        ]
+    },
+    {
+        "output": "bn_g_dh_ba",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_g_dha",
+            "bn_ba_phala"
+        ]
+    },
+    {
+        "output": "bn_g_ba",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ga",
+            "bn_ba_phala"
+        ]
+    },
+    {
+        "output": "bn_g_ra",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ga",
+            "bn_ra_phala"
+        ]
+    },
+    {
+        "output": "bn_gh_ba",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_gha",
+            "bn_ba_phala"
+        ]
+    },
+    {
+        "output": "bn_gh_ra",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_gha",
+            "bn_ra_phala"
+        ]
+    },
+    {
+        "output": "bn_h_ba",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ha",
+            "bn_ba_phala"
+        ]
+    },
+    {
+        "output": "bn_h_ra",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ha",
+            "bn_ra_phala"
+        ]
+    },
+    {
+        "output": "bn_j_j_ba",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_j_ja",
+            "bn_ba_phala"
+        ]
+    },
+    {
+        "output": "bn_j_ra",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ja",
+            "bn_ra_phala"
+        ]
+    },
+    {
+        "output": "bn_j_ba",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ja",
+            "bn_ba_phala"
+        ]
+    },
+    {
+        "output": "bn_jh_ba",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_jha",
+            "bn_ba_phala"
+        ]
+    },
+    {
+        "output": "bn_jh_ra",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_jha",
+            "bn_ra_phala"
+        ]
+    },
+    {
+        "output": "bn_k_ss_ra",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_k_ssa",
+            "bn_ra_phala"
+        ]
+    },
+    {
+        "output": "bn_k_t_ra",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_k_ta",
+            "bn_ra_phala"
+        ]
+    },
+    {
+        "output": "bn_k_t_ba",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_k_ta",
+            "bn_ba_phala"
+        ]
+    },
+    {
+        "output": "bn_k_tt_ra",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_k_tta",
+            "bn_ra_phala"
+        ]
+    },
+    {
+        "output": "bn_k_ra",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ka",
+            "bn_ra_phala"
+        ]
+    },
+    {
+        "output": "bn_k_ba",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ka",
+            "bn_ba_phala"
+        ]
+    },
+    {
+        "output": "bn_kh_ba",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_kha",
+            "bn_ba_phala"
+        ]
+    },
+    {
+        "output": "bn_kh_ra",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_kha",
+            "bn_ra_phala"
+        ]
+    },
+    {
+        "output": "bn_l_dd_ra",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_l_dda",
+            "bn_ra_phala"
+        ]
+    },
+    {
+        "output": "bn_l_ph_ra",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_l_pha",
+            "bn_ra_phala"
+        ]
+    },
+    {
+        "output": "bn_l_tt_ra",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_l_tta",
+            "bn_ra_phala"
+        ]
+    },
+    {
+        "output": "bn_l_ba",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_la",
+            "bn_ba_phala"
+        ]
+    },
+    {
+        "output": "bn_m_bh_ra",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_m_bha",
+            "bn_ra_phala"
+        ]
+    },
+    {
+        "output": "bn_m_p_ra",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_m_pa",
+            "bn_ra_phala"
+        ]
+    },
+    {
+        "output": "bn_m_ph_ra",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_m_pha",
+            "bn_ra_phala"
+        ]
+    },
+    {
+        "output": "bn_m_s_ra",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_m_sa",
+            "bn_ra_phala"
+        ]
+    },
+    {
+        "output": "bn_m_ba",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ma",
+            "bn_ba_phala"
+        ]
+    },
+    {
+        "output": "bn_m_ra",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ma",
+            "bn_ra_phala"
+        ]
+    },
+    {
+        "output": "bn_n_d_ra",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_n_da",
+            "bn_ra_phala"
+        ]
+    },
+    {
+        "output": "bn_n_d_ba",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_n_da",
+            "bn_ba_phala"
+        ]
+    },
+    {
+        "output": "bn_n_dd_ra",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_n_dda",
+            "bn_ra_phala"
+        ]
+    },
+    {
+        "output": "bn_n_dh_ra",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_n_dha",
+            "bn_ra_phala"
+        ]
+    },
+    {
+        "output": "bn_n_dh_ba",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_n_dha",
+            "bn_ba_phala"
+        ]
+    },
+    {
+        "output": "bn_n_t_ra",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_n_ta",
+            "bn_ra_phala"
+        ]
+    },
+    {
+        "output": "bn_n_t_ba",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_n_ta",
+            "bn_ba_phala"
+        ]
+    },
+    {
+        "output": "bn_n_tt_ra",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_n_tta",
+            "bn_ra_phala"
+        ]
+    },
+    {
+        "output": "bn_n_ba",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_na",
+            "bn_ba_phala"
+        ]
+    },
+    {
+        "output": "bn_n_ra",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_na",
+            "bn_ra_phala"
+        ]
+    },
+    {
+        "output": "bn_ng_gh_ra",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ng_gha",
+            "bn_ra_phala"
+        ]
+    },
+    {
+        "output": "bn_ng_k_ss_ra",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ng_k_ssa",
+            "bn_ra_phala"
+        ]
+    },
+    {
+        "output": "bn_ng_k_ra",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ng_ka",
+            "bn_ra_phala"
+        ]
+    },
+    {
+        "output": "bn_ng_ba",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_nga",
+            "bn_ba_phala"
+        ]
+    },
+    {
+        "output": "bn_ng_ra",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_nga",
+            "bn_ra_phala"
+        ]
+    },
+    {
+        "output": "bn_nn_dd_ra",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_nn_dda",
+            "bn_ra_phala"
+        ]
+    },
+    {
+        "output": "bn_nn_tt_ra",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_nn_tta",
+            "bn_ra_phala"
+        ]
+    },
+    {
+        "output": "bn_nn_ba",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_nna",
+            "bn_ba_phala"
+        ]
+    },
+    {
+        "output": "bn_ny_ba",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_nya",
+            "bn_ba_phala"
+        ]
+    },
+    {
+        "output": "bn_ny_ra",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_nya",
+            "bn_ra_phala"
+        ]
+    },
+    {
+        "output": "bn_p_ba",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_pa",
+            "bn_ba_phala"
+        ]
+    },
+    {
+        "output": "bn_p_ra",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_pa",
+            "bn_ra_phala"
+        ]
+    },
+    {
+        "output": "bn_ph_ba",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_pha",
+            "bn_ba_phala"
+        ]
+    },
+    {
+        "output": "bn_ph_ra",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_pha",
+            "bn_ra_phala"
+        ]
+    },
+    {
+        "output": "bn_s_k_ra",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_s_ka",
+            "bn_ra_phala"
+        ]
+    },
+    {
+        "output": "bn_s_p_ra",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_s_pa",
+            "bn_ra_phala"
+        ]
+    },
+    {
+        "output": "bn_s_ph_ra",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_s_pha",
+            "bn_ra_phala"
+        ]
+    },
+    {
+        "output": "bn_s_t_ra",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_s_ta",
+            "bn_ra_phala"
+        ]
+    },
+    {
+        "output": "bn_s_t_ba",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_s_ta",
+            "bn_ba_phala"
+        ]
+    },
+    {
+        "output": "bn_s_tt_ra",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_s_tta",
+            "bn_ra_phala"
+        ]
+    },
+    {
+        "output": "bn_s_ba",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_sa",
+            "bn_ba_phala"
+        ]
+    },
+    {
+        "output": "bn_s_ra",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_sa",
+            "bn_ra_phala"
+        ]
+    },
+    {
+        "output": "bn_sh_ba",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_sha",
+            "bn_ba_phala"
+        ]
+    },
+    {
+        "output": "bn_sh_ra",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_sha",
+            "bn_ra_phala"
+        ]
+    },
+    {
+        "output": "bn_ss_k_ra",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ss_ka",
+            "bn_ra_phala"
+        ]
+    },
+    {
+        "output": "bn_ss_p_ra",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ss_pa",
+            "bn_ra_phala"
+        ]
+    },
+    {
+        "output": "bn_ss_ph_ra",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ss_pha",
+            "bn_ra_phala"
+        ]
+    },
+    {
+        "output": "bn_ss_tt_ra",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ss_tta",
+            "bn_ra_phala"
+        ]
+    },
+    {
+        "output": "bn_ss_ba",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ssa",
+            "bn_ba_phala"
+        ]
+    },
+    {
+        "output": "bn_ss_ra",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ssa",
+            "bn_ra_phala"
+        ]
+    },
+    {
+        "output": "bn_t_t_ba",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_t_ta",
+            "bn_ba_phala"
+        ]
+    },
+    {
+        "output": "bn_t_ba",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ta",
+            "bn_ba_phala"
+        ]
+    },
+    {
+        "output": "bn_t_ra",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ta",
+            "bn_ra_phala"
+        ]
+    },
+    {
+        "output": "bn_th_ba",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_tha",
+            "bn_ba_phala"
+        ]
+    },
+    {
+        "output": "bn_th_ra",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_tha",
+            "bn_ra_phala"
+        ]
+    },
+    {
+        "output": "bn_tt_tt_ra",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_tt_tta",
+            "bn_ra_phala"
+        ]
+    },
+    {
+        "output": "bn_tt_ba",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_tta",
+            "bn_ba_phala"
+        ]
+    },
+    {
+        "output": "bn_tt_ra",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_tta",
+            "bn_ra_phala"
+        ]
+    },
+    {
+        "output": "bn_tth_ba",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ttha",
+            "bn_ba_phala"
+        ]
+    },
+    {
+        "output": "bn_tth_ra",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ttha",
+            "bn_ra_phala"
+        ]
+    },
+    {
+        "output": "bn_y_ba",
+        "index": "17",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ya",
+            "bn_ba_phala"
+        ]
+    },
+    {
+        "output": "bn_m_b_ra",
+        "index": "18",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_m_ba",
+            "bn_ra_phala"
+        ]
+    },
+    {
+        "output": "bn_m_b_ra",
+        "index": "18",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ma_half",
+            "bn_b_ra"
+        ]
+    },
+    {
+        "output": "bn_tt_nukta_ikaar",
+        "index": "19",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ikaar",
+            "bn_tta_nukta"
+        ]
+    },
+    {
+        "output": "bn_tt_ba_ikaar",
+        "index": "19",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ikaar",
+            "bn_tt_ba"
+        ]
+    },
+    {
+        "output": "bn_tth_ra_ikaar",
+        "index": "19",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ikaar",
+            "bn_tth_ra"
+        ]
+    },
+    {
+        "output": "bn_ttha_ikaar",
+        "index": "19",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ikaar",
+            "bn_ttha"
+        ]
+    },
+    {
+        "output": "bn_ss_tt_ra_ikaar",
+        "index": "19",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ikaar",
+            "bn_ss_tt_ra"
+        ]
+    },
+    {
+        "output": "bn_ss_tta_ikaar",
+        "index": "19",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ikaar",
+            "bn_ss_tta"
+        ]
+    },
+    {
+        "output": "bn_ph_tta_ikaar",
+        "index": "19",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ikaar",
+            "bn_ph_tta"
+        ]
+    },
+    {
+        "output": "bn_n_ttha_ikaar",
+        "index": "19",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ikaar",
+            "bn_n_ttha"
+        ]
+    },
+    {
+        "output": "bn_nn_ttha_ikaar",
+        "index": "19",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ikaar",
+            "bn_nn_ttha"
+        ]
+    },
+    {
+        "output": "bn_tt_ma_ikaar",
+        "index": "19",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ikaar",
+            "bn_tt_ma"
+        ]
+    },
+    {
+        "output": "bn_tt_tta_ikaar",
+        "index": "19",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ikaar",
+            "bn_tt_tta"
+        ]
+    },
+    {
+        "output": "bn_tt_tt_ra_ikaar",
+        "index": "19",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ikaar",
+            "bn_tt_tt_ra"
+        ]
+    },
+    {
+        "output": "bn_k_tt_ra_ikaar",
+        "index": "19",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ikaar",
+            "bn_k_tt_ra"
+        ]
+    },
+    {
+        "output": "bn_k_tta_ikaar",
+        "index": "19",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ikaar",
+            "bn_k_tta"
+        ]
+    },
+    {
+        "output": "bn_tt_ra_ikaar",
+        "index": "19",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ikaar",
+            "bn_tt_ra"
+        ]
+    },
+    {
+        "output": "bn_tta_ikaar",
+        "index": "19",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ikaar",
+            "bn_tta"
+        ]
+    },
+    {
+        "output": "bn_d_ukaar",
+        "index": "20",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_da",
+            "bn_ukaar"
+        ]
+    },
+    {
+        "output": "bn_g_ukaar",
+        "index": "20",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ga",
+            "bn_ukaar"
+        ]
+    },
+    {
+        "output": "bn_h_ukaar",
+        "index": "20",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ha",
+            "bn_ukaar"
+        ]
+    },
+    {
+        "output": "bn_l_g_ukaar",
+        "index": "20",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_l_ga",
+            "bn_ukaar"
+        ]
+    },
+    {
+        "output": "bn_n_t_ukaar",
+        "index": "20",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_n_ta",
+            "bn_ukaar"
+        ]
+    },
+    {
+        "output": "bn_s_t_ukaar",
+        "index": "20",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_s_ta",
+            "bn_ukaar"
+        ]
+    },
+    {
+        "output": "bn_sh_ukaar",
+        "index": "20",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "bn_sha",
+            "bn_ukaar"
+        ]
+    },
+    {
+        "output": "bn_k_tt_ra_iikaar",
+        "index": "21",
+        "tag": "psts",
+        "type": "4",
+        "input_glyphs": [
+            "bn_k_tt_ra",
+            "bn_iikaar"
+        ]
+    },
+    {
+        "output": "bn_k_tta_iikaar",
+        "index": "21",
+        "tag": "psts",
+        "type": "4",
+        "input_glyphs": [
+            "bn_k_tta",
+            "bn_iikaar"
+        ]
+    },
+    {
+        "output": "bn_l_tt_ra_iikaar",
+        "index": "21",
+        "tag": "psts",
+        "type": "4",
+        "input_glyphs": [
+            "bn_l_tt_ra",
+            "bn_iikaar"
+        ]
+    },
+    {
+        "output": "bn_l_tta_iikaar",
+        "index": "21",
+        "tag": "psts",
+        "type": "4",
+        "input_glyphs": [
+            "bn_l_tta",
+            "bn_iikaar"
+        ]
+    },
+    {
+        "output": "bn_n_tt_ra_iikaar",
+        "index": "21",
+        "tag": "psts",
+        "type": "4",
+        "input_glyphs": [
+            "bn_n_tt_ra",
+            "bn_iikaar"
+        ]
+    },
+    {
+        "output": "bn_n_tta_iikaar",
+        "index": "21",
+        "tag": "psts",
+        "type": "4",
+        "input_glyphs": [
+            "bn_n_tta",
+            "bn_iikaar"
+        ]
+    },
+    {
+        "output": "bn_n_ttha_iikaar",
+        "index": "21",
+        "tag": "psts",
+        "type": "4",
+        "input_glyphs": [
+            "bn_n_ttha",
+            "bn_iikaar"
+        ]
+    },
+    {
+        "output": "bn_nn_tt_ra_iikaar",
+        "index": "21",
+        "tag": "psts",
+        "type": "4",
+        "input_glyphs": [
+            "bn_nn_tt_ra",
+            "bn_iikaar"
+        ]
+    },
+    {
+        "output": "bn_nn_tta_iikaar",
+        "index": "21",
+        "tag": "psts",
+        "type": "4",
+        "input_glyphs": [
+            "bn_nn_tta",
+            "bn_iikaar"
+        ]
+    },
+    {
+        "output": "bn_nn_ttha_iikaar",
+        "index": "21",
+        "tag": "psts",
+        "type": "4",
+        "input_glyphs": [
+            "bn_nn_ttha",
+            "bn_iikaar"
+        ]
+    },
+    {
+        "output": "bn_p_tta_iikaar",
+        "index": "21",
+        "tag": "psts",
+        "type": "4",
+        "input_glyphs": [
+            "bn_p_tta",
+            "bn_iikaar"
+        ]
+    },
+    {
+        "output": "bn_ph_tta_iikaar",
+        "index": "21",
+        "tag": "psts",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ph_tta",
+            "bn_iikaar"
+        ]
+    },
+    {
+        "output": "bn_s_tt_ra_iikaar",
+        "index": "21",
+        "tag": "psts",
+        "type": "4",
+        "input_glyphs": [
+            "bn_s_tt_ra",
+            "bn_iikaar"
+        ]
+    },
+    {
+        "output": "bn_s_tta_iikaar",
+        "index": "21",
+        "tag": "psts",
+        "type": "4",
+        "input_glyphs": [
+            "bn_s_tta",
+            "bn_iikaar"
+        ]
+    },
+    {
+        "output": "bn_ss_tt_ra_iikaar",
+        "index": "21",
+        "tag": "psts",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ss_tt_ra",
+            "bn_iikaar"
+        ]
+    },
+    {
+        "output": "bn_ss_tta_iikaar",
+        "index": "21",
+        "tag": "psts",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ss_tta",
+            "bn_iikaar"
+        ]
+    },
+    {
+        "output": "bn_ss_ttha_iikaar",
+        "index": "21",
+        "tag": "psts",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ss_ttha",
+            "bn_iikaar"
+        ]
+    },
+    {
+        "output": "bn_tt_ba_iikaar",
+        "index": "21",
+        "tag": "psts",
+        "type": "4",
+        "input_glyphs": [
+            "bn_tt_ba",
+            "bn_iikaar"
+        ]
+    },
+    {
+        "output": "bn_tt_ma_iikaar",
+        "index": "21",
+        "tag": "psts",
+        "type": "4",
+        "input_glyphs": [
+            "bn_tt_ma",
+            "bn_iikaar"
+        ]
+    },
+    {
+        "output": "bn_tt_ra_iikaar",
+        "index": "21",
+        "tag": "psts",
+        "type": "4",
+        "input_glyphs": [
+            "bn_tt_ra",
+            "bn_iikaar"
+        ]
+    },
+    {
+        "output": "bn_tt_tt_ra_iikaar",
+        "index": "21",
+        "tag": "psts",
+        "type": "4",
+        "input_glyphs": [
+            "bn_tt_tt_ra",
+            "bn_iikaar"
+        ]
+    },
+    {
+        "output": "bn_tt_tta_iikaar",
+        "index": "21",
+        "tag": "psts",
+        "type": "4",
+        "input_glyphs": [
+            "bn_tt_tta",
+            "bn_iikaar"
+        ]
+    },
+    {
+        "output": "bn_tta_iikaar",
+        "index": "21",
+        "tag": "psts",
+        "type": "4",
+        "input_glyphs": [
+            "bn_tta",
+            "bn_iikaar"
+        ]
+    },
+    {
+        "output": "bn_tt_nukta_iikaar",
+        "index": "21",
+        "tag": "psts",
+        "type": "4",
+        "input_glyphs": [
+            "bn_tta_nukta",
+            "bn_iikaar"
+        ]
+    },
+    {
+        "output": "bn_tth_ra_iikaar",
+        "index": "21",
+        "tag": "psts",
+        "type": "4",
+        "input_glyphs": [
+            "bn_tth_ra",
+            "bn_iikaar"
+        ]
+    },
+    {
+        "output": "bn_ttha_iikaar",
+        "index": "21",
+        "tag": "psts",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ttha",
+            "bn_iikaar"
+        ]
+    },
+    {
+        "output": "bn_tth_nukta_iikaar",
+        "index": "21",
+        "tag": "psts",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ttha_nukta",
+            "bn_iikaar"
+        ]
+    },
+    {
+        "output": "bn_ya_phala",
+        "index": "22",
+        "tag": "pstf",
+        "type": "4",
+        "input_glyphs": [
+            "bn_halanth",
+            "bn_ya"
+        ]
+    },
+    {
+        "output": "bn_reph",
+        "index": "23",
+        "tag": "rphf",
+        "type": "4",
+        "input_glyphs": [
+            "asa_ra",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_reph",
+        "index": "23",
+        "tag": "rphf",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ra",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_aumark_chandra",
+        "index": "25",
+        "tag": "calt",
+        "type": "4",
+        "input_glyphs": [
+            "bn_aumark",
+            "bn_chandrabindu"
+        ]
+    },
+    {
+        "output": "bn_aumark_chandra",
+        "index": "25",
+        "tag": "calt",
+        "type": "4",
+        "input_glyphs": [
+            "bn_chandrabindu",
+            "bn_aumark"
+        ]
+    },
+    {
+        "output": "bn_iikaar_chandra",
+        "index": "25",
+        "tag": "calt",
+        "type": "4",
+        "input_glyphs": [
+            "bn_iikaar",
+            "bn_chandrabindu"
+        ]
+    },
+    {
+        "output": "bn_reph_aumark_chandra",
+        "index": "25",
+        "tag": "calt",
+        "type": "4",
+        "input_glyphs": [
+            "bn_reph",
+            "bn_aumark,bn_chandrabindu"
+        ]
+    },
+    {
+        "output": "bn_reph_aumark",
+        "index": "25",
+        "tag": "calt",
+        "type": "4",
+        "input_glyphs": [
+            "bn_reph",
+            "bn_aumark"
+        ]
+    },
+    {
+        "output": "bn_reph_iikaar",
+        "index": "25",
+        "tag": "calt",
+        "type": "4",
+        "input_glyphs": [
+            "bn_reph",
+            "bn_iikaar"
+        ]
+    },
+    {
+        "output": "bn_reph_chandrabindu",
+        "index": "25",
+        "tag": "calt",
+        "type": "4",
+        "input_glyphs": [
+            "bn_reph",
+            "bn_chandrabindu"
+        ]
+    },
+    {
+        "output": "bn_reph_aumark_chandra",
+        "index": "26",
+        "tag": "calt",
+        "type": "4",
+        "input_glyphs": [
+            "bn_reph",
+            "bn_aumark_chandra"
+        ]
+    },
+    {
+        "output": "bn_reph_iikaar_chandra",
+        "index": "26",
+        "tag": "calt",
+        "type": "4",
+        "input_glyphs": [
+            "bn_reph",
+            "bn_iikaar_chandra"
+        ]
+    },
+    {
+        "output": "bn_reph_aumark_chandra",
+        "index": "26",
+        "tag": "calt",
+        "type": "4",
+        "input_glyphs": [
+            "bn_reph_aumark",
+            "bn_chandrabindu"
+        ]
+    },
+    {
+        "output": "bn_reph_aumark_chandra",
+        "index": "26",
+        "tag": "calt",
+        "type": "4",
+        "input_glyphs": [
+            "bn_reph_chandrabindu",
+            "bn_aumark"
+        ]
+    },
+    {
+        "output": "bn_reph_iikaar_chandra",
+        "index": "26",
+        "tag": "calt",
+        "type": "4",
+        "input_glyphs": [
+            "bn_reph_chandrabindu",
+            "bn_iikaar"
+        ]
+    },
+    {
+        "output": "bn_reph_iikaar_chandra",
+        "index": "26",
+        "tag": "calt",
+        "type": "4",
+        "input_glyphs": [
+            "bn_reph_iikaar",
+            "bn_chandrabindu"
+        ]
+    },
+    {
+        "output": "asa_ba_halanth",
+        "index": "27",
+        "tag": "calt",
+        "type": "4",
+        "input_glyphs": [
+            "asa_ba",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "asa_ra_halanth",
+        "index": "27",
+        "tag": "calt",
+        "type": "4",
+        "input_glyphs": [
+            "asa_ra",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_aikaar.25CC",
+        "index": "27",
+        "tag": "calt",
+        "type": "4",
+        "input_glyphs": [
+            "bn_aikaar",
+            "uni25CC"
+        ]
+    },
+    {
+        "output": "bn_ba_halanth",
+        "index": "27",
+        "tag": "calt",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ba",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_bha_halanth",
+        "index": "27",
+        "tag": "calt",
+        "type": "4",
+        "input_glyphs": [
+            "bn_bha",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_ca_halanth",
+        "index": "27",
+        "tag": "calt",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ca",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_cha_halanth",
+        "index": "27",
+        "tag": "calt",
+        "type": "4",
+        "input_glyphs": [
+            "bn_cha",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_da_halanth",
+        "index": "27",
+        "tag": "calt",
+        "type": "4",
+        "input_glyphs": [
+            "bn_da",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_dda_halanth",
+        "index": "27",
+        "tag": "calt",
+        "type": "4",
+        "input_glyphs": [
+            "bn_dda",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_ddha_halanth",
+        "index": "27",
+        "tag": "calt",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ddha",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_dha_halanth",
+        "index": "27",
+        "tag": "calt",
+        "type": "4",
+        "input_glyphs": [
+            "bn_dha",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_ekaar.25CC",
+        "index": "27",
+        "tag": "calt",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ekaar",
+            "uni25CC"
+        ]
+    },
+    {
+        "output": "bn_ga_halanth",
+        "index": "27",
+        "tag": "calt",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ga",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_gha_halanth",
+        "index": "27",
+        "tag": "calt",
+        "type": "4",
+        "input_glyphs": [
+            "bn_gha",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_ha_halanth",
+        "index": "27",
+        "tag": "calt",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ha",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_ikaar.25CC",
+        "index": "27",
+        "tag": "calt",
+        "type": "4",
+        "input_glyphs": [
+            "bn_iikaar",
+            "uni25CC"
+        ]
+    },
+    {
+        "output": "bn_j_nya_halanth",
+        "index": "27",
+        "tag": "calt",
+        "type": "4",
+        "input_glyphs": [
+            "bn_j_nya",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_ja_halanth",
+        "index": "27",
+        "tag": "calt",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ja",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_jha_halanth",
+        "index": "27",
+        "tag": "calt",
+        "type": "4",
+        "input_glyphs": [
+            "bn_jha",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_k_ssa_halanth",
+        "index": "27",
+        "tag": "calt",
+        "type": "4",
+        "input_glyphs": [
+            "bn_k_ssa",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_ka_halanth",
+        "index": "27",
+        "tag": "calt",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ka",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_kha_halanth",
+        "index": "27",
+        "tag": "calt",
+        "type": "4",
+        "input_glyphs": [
+            "bn_kha",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_la_halanth",
+        "index": "27",
+        "tag": "calt",
+        "type": "4",
+        "input_glyphs": [
+            "bn_la",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_ma_halanth",
+        "index": "27",
+        "tag": "calt",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ma",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_na_halanth",
+        "index": "27",
+        "tag": "calt",
+        "type": "4",
+        "input_glyphs": [
+            "bn_na",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_nga_halanth",
+        "index": "27",
+        "tag": "calt",
+        "type": "4",
+        "input_glyphs": [
+            "bn_nga",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_nna_halanth",
+        "index": "27",
+        "tag": "calt",
+        "type": "4",
+        "input_glyphs": [
+            "bn_nna",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_nya_halanth",
+        "index": "27",
+        "tag": "calt",
+        "type": "4",
+        "input_glyphs": [
+            "bn_nya",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_pa_halanth",
+        "index": "27",
+        "tag": "calt",
+        "type": "4",
+        "input_glyphs": [
+            "bn_pa",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_pha_halanth",
+        "index": "27",
+        "tag": "calt",
+        "type": "4",
+        "input_glyphs": [
+            "bn_pha",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_rha_halanth",
+        "index": "27",
+        "tag": "calt",
+        "type": "4",
+        "input_glyphs": [
+            "bn_rha",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_rra_halanth",
+        "index": "27",
+        "tag": "calt",
+        "type": "4",
+        "input_glyphs": [
+            "bn_rra",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_sa_halanth",
+        "index": "27",
+        "tag": "calt",
+        "type": "4",
+        "input_glyphs": [
+            "bn_sa",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_sha_halanth",
+        "index": "27",
+        "tag": "calt",
+        "type": "4",
+        "input_glyphs": [
+            "bn_sha",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_ssa_halanth",
+        "index": "27",
+        "tag": "calt",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ssa",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_ta_halanth",
+        "index": "27",
+        "tag": "calt",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ta",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_tha_halanth",
+        "index": "27",
+        "tag": "calt",
+        "type": "4",
+        "input_glyphs": [
+            "bn_tha",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_tta_halanth",
+        "index": "27",
+        "tag": "calt",
+        "type": "4",
+        "input_glyphs": [
+            "bn_tta",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_ttha_halanth",
+        "index": "27",
+        "tag": "calt",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ttha",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_ya_halanth",
+        "index": "27",
+        "tag": "calt",
+        "type": "4",
+        "input_glyphs": [
+            "bn_ya",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_yya_halanth",
+        "index": "27",
+        "tag": "calt",
+        "type": "4",
+        "input_glyphs": [
+            "bn_yya",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_llikaar.25CC",
+        "index": "27",
+        "tag": "calt",
+        "type": "4",
+        "input_glyphs": [
+            "uni25CC",
+            "bn_llikaar"
+        ]
+    },
+    {
+        "output": "bn_likaar.25CC",
+        "index": "27",
+        "tag": "calt",
+        "type": "4",
+        "input_glyphs": [
+            "uni25CC",
+            "bn_likaar"
+        ]
+    },
+    {
+        "output": "bn_aumark.25CC",
+        "index": "27",
+        "tag": "calt",
+        "type": "4",
+        "input_glyphs": [
+            "uni25CC",
+            "bn_aumark"
+        ]
+    },
+    {
+        "output": "bn_halanth.25CC",
+        "index": "27",
+        "tag": "calt",
+        "type": "4",
+        "input_glyphs": [
+            "uni25CC",
+            "bn_halanth"
+        ]
+    },
+    {
+        "output": "bn_rrikaar.25CC",
+        "index": "27",
+        "tag": "calt",
+        "type": "4",
+        "input_glyphs": [
+            "uni25CC",
+            "bn_rrikaar"
+        ]
+    },
+    {
+        "output": "bn_rikaar.25CC",
+        "index": "27",
+        "tag": "calt",
+        "type": "4",
+        "input_glyphs": [
+            "uni25CC",
+            "bn_rikaar"
+        ]
+    },
+    {
+        "output": "bn_uukaar.25CC",
+        "index": "27",
+        "tag": "calt",
+        "type": "4",
+        "input_glyphs": [
+            "uni25CC",
+            "bn_uukaar"
+        ]
+    },
+    {
+        "output": "bn_ukaar.25CC",
+        "index": "27",
+        "tag": "calt",
+        "type": "4",
+        "input_glyphs": [
+            "uni25CC",
+            "bn_ukaar"
+        ]
+    },
+    {
+        "output": "bn_iikaar.25CC",
+        "index": "27",
+        "tag": "calt",
+        "type": "4",
+        "input_glyphs": [
+            "uni25CC",
+            "bn_iikaar"
+        ]
+    },
+    {
+        "output": "bn_aakaar.25CC",
+        "index": "27",
+        "tag": "calt",
+        "type": "4",
+        "input_glyphs": [
+            "uni25CC",
+            "bn_aakaar"
+        ]
+    },
+    {
+        "output": "bn_nukta.25CC",
+        "index": "27",
+        "tag": "calt",
+        "type": "4",
+        "input_glyphs": [
+            "uni25CC",
+            "bn_nukta"
+        ]
+    },
+    {
+        "output": "bn_bisarga.25CC",
+        "index": "27",
+        "tag": "calt",
+        "type": "4",
+        "input_glyphs": [
+            "uni25CC",
+            "bn_bisarga"
+        ]
+    },
+    {
+        "output": "bn_anusvar.25CC",
+        "index": "27",
+        "tag": "calt",
+        "type": "4",
+        "input_glyphs": [
+            "uni25CC",
+            "bn_anusvar"
+        ]
+    },
+    {
+        "output": "bn_chandrabindu.25CC",
+        "index": "27",
+        "tag": "calt",
+        "type": "4",
+        "input_glyphs": [
+            "uni25CC",
+            "bn_chandrabindu"
+        ]
+    }
+]

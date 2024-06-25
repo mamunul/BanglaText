@@ -1,0 +1,3762 @@
+[
+    {
+        "output": "u09DC",
+        "index": "1",
+        "tag": "nukt",
+        "type": "4",
+        "input_glyphs": [
+            "u09A1",
+            "u09BC"
+        ]
+    },
+    {
+        "output": "u09DD",
+        "index": "1",
+        "tag": "nukt",
+        "type": "4",
+        "input_glyphs": [
+            "u09A2",
+            "u09BC"
+        ]
+    },
+    {
+        "output": "u09DF",
+        "index": "1",
+        "tag": "nukt",
+        "type": "4",
+        "input_glyphs": [
+            "u09AF",
+            "u09BC"
+        ]
+    },
+    {
+        "output": "u0995_u09CD_u09B7",
+        "index": "2",
+        "tag": "akhn",
+        "type": "4",
+        "input_glyphs": [
+            "u0995",
+            "u09CD,u09B7"
+        ]
+    },
+    {
+        "output": "u099C_u09CD_u099E",
+        "index": "2",
+        "tag": "akhn",
+        "type": "4",
+        "input_glyphs": [
+            "u099C",
+            "u09CD,u099E"
+        ]
+    },
+    {
+        "output": "u09B0_u09CD",
+        "index": "3",
+        "tag": "rphf",
+        "type": "4",
+        "input_glyphs": [
+            "u09B0",
+            "u09CD"
+        ]
+    },
+    {
+        "output": "u09B0_u09CD",
+        "index": "3",
+        "tag": "rphf",
+        "type": "4",
+        "input_glyphs": [
+            "u09F0",
+            "u09CD"
+        ]
+    },
+    {
+        "output": "u09AC_u09CD",
+        "index": "4",
+        "tag": "blwf",
+        "type": "4",
+        "input_glyphs": [
+            "u09AC",
+            "u09CD"
+        ]
+    },
+    {
+        "output": "u09F0_u09CD",
+        "index": "4",
+        "tag": "blwf",
+        "type": "4",
+        "input_glyphs": [
+            "u09B0",
+            "u09CD"
+        ]
+    },
+    {
+        "output": "u09F0_u09CD",
+        "index": "4",
+        "tag": "blwf",
+        "type": "4",
+        "input_glyphs": [
+            "u09F0",
+            "u09CD"
+        ]
+    },
+    {
+        "output": "u09AC_u09CD",
+        "index": "4",
+        "tag": "blwf",
+        "type": "4",
+        "input_glyphs": [
+            "u09F1",
+            "u09CD"
+        ]
+    },
+    {
+        "output": "u09F0_u09CD",
+        "index": "5",
+        "tag": "blwf",
+        "type": "4",
+        "input_glyphs": [
+            "u09CD",
+            "u09B0"
+        ]
+    },
+    {
+        "output": "u09AC_u09CD",
+        "index": "5",
+        "tag": "blwf",
+        "type": "4",
+        "input_glyphs": [
+            "u09CD",
+            "u09AC"
+        ]
+    },
+    {
+        "output": "u09F0_u09CD",
+        "index": "5",
+        "tag": "blwf",
+        "type": "4",
+        "input_glyphs": [
+            "u09CD",
+            "u09F0"
+        ]
+    },
+    {
+        "output": "u09AC_u09CD",
+        "index": "5",
+        "tag": "blwf",
+        "type": "4",
+        "input_glyphs": [
+            "u09CD",
+            "u09F1"
+        ]
+    },
+    {
+        "output": "u0995.001",
+        "index": "6",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "u0995",
+            "u09CD"
+        ]
+    },
+    {
+        "output": "u0995_u09CD_u09B7.001",
+        "index": "6",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "u0995_u09CD_u09B7",
+            "u09CD"
+        ]
+    },
+    {
+        "output": "u0996.001",
+        "index": "6",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "u0996",
+            "u09CD"
+        ]
+    },
+    {
+        "output": "u0997.001",
+        "index": "6",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "u0997",
+            "u09CD"
+        ]
+    },
+    {
+        "output": "u0998.001",
+        "index": "6",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "u0998",
+            "u09CD"
+        ]
+    },
+    {
+        "output": "u0999.001",
+        "index": "6",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "u0999",
+            "u09CD"
+        ]
+    },
+    {
+        "output": "u099A.001",
+        "index": "6",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "u099A",
+            "u09CD"
+        ]
+    },
+    {
+        "output": "u099B.001",
+        "index": "6",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "u099B",
+            "u09CD"
+        ]
+    },
+    {
+        "output": "u099C.001",
+        "index": "6",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "u099C",
+            "u09CD"
+        ]
+    },
+    {
+        "output": "u099D.001",
+        "index": "6",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "u099D",
+            "u09CD"
+        ]
+    },
+    {
+        "output": "u099E.001",
+        "index": "6",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "u099E",
+            "u09CD"
+        ]
+    },
+    {
+        "output": "u099F.001",
+        "index": "6",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "u099F",
+            "u09CD"
+        ]
+    },
+    {
+        "output": "u09A0.001",
+        "index": "6",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "u09A0",
+            "u09CD"
+        ]
+    },
+    {
+        "output": "u09A1.001",
+        "index": "6",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "u09A1",
+            "u09CD"
+        ]
+    },
+    {
+        "output": "u09A2.001",
+        "index": "6",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "u09A2",
+            "u09CD"
+        ]
+    },
+    {
+        "output": "u09A3.001",
+        "index": "6",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "u09A3",
+            "u09CD"
+        ]
+    },
+    {
+        "output": "u09A4.001",
+        "index": "6",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "u09A4",
+            "u09CD"
+        ]
+    },
+    {
+        "output": "u09A5.001",
+        "index": "6",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "u09A5",
+            "u09CD"
+        ]
+    },
+    {
+        "output": "u09A6.001",
+        "index": "6",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "u09A6",
+            "u09CD"
+        ]
+    },
+    {
+        "output": "u09A7.001",
+        "index": "6",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "u09A7",
+            "u09CD"
+        ]
+    },
+    {
+        "output": "u09A8.001",
+        "index": "6",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "u09A8",
+            "u09CD"
+        ]
+    },
+    {
+        "output": "u09AA.001",
+        "index": "6",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "u09AA",
+            "u09CD"
+        ]
+    },
+    {
+        "output": "u09AB.001",
+        "index": "6",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "u09AB",
+            "u09CD"
+        ]
+    },
+    {
+        "output": "u09AC.001",
+        "index": "6",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "u09AC",
+            "u09CD"
+        ]
+    },
+    {
+        "output": "u09AD.001",
+        "index": "6",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "u09AD",
+            "u09CD"
+        ]
+    },
+    {
+        "output": "u09AE.001",
+        "index": "6",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "u09AE",
+            "u09CD"
+        ]
+    },
+    {
+        "output": "u09AF.001",
+        "index": "6",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "u09AF",
+            "u09CD"
+        ]
+    },
+    {
+        "output": "u09B0.001",
+        "index": "6",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "u09B0",
+            "u09CD"
+        ]
+    },
+    {
+        "output": "u09B2.001",
+        "index": "6",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "u09B2",
+            "u09CD"
+        ]
+    },
+    {
+        "output": "u09B6.001",
+        "index": "6",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "u09B6",
+            "u09CD"
+        ]
+    },
+    {
+        "output": "u09B7.001",
+        "index": "6",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "u09B7",
+            "u09CD"
+        ]
+    },
+    {
+        "output": "u09B8.001",
+        "index": "6",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "u09B8",
+            "u09CD"
+        ]
+    },
+    {
+        "output": "u09B9.001",
+        "index": "6",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "u09B9",
+            "u09CD"
+        ]
+    },
+    {
+        "output": "u09DC.001",
+        "index": "6",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "u09DC",
+            "u09CD"
+        ]
+    },
+    {
+        "output": "u09DD.001",
+        "index": "6",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "u09DD",
+            "u09CD"
+        ]
+    },
+    {
+        "output": "u09DF.001",
+        "index": "6",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "u09DF",
+            "u09CD"
+        ]
+    },
+    {
+        "output": "u09F0.001",
+        "index": "6",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "u09F0",
+            "u09CD"
+        ]
+    },
+    {
+        "output": "u09F1.001",
+        "index": "6",
+        "tag": "half",
+        "type": "4",
+        "input_glyphs": [
+            "u09F1",
+            "u09CD"
+        ]
+    },
+    {
+        "output": ".notdef#1",
+        "index": "7",
+        "tag": "pstf",
+        "type": "4",
+        "input_glyphs": [
+            "u09AF",
+            "u09CD"
+        ]
+    },
+    {
+        "output": ".notdef#1",
+        "index": "8",
+        "tag": "pstf",
+        "type": "4",
+        "input_glyphs": [
+            "u09CD",
+            "u09AF"
+        ]
+    },
+    {
+        "output": "u0995_u09F0_u09CD",
+        "index": "9",
+        "tag": "vatu",
+        "type": "4",
+        "input_glyphs": [
+            "u0995",
+            "u09F0_u09CD"
+        ]
+    },
+    {
+        "output": "u0995_u09CD_u09B7_u09F0_u09CD",
+        "index": "9",
+        "tag": "vatu",
+        "type": "4",
+        "input_glyphs": [
+            "u0995_u09CD_u09B7",
+            "u09F0_u09CD"
+        ]
+    },
+    {
+        "output": "u0996_u09F0_u09CD",
+        "index": "9",
+        "tag": "vatu",
+        "type": "4",
+        "input_glyphs": [
+            "u0996",
+            "u09F0_u09CD"
+        ]
+    },
+    {
+        "output": "u0997_u09F0_u09CD",
+        "index": "9",
+        "tag": "vatu",
+        "type": "4",
+        "input_glyphs": [
+            "u0997",
+            "u09F0_u09CD"
+        ]
+    },
+    {
+        "output": "u0998_u09F0_u09CD",
+        "index": "9",
+        "tag": "vatu",
+        "type": "4",
+        "input_glyphs": [
+            "u0998",
+            "u09F0_u09CD"
+        ]
+    },
+    {
+        "output": "u0999_u09F0_u09CD",
+        "index": "9",
+        "tag": "vatu",
+        "type": "4",
+        "input_glyphs": [
+            "u0999",
+            "u09F0_u09CD"
+        ]
+    },
+    {
+        "output": "u099A_u09F0_u09CD",
+        "index": "9",
+        "tag": "vatu",
+        "type": "4",
+        "input_glyphs": [
+            "u099A",
+            "u09F0_u09CD"
+        ]
+    },
+    {
+        "output": "u099B_u09F0_u09CD",
+        "index": "9",
+        "tag": "vatu",
+        "type": "4",
+        "input_glyphs": [
+            "u099B",
+            "u09F0_u09CD"
+        ]
+    },
+    {
+        "output": "u099C_u09F0_u09CD",
+        "index": "9",
+        "tag": "vatu",
+        "type": "4",
+        "input_glyphs": [
+            "u099C",
+            "u09F0_u09CD"
+        ]
+    },
+    {
+        "output": "u099D_u09F0_u09CD",
+        "index": "9",
+        "tag": "vatu",
+        "type": "4",
+        "input_glyphs": [
+            "u099D",
+            "u09F0_u09CD"
+        ]
+    },
+    {
+        "output": "u099F_u09F0_u09CD",
+        "index": "9",
+        "tag": "vatu",
+        "type": "4",
+        "input_glyphs": [
+            "u099F",
+            "u09F0_u09CD"
+        ]
+    },
+    {
+        "output": "u09A0_u09F0_u09CD",
+        "index": "9",
+        "tag": "vatu",
+        "type": "4",
+        "input_glyphs": [
+            "u09A0",
+            "u09F0_u09CD"
+        ]
+    },
+    {
+        "output": "u09A1_u09F0_u09CD",
+        "index": "9",
+        "tag": "vatu",
+        "type": "4",
+        "input_glyphs": [
+            "u09A1",
+            "u09F0_u09CD"
+        ]
+    },
+    {
+        "output": "u09A2_u09F0_u09CD",
+        "index": "9",
+        "tag": "vatu",
+        "type": "4",
+        "input_glyphs": [
+            "u09A2",
+            "u09F0_u09CD"
+        ]
+    },
+    {
+        "output": "u09A3_u09F0_u09CD",
+        "index": "9",
+        "tag": "vatu",
+        "type": "4",
+        "input_glyphs": [
+            "u09A3",
+            "u09F0_u09CD"
+        ]
+    },
+    {
+        "output": "u09A4_u09F0_u09CD",
+        "index": "9",
+        "tag": "vatu",
+        "type": "4",
+        "input_glyphs": [
+            "u09A4",
+            "u09F0_u09CD"
+        ]
+    },
+    {
+        "output": "u09A5_u09CD_u09F0",
+        "index": "9",
+        "tag": "vatu",
+        "type": "4",
+        "input_glyphs": [
+            "u09A5",
+            "u09F0_u09CD"
+        ]
+    },
+    {
+        "output": "u09A6_u09F0_u09CD",
+        "index": "9",
+        "tag": "vatu",
+        "type": "4",
+        "input_glyphs": [
+            "u09A6",
+            "u09F0_u09CD"
+        ]
+    },
+    {
+        "output": "u09A7_u09F0_u09CD",
+        "index": "9",
+        "tag": "vatu",
+        "type": "4",
+        "input_glyphs": [
+            "u09A7",
+            "u09F0_u09CD"
+        ]
+    },
+    {
+        "output": "u09A8_u09F0_u09CD",
+        "index": "9",
+        "tag": "vatu",
+        "type": "4",
+        "input_glyphs": [
+            "u09A8",
+            "u09F0_u09CD"
+        ]
+    },
+    {
+        "output": "u09AA_u09F0_u09CD",
+        "index": "9",
+        "tag": "vatu",
+        "type": "4",
+        "input_glyphs": [
+            "u09AA",
+            "u09F0_u09CD"
+        ]
+    },
+    {
+        "output": "u09AB_u09F0_u09CD",
+        "index": "9",
+        "tag": "vatu",
+        "type": "4",
+        "input_glyphs": [
+            "u09AB",
+            "u09F0_u09CD"
+        ]
+    },
+    {
+        "output": "u09AC_u09F0_u09CD",
+        "index": "9",
+        "tag": "vatu",
+        "type": "4",
+        "input_glyphs": [
+            "u09AC",
+            "u09F0_u09CD"
+        ]
+    },
+    {
+        "output": "u09AD_u09F0_u09CD",
+        "index": "9",
+        "tag": "vatu",
+        "type": "4",
+        "input_glyphs": [
+            "u09AD",
+            "u09F0_u09CD"
+        ]
+    },
+    {
+        "output": "u09AE_u09F0_u09CD",
+        "index": "9",
+        "tag": "vatu",
+        "type": "4",
+        "input_glyphs": [
+            "u09AE",
+            "u09F0_u09CD"
+        ]
+    },
+    {
+        "output": "u09AF_u09F0_u09CD",
+        "index": "9",
+        "tag": "vatu",
+        "type": "4",
+        "input_glyphs": [
+            "u09AF",
+            "u09F0_u09CD"
+        ]
+    },
+    {
+        "output": "u09B2_u09F0_u09CD",
+        "index": "9",
+        "tag": "vatu",
+        "type": "4",
+        "input_glyphs": [
+            "u09B2",
+            "u09F0_u09CD"
+        ]
+    },
+    {
+        "output": "u09B6_u09F0_u09CD",
+        "index": "9",
+        "tag": "vatu",
+        "type": "4",
+        "input_glyphs": [
+            "u09B6",
+            "u09F0_u09CD"
+        ]
+    },
+    {
+        "output": "u09B7_u09F0_u09CD",
+        "index": "9",
+        "tag": "vatu",
+        "type": "4",
+        "input_glyphs": [
+            "u09B7",
+            "u09F0_u09CD"
+        ]
+    },
+    {
+        "output": "u09B8_u09F0_u09CD",
+        "index": "9",
+        "tag": "vatu",
+        "type": "4",
+        "input_glyphs": [
+            "u09B8",
+            "u09F0_u09CD"
+        ]
+    },
+    {
+        "output": "u09B9_u09F0_u09CD",
+        "index": "9",
+        "tag": "vatu",
+        "type": "4",
+        "input_glyphs": [
+            "u09B9",
+            "u09F0_u09CD"
+        ]
+    },
+    {
+        "output": "u09DC_u09F0_u09CD",
+        "index": "9",
+        "tag": "vatu",
+        "type": "4",
+        "input_glyphs": [
+            "u09DC",
+            "u09F0_u09CD"
+        ]
+    },
+    {
+        "output": "u09DD_u09F0_u09CD",
+        "index": "9",
+        "tag": "vatu",
+        "type": "4",
+        "input_glyphs": [
+            "u09DD",
+            "u09F0_u09CD"
+        ]
+    },
+    {
+        "output": "u09DF_u09F0_u09CD",
+        "index": "9",
+        "tag": "vatu",
+        "type": "4",
+        "input_glyphs": [
+            "u09DF",
+            "u09F0_u09CD"
+        ]
+    },
+    {
+        "output": "u09F1_u09F0_u09CD",
+        "index": "9",
+        "tag": "vatu",
+        "type": "4",
+        "input_glyphs": [
+            "u09F1",
+            "u09F0_u09CD"
+        ]
+    },
+    {
+        "output": "u0995_u09CD_u0995",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u0995.001",
+            "u0995"
+        ]
+    },
+    {
+        "output": "u0995_u09CD_u099F",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u0995.001",
+            "u099F"
+        ]
+    },
+    {
+        "output": "bn_ka_ta_ra",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u0995.001",
+            "u099F_u09F0_u09CD"
+        ]
+    },
+    {
+        "output": "u0995_u09CD_u09A4",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u0995.001",
+            "u09A4"
+        ]
+    },
+    {
+        "output": "u0995_u09CD_u09A4_u09F0_u09CD",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u0995.001",
+            "u09A4_u09F0_u09CD"
+        ]
+    },
+    {
+        "output": "u0995_u09CD_u09A8",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u0995.001",
+            "u09A8"
+        ]
+    },
+    {
+        "output": "u0995_u09CD_u09AE",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u0995.001",
+            "u09AE"
+        ]
+    },
+    {
+        "output": "u0995_u09CD_u09B2",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u0995.001",
+            "u09B2"
+        ]
+    },
+    {
+        "output": "u0995_u09CD_u09B8",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u0995.001",
+            "u09B8"
+        ]
+    },
+    {
+        "output": "u0995_u09CD_u09B7_u09CD_u09A3",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u0995_u09CD_u09B7.001",
+            "u09A3"
+        ]
+    },
+    {
+        "output": "u0995_u09CD_u09B7_u09CD_u09A3",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u0995_u09CD_u09B7.001",
+            "u09A8"
+        ]
+    },
+    {
+        "output": "u0995_u09CD_u09B7_u09CD_u09AE",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u0995_u09CD_u09B7.001",
+            "u09AE"
+        ]
+    },
+    {
+        "output": "u0997_u09CD_u0997",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u0997.001",
+            "u0997"
+        ]
+    },
+    {
+        "output": "u0997_u09CD_u09A6",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u0997.001",
+            "u09A6"
+        ]
+    },
+    {
+        "output": "u0997_u09CD_u09A7",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u0997.001",
+            "u09A7"
+        ]
+    },
+    {
+        "output": "u0997_u09CD_u09A7_u09F0_u09CD",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u0997.001",
+            "u09A7_u09F0_u09CD"
+        ]
+    },
+    {
+        "output": "u0997_u09CD_u09A8",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u0997.001",
+            "u09A8"
+        ]
+    },
+    {
+        "output": "u0997_u09CD_u09AE",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u0997.001",
+            "u09AE"
+        ]
+    },
+    {
+        "output": "u0997_u09CD_u09B2",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u0997.001",
+            "u09B2"
+        ]
+    },
+    {
+        "output": "u0998_u09CD_u09A8",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u0998.001",
+            "u09A8"
+        ]
+    },
+    {
+        "output": "u0999_u09CD_u0995",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u0999.001",
+            "u0995"
+        ]
+    },
+    {
+        "output": "u0999_u09CD_u0995_u09F0_u09CD",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u0999.001",
+            "u0995_u09F0_u09CD"
+        ]
+    },
+    {
+        "output": "u0999_u09CD_u0995_u09CD_u09B7",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u0999.001",
+            "u0995_u09CD_u09B7"
+        ]
+    },
+    {
+        "output": "bn_uo_k_shh_ra",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u0999.001",
+            "u0995_u09CD_u09B7_u09F0_u09CD"
+        ]
+    },
+    {
+        "output": "u0999_u09CD_u0996",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u0999.001",
+            "u0996"
+        ]
+    },
+    {
+        "output": "u0999_u09CD_u0997",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u0999.001",
+            "u0997"
+        ]
+    },
+    {
+        "output": "u0999_u09CD_u0998",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u0999.001",
+            "u0998"
+        ]
+    },
+    {
+        "output": "u0999_u09CD_u0998_u09F0_u09CD",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u0999.001",
+            "u0998_u09F0_u09CD"
+        ]
+    },
+    {
+        "output": "u0999_u09CD_u09AE",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u0999.001",
+            "u09AE"
+        ]
+    },
+    {
+        "output": "u099A_u09CD_u099A",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u099A.001",
+            "u099A"
+        ]
+    },
+    {
+        "output": "u099A_u09CD_u099B",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u099A.001",
+            "u099B"
+        ]
+    },
+    {
+        "output": "u099A_u09CD_u099B_u09F0_u09CD",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u099A.001",
+            "u099B_u09F0_u09CD"
+        ]
+    },
+    {
+        "output": "u099A_u09CD_u099E",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u099A.001",
+            "u099E"
+        ]
+    },
+    {
+        "output": "u099A_u09CD_u09A8",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u099A.001",
+            "u09A8"
+        ]
+    },
+    {
+        "output": "u099C_u09CD_u099C",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u099C.001",
+            "u099C"
+        ]
+    },
+    {
+        "output": "u099C_u09CD_u099D",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u099C.001",
+            "u099D"
+        ]
+    },
+    {
+        "output": "u099E_u09CD_u099A",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u099E.001",
+            "u099A"
+        ]
+    },
+    {
+        "output": "u099E_u09CD_u099B",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u099E.001",
+            "u099B"
+        ]
+    },
+    {
+        "output": "u099E_u09CD_u099C",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u099E.001",
+            "u099C"
+        ]
+    },
+    {
+        "output": "u099E_u09CD_u099D",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u099E.001",
+            "u099D"
+        ]
+    },
+    {
+        "output": "u099F_u09CD_u099F",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u099F.001",
+            "u099F"
+        ]
+    },
+    {
+        "output": "u099F_u09CD_u099F_u09F0_u09CD",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u099F.001",
+            "u099F_u09F0_u09CD"
+        ]
+    },
+    {
+        "output": "u099F_u09CD_u09AE",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u099F.001",
+            "u09AE"
+        ]
+    },
+    {
+        "output": "u09A1_u09CD_u0997",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09A1.001",
+            "u0997"
+        ]
+    },
+    {
+        "output": "u09A1_u09CD_u09A1",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09A1.001",
+            "u09A1"
+        ]
+    },
+    {
+        "output": "u09A1_u09CD_u09AE",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09A1.001",
+            "u09AE"
+        ]
+    },
+    {
+        "output": "u09A3_u09CD_u099F",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09A3.001",
+            "u099F"
+        ]
+    },
+    {
+        "output": "u09A3_u09CD_u099F_u09F0_u09CD",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09A3.001",
+            "u099F_u09F0_u09CD"
+        ]
+    },
+    {
+        "output": "u09A3_u09CD_u09A0",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09A3.001",
+            "u09A0"
+        ]
+    },
+    {
+        "output": "u09A3_u09CD_u09A0_u09F0_u09CD",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09A3.001",
+            "u09A0_u09F0_u09CD"
+        ]
+    },
+    {
+        "output": "u09A3_u09CD_u09A1",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09A3.001",
+            "u09A1"
+        ]
+    },
+    {
+        "output": "u09A3_u09CD_u09A1_u09F0_u09CD",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09A3.001",
+            "u09A1_u09F0_u09CD"
+        ]
+    },
+    {
+        "output": "u09A3_u09CD_u09A2",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09A3.001",
+            "u09A2"
+        ]
+    },
+    {
+        "output": "u09A3_u09CD_u09A2_u09F0_u09CD",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09A3.001",
+            "u09A2_u09F0_u09CD"
+        ]
+    },
+    {
+        "output": "u09A3_u09CD_u09A3",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09A3.001",
+            "u09A3"
+        ]
+    },
+    {
+        "output": "u09A3_u09CD_u09A8",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09A3.001",
+            "u09A8"
+        ]
+    },
+    {
+        "output": "u09A3_u09CD_u09AE",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09A3.001",
+            "u09AE"
+        ]
+    },
+    {
+        "output": "u09A4_u09CD_u09A4",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09A4.001",
+            "u09A4"
+        ]
+    },
+    {
+        "output": "u09A4_u09CD_u09A5",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09A4.001",
+            "u09A5"
+        ]
+    },
+    {
+        "output": "u09A4_u09CD_u09A8",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09A4.001",
+            "u09A8"
+        ]
+    },
+    {
+        "output": "u09A4_u09CD_u09AE",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09A4.001",
+            "u09AE"
+        ]
+    },
+    {
+        "output": "u09A4_u09CD_u09B2",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09A4.001",
+            "u09B2"
+        ]
+    },
+    {
+        "output": "u09A6_u09CD_u0997",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09A6.001",
+            "u0997"
+        ]
+    },
+    {
+        "output": "u09A6_u09CD_u0998",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09A6.001",
+            "u0998"
+        ]
+    },
+    {
+        "output": "u09A6_u09CD_u09A6",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09A6.001",
+            "u09A6"
+        ]
+    },
+    {
+        "output": "u09A6_u09CD_u09A6_u09F0_u09CD",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09A6.001",
+            "u09A6_u09F0_u09CD"
+        ]
+    },
+    {
+        "output": "u09A6_u09CD_u09A7",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09A6.001",
+            "u09A7"
+        ]
+    },
+    {
+        "output": "u09A6_u09CD_u09A8",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09A6.001",
+            "u09A8"
+        ]
+    },
+    {
+        "output": "u09A6_u09CD_u09AD",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09A6.001",
+            "u09AD"
+        ]
+    },
+    {
+        "output": "u09A6_u09CD_u09AD_u09F0_u09CD",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09A6.001",
+            "u09AD_u09F0_u09CD"
+        ]
+    },
+    {
+        "output": "u09A6_u09CD_u09AE",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09A6.001",
+            "u09AE"
+        ]
+    },
+    {
+        "output": "u09A7_u09CD_u09A8",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09A7.001",
+            "u09A8"
+        ]
+    },
+    {
+        "output": "u09A7_u09CD_u09AE",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09A7.001",
+            "u09AE"
+        ]
+    },
+    {
+        "output": "u09A8_u09CD_u099F",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09A8.001",
+            "u099F"
+        ]
+    },
+    {
+        "output": "u09A8_u09CD_u099F_u09F0_u09CD",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09A8.001",
+            "u099F_u09F0_u09CD"
+        ]
+    },
+    {
+        "output": "u09A8_u09CD_u09A0",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09A8.001",
+            "u09A0"
+        ]
+    },
+    {
+        "output": "u09A8_u09CD_u09A1",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09A8.001",
+            "u09A1"
+        ]
+    },
+    {
+        "output": "u09A8_u09CD_u09A1_u09F0_u09CD",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09A8.001",
+            "u09A1_u09F0_u09CD"
+        ]
+    },
+    {
+        "output": "u09A8_u09CD_u09A4",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09A8.001",
+            "u09A4"
+        ]
+    },
+    {
+        "output": "u09A8_u09CD_u09A4_u09F0_u09CD",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09A8.001",
+            "u09A4_u09F0_u09CD"
+        ]
+    },
+    {
+        "output": "u09A8_u09CD_u09A5",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09A8.001",
+            "u09A5"
+        ]
+    },
+    {
+        "output": "u09A8_u09CD_u09A5_u09F0_u09CD",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09A8.001",
+            "u09A5_u09CD_u09F0"
+        ]
+    },
+    {
+        "output": "u09A8_u09CD_u09A6",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09A8.001",
+            "u09A6"
+        ]
+    },
+    {
+        "output": "u09A8_u09CD_u09A6_u09F0_u09CD",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09A8.001",
+            "u09A6_u09F0_u09CD"
+        ]
+    },
+    {
+        "output": "u09A8_u09CD_u09A7",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09A8.001",
+            "u09A7"
+        ]
+    },
+    {
+        "output": "u09A8_u09CD_u09A7_u09F0_u09CD",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09A8.001",
+            "u09A7_u09F0_u09CD"
+        ]
+    },
+    {
+        "output": "u09A8_u09CD_u09A8",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09A8.001",
+            "u09A8"
+        ]
+    },
+    {
+        "output": "u09A8_u09CD_u09AE",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09A8.001",
+            "u09AE"
+        ]
+    },
+    {
+        "output": "u09A8_u09CD_u09B8",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09A8.001",
+            "u09B8"
+        ]
+    },
+    {
+        "output": "u09AA_u09CD_u099F",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09AA.001",
+            "u099F"
+        ]
+    },
+    {
+        "output": "u09AA_u09CD_u09A4",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09AA.001",
+            "u09A4"
+        ]
+    },
+    {
+        "output": "u09AA_u09CD_u09A4_u09F0_u09CD",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09AA.001",
+            "u09A4_u09F0_u09CD"
+        ]
+    },
+    {
+        "output": "u09AA_u09CD_u09A8",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09AA.001",
+            "u09A8"
+        ]
+    },
+    {
+        "output": "u09AA_u09CD_u09AA",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09AA.001",
+            "u09AA"
+        ]
+    },
+    {
+        "output": "u09AA_u09CD_u09AE",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09AA.001",
+            "u09AE"
+        ]
+    },
+    {
+        "output": "u09AA_u09CD_u09B2",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09AA.001",
+            "u09B2"
+        ]
+    },
+    {
+        "output": "u09AA_u09CD_u09B8",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09AA.001",
+            "u09B8"
+        ]
+    },
+    {
+        "output": "u09AB_u09CD_u099F",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09AB.001",
+            "u099F"
+        ]
+    },
+    {
+        "output": "u09AB_u09CD_u09B2",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09AB.001",
+            "u09B2"
+        ]
+    },
+    {
+        "output": ".notdef#3",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09AC.001",
+            "u099C"
+        ]
+    },
+    {
+        "output": ".notdef#4",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09AC.001",
+            "u099D"
+        ]
+    },
+    {
+        "output": ".notdef#5",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09AC.001",
+            "u09A1"
+        ]
+    },
+    {
+        "output": ".notdef#6",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09AC.001",
+            "u09A2"
+        ]
+    },
+    {
+        "output": ".notdef#7",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09AC.001",
+            "u09A6"
+        ]
+    },
+    {
+        "output": ".notdef#8",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09AC.001",
+            "u09A6_u09F0_u09CD"
+        ]
+    },
+    {
+        "output": ".notdef#9",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09AC.001",
+            "u09A7"
+        ]
+    },
+    {
+        "output": ".notdef#10",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09AC.001",
+            "u09AD"
+        ]
+    },
+    {
+        "output": "u09AC_u09CD_u09B2",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09AC.001",
+            "u09B2"
+        ]
+    },
+    {
+        "output": "u09AD_u09CD_u09B2",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09AD.001",
+            "u09B2"
+        ]
+    },
+    {
+        "output": "bn_ma_ba_ra",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09AE",
+            "u09AC_u09CD,u09F0_u09CD"
+        ]
+    },
+    {
+        "output": "u09AE_u09CD_u09A4",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09AE.001",
+            "u09A4"
+        ]
+    },
+    {
+        "output": "u09AE_u09CD_u09A6",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09AE.001",
+            "u09A6"
+        ]
+    },
+    {
+        "output": "u09AE_u09CD_u09A8",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09AE.001",
+            "u09A8"
+        ]
+    },
+    {
+        "output": "u09AE_u09CD_u09AA",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09AE.001",
+            "u09AA"
+        ]
+    },
+    {
+        "output": "u09AE_u09CD_u09AA_u09F0_u09CD",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09AE.001",
+            "u09AA_u09F0_u09CD"
+        ]
+    },
+    {
+        "output": "u09AE_u09CD_u09AB",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09AE.001",
+            "u09AB"
+        ]
+    },
+    {
+        "output": "u09AE_u09CD_u09AB_u09F0_u09CD",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09AE.001",
+            "u09AB_u09F0_u09CD"
+        ]
+    },
+    {
+        "output": "u09AE_u09CD_u09AD",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09AE.001",
+            "u09AD"
+        ]
+    },
+    {
+        "output": "u09AE_u09CD_u09AD_u09F0_u09CD",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09AE.001",
+            "u09AD_u09F0_u09CD"
+        ]
+    },
+    {
+        "output": "u09AE_u09CD_u09AE",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09AE.001",
+            "u09AE"
+        ]
+    },
+    {
+        "output": "u09AE_u09CD_u09B2",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09AE.001",
+            "u09B2"
+        ]
+    },
+    {
+        "output": "u09B2_u09CD_u0995",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09B2.001",
+            "u0995"
+        ]
+    },
+    {
+        "output": "u09B2_u09CD_u0997",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09B2.001",
+            "u0997"
+        ]
+    },
+    {
+        "output": "u09B2_u09CD_u0998",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09B2.001",
+            "u0998"
+        ]
+    },
+    {
+        "output": "u09B2_u09CD_u099F",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09B2.001",
+            "u099F"
+        ]
+    },
+    {
+        "output": "u09B2_u09CD_u099F_u09F0_u09CD",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09B2.001",
+            "u099F_u09F0_u09CD"
+        ]
+    },
+    {
+        "output": "u09B2_u09CD_u09A1",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09B2.001",
+            "u09A1"
+        ]
+    },
+    {
+        "output": "u09B2_u09CD_u09A1_u09F0_u09CD",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09B2.001",
+            "u09A1_u09F0_u09CD"
+        ]
+    },
+    {
+        "output": "u09B2_u09CD_u09A2",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09B2.001",
+            "u09A2"
+        ]
+    },
+    {
+        "output": "u09B2_u09CD_u09A6",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09B2.001",
+            "u09A6"
+        ]
+    },
+    {
+        "output": "u09B2_u09CD_u09AA",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09B2.001",
+            "u09AA"
+        ]
+    },
+    {
+        "output": "u09B2_u09CD_u09AB",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09B2.001",
+            "u09AB"
+        ]
+    },
+    {
+        "output": "u09B2_u09CD_u09AE",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09B2.001",
+            "u09AE"
+        ]
+    },
+    {
+        "output": "u09B2_u09CD_u09B2",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09B2.001",
+            "u09B2"
+        ]
+    },
+    {
+        "output": "u09B6_u09CD_u099A",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09B6.001",
+            "u099A"
+        ]
+    },
+    {
+        "output": "u09B6_u09CD_u099B",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09B6.001",
+            "u099B"
+        ]
+    },
+    {
+        "output": "u09B6_u09CD_u09A4",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09B6.001",
+            "u09A4"
+        ]
+    },
+    {
+        "output": "u09B6_u09CD_u09A8",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09B6.001",
+            "u09A8"
+        ]
+    },
+    {
+        "output": "u09B6_u09CD_u09AE",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09B6.001",
+            "u09AE"
+        ]
+    },
+    {
+        "output": "u09B6_u09CD_u09B2",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09B6.001",
+            "u09B2"
+        ]
+    },
+    {
+        "output": "u09B7_u09CD_u0995",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09B7.001",
+            "u0995"
+        ]
+    },
+    {
+        "output": "u09B7_u09CD_u0995_u09F0_u09CD",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09B7.001",
+            "u0995_u09F0_u09CD"
+        ]
+    },
+    {
+        "output": "u09B7_u09CD_u099F",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09B7.001",
+            "u099F"
+        ]
+    },
+    {
+        "output": "u09B7_u09CD_u099F_u09F0_u09CD",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09B7.001",
+            "u099F_u09F0_u09CD"
+        ]
+    },
+    {
+        "output": "u09B7_u09CD_u09A0",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09B7.001",
+            "u09A0"
+        ]
+    },
+    {
+        "output": "u09B7_u09CD_u09A3",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09B7.001",
+            "u09A3"
+        ]
+    },
+    {
+        "output": "u09B7_u09CD_u09AA",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09B7.001",
+            "u09AA"
+        ]
+    },
+    {
+        "output": "u09B7_u09CD_u09AA_u09F0_u09CD",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09B7.001",
+            "u09AA_u09F0_u09CD"
+        ]
+    },
+    {
+        "output": "u09B7_u09CD_u09AB",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09B7.001",
+            "u09AB"
+        ]
+    },
+    {
+        "output": "u09B7_u09CD_u09AE",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09B7.001",
+            "u09AE"
+        ]
+    },
+    {
+        "output": "u09B8_u09CD_u0995",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09B8.001",
+            "u0995"
+        ]
+    },
+    {
+        "output": "u09B8_u09CD_u0996",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09B8.001",
+            "u0996"
+        ]
+    },
+    {
+        "output": "u09B8_u09CD_u0995_u09F0_u09CD",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09B8.001",
+            "u0995_u09F0_u09CD"
+        ]
+    },
+    {
+        "output": "u09B8_u09CD_u099F",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09B8.001",
+            "u099F"
+        ]
+    },
+    {
+        "output": "u09B8_u09CD_u099F_u09F0_u09CD",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09B8.001",
+            "u099F_u09F0_u09CD"
+        ]
+    },
+    {
+        "output": "u09B8_u09CD_u09A4",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09B8.001",
+            "u09A4"
+        ]
+    },
+    {
+        "output": "u09B8_u09CD_u09A4_u09F0_u09CD",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09B8.001",
+            "u09A4_u09F0_u09CD"
+        ]
+    },
+    {
+        "output": "u09B8_u09CD_u09A5",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09B8.001",
+            "u09A5"
+        ]
+    },
+    {
+        "output": "u09B8_u09CD_u09A8",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09B8.001",
+            "u09A8"
+        ]
+    },
+    {
+        "output": "u09B8_u09CD_u09AA",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09B8.001",
+            "u09AA"
+        ]
+    },
+    {
+        "output": "u09B8_u09CD_u09AA_u09F0_u09CD",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09B8.001",
+            "u09AA_u09F0_u09CD"
+        ]
+    },
+    {
+        "output": "u09B8_u09CD_u09AB",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09B8.001",
+            "u09AB"
+        ]
+    },
+    {
+        "output": "u09B8_u09CD_u09AE",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09B8.001",
+            "u09AE"
+        ]
+    },
+    {
+        "output": "u09B8_u09CD_u09B2",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09B8.001",
+            "u09B2"
+        ]
+    },
+    {
+        "output": "u09B8_u09CD_u09AA_u09CD_u09B2",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09B8.001",
+            "u09AA.001,u09B2"
+        ]
+    },
+    {
+        "output": "u09B9_u09CD_u09A3",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09B9.001",
+            "u09A3"
+        ]
+    },
+    {
+        "output": "u09B9_u09CD_u09A8",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09B9.001",
+            "u09A8"
+        ]
+    },
+    {
+        "output": "u09B9_u09CD_u09AE",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09B9.001",
+            "u09AE"
+        ]
+    },
+    {
+        "output": "u09B9_u09CD_u09B2",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09B9.001",
+            "u09B2"
+        ]
+    },
+    {
+        "output": "u09DC_u09CD_u0997",
+        "index": "10",
+        "tag": "pres",
+        "type": "4",
+        "input_glyphs": [
+            "u09DC.001",
+            "u0997"
+        ]
+    },
+    {
+        "output": ".notdef#14",
+        "index": "12",
+        "tag": "abvs",
+        "type": "4",
+        "input_glyphs": [
+            "u09BF",
+            "u0981"
+        ]
+    },
+    {
+        "output": "u0981_u09C0",
+        "index": "12",
+        "tag": "abvs",
+        "type": "4",
+        "input_glyphs": [
+            "u09C0",
+            "u0981"
+        ]
+    },
+    {
+        "output": "u0981_u09D7",
+        "index": "12",
+        "tag": "abvs",
+        "type": "4",
+        "input_glyphs": [
+            "u09D7",
+            "u0981"
+        ]
+    },
+    {
+        "output": "u0995_u09AC_u09CD",
+        "index": "13",
+        "tag": "blws",
+        "type": "4",
+        "input_glyphs": [
+            "u0995",
+            "u09AC_u09CD"
+        ]
+    },
+    {
+        "output": "u0995_u09CD_u09A4_u09AC_u09CD",
+        "index": "13",
+        "tag": "blws",
+        "type": "4",
+        "input_glyphs": [
+            "u0995_u09CD_u09A4",
+            "u09AC_u09CD"
+        ]
+    },
+    {
+        "output": "u0995_u09CD_u09B7_u09AC_u09CD",
+        "index": "13",
+        "tag": "blws",
+        "type": "4",
+        "input_glyphs": [
+            "u0995_u09CD_u09B7",
+            "u09AC_u09CD"
+        ]
+    },
+    {
+        "output": "u0996_u09AC_u09CD",
+        "index": "13",
+        "tag": "blws",
+        "type": "4",
+        "input_glyphs": [
+            "u0996",
+            "u09AC_u09CD"
+        ]
+    },
+    {
+        "output": "u0997_afii61664_u09C1",
+        "index": "13",
+        "tag": "blws",
+        "type": "4",
+        "input_glyphs": [
+            "u0997",
+            "u09C1"
+        ]
+    },
+    {
+        "output": "u0997_u09AC_u09CD",
+        "index": "13",
+        "tag": "blws",
+        "type": "4",
+        "input_glyphs": [
+            "u0997",
+            "u09AC_u09CD"
+        ]
+    },
+    {
+        "output": "u0997_u09CD_u09A7_u09AC_u09CD",
+        "index": "13",
+        "tag": "blws",
+        "type": "4",
+        "input_glyphs": [
+            "u0997_u09CD_u09A7",
+            "u09AC_u09CD"
+        ]
+    },
+    {
+        "output": "u0997_u09F0_u09CD_u09C1",
+        "index": "13",
+        "tag": "blws",
+        "type": "4",
+        "input_glyphs": [
+            "u0997_u09F0_u09CD",
+            "u09C1"
+        ]
+    },
+    {
+        "output": "u0997_u09F0_u09CD_u09C2",
+        "index": "13",
+        "tag": "blws",
+        "type": "4",
+        "input_glyphs": [
+            "u0997_u09F0_u09CD",
+            "u09C2"
+        ]
+    },
+    {
+        "output": "u0998_u09AC_u09CD",
+        "index": "13",
+        "tag": "blws",
+        "type": "4",
+        "input_glyphs": [
+            "u0998",
+            "u09AC_u09CD"
+        ]
+    },
+    {
+        "output": "u099A_u09AC_u09CD",
+        "index": "13",
+        "tag": "blws",
+        "type": "4",
+        "input_glyphs": [
+            "u099A",
+            "u09AC_u09CD"
+        ]
+    },
+    {
+        "output": "u099A_u09CD_u099B_u09AC_u09CD",
+        "index": "13",
+        "tag": "blws",
+        "type": "4",
+        "input_glyphs": [
+            "u099A_u09CD_u099B",
+            "u09AC_u09CD"
+        ]
+    },
+    {
+        "output": "u099B_u09AC_u09CD",
+        "index": "13",
+        "tag": "blws",
+        "type": "4",
+        "input_glyphs": [
+            "u099B",
+            "u09AC_u09CD"
+        ]
+    },
+    {
+        "output": "u099C_u09AC_u09CD",
+        "index": "13",
+        "tag": "blws",
+        "type": "4",
+        "input_glyphs": [
+            "u099C",
+            "u09AC_u09CD"
+        ]
+    },
+    {
+        "output": "u099C_u09CD_u099C_u09AC_u09CD",
+        "index": "13",
+        "tag": "blws",
+        "type": "4",
+        "input_glyphs": [
+            "u099C_u09CD_u099C",
+            "u09AC_u09CD"
+        ]
+    },
+    {
+        "output": "u099E_u09CD_u099A_u09AC_u09CD",
+        "index": "13",
+        "tag": "blws",
+        "type": "4",
+        "input_glyphs": [
+            "u099E_u09CD_u099A",
+            "u09AC_u09CD"
+        ]
+    },
+    {
+        "output": "u099F_u09AC_u09CD",
+        "index": "13",
+        "tag": "blws",
+        "type": "4",
+        "input_glyphs": [
+            "u099F",
+            "u09AC_u09CD"
+        ]
+    },
+    {
+        "output": "u09A1_u09AC_u09CD",
+        "index": "13",
+        "tag": "blws",
+        "type": "4",
+        "input_glyphs": [
+            "u09A1",
+            "u09AC_u09CD"
+        ]
+    },
+    {
+        "output": "u09A3_u09AC_u09CD",
+        "index": "13",
+        "tag": "blws",
+        "type": "4",
+        "input_glyphs": [
+            "u09A3",
+            "u09AC_u09CD"
+        ]
+    },
+    {
+        "output": "u09A4_u09AC_u09CD",
+        "index": "13",
+        "tag": "blws",
+        "type": "4",
+        "input_glyphs": [
+            "u09A4",
+            "u09AC_u09CD"
+        ]
+    },
+    {
+        "output": "u09A4_u09CD_u09A4_u09AC_u09CD",
+        "index": "13",
+        "tag": "blws",
+        "type": "4",
+        "input_glyphs": [
+            "u09A4_u09CD_u09A4",
+            "u09AC_u09CD"
+        ]
+    },
+    {
+        "output": "u09A4_u09F0_u09CD_u09C1",
+        "index": "13",
+        "tag": "blws",
+        "type": "4",
+        "input_glyphs": [
+            "u09A4_u09F0_u09CD",
+            "u09C1"
+        ]
+    },
+    {
+        "output": "u09A4_u09F0_u09CD_u09C2",
+        "index": "13",
+        "tag": "blws",
+        "type": "4",
+        "input_glyphs": [
+            "u09A4_u09F0_u09CD",
+            "u09C2"
+        ]
+    },
+    {
+        "output": "u09A5_u09AC_u09CD",
+        "index": "13",
+        "tag": "blws",
+        "type": "4",
+        "input_glyphs": [
+            "u09A5",
+            "u09AC_u09CD"
+        ]
+    },
+    {
+        "output": "u09A5_u09F0_u09CD_u09C1",
+        "index": "13",
+        "tag": "blws",
+        "type": "4",
+        "input_glyphs": [
+            "u09A5_u09CD_u09F0",
+            "u09C1"
+        ]
+    },
+    {
+        "output": "u09A5_u09F0_u09CD_u09C2",
+        "index": "13",
+        "tag": "blws",
+        "type": "4",
+        "input_glyphs": [
+            "u09A5_u09CD_u09F0",
+            "u09C2"
+        ]
+    },
+    {
+        "output": "u09A6_u09AC_u09CD",
+        "index": "13",
+        "tag": "blws",
+        "type": "4",
+        "input_glyphs": [
+            "u09A6",
+            "u09AC_u09CD"
+        ]
+    },
+    {
+        "output": "u09A6_u09CD_u09A6_u09AC_u09CD",
+        "index": "13",
+        "tag": "blws",
+        "type": "4",
+        "input_glyphs": [
+            "u09A6_u09CD_u09A6",
+            "u09AC_u09CD"
+        ]
+    },
+    {
+        "output": "u09A6_u09CD_u09A7_u09AC_u09CD",
+        "index": "13",
+        "tag": "blws",
+        "type": "4",
+        "input_glyphs": [
+            "u09A6_u09CD_u09A7",
+            "u09AC_u09CD"
+        ]
+    },
+    {
+        "output": "u09A6_u09F0_u09CD_u09C1",
+        "index": "13",
+        "tag": "blws",
+        "type": "4",
+        "input_glyphs": [
+            "u09A6_u09F0_u09CD",
+            "u09C1"
+        ]
+    },
+    {
+        "output": "u09A6_u09F0_u09CD_u09C2",
+        "index": "13",
+        "tag": "blws",
+        "type": "4",
+        "input_glyphs": [
+            "u09A6_u09F0_u09CD",
+            "u09C2"
+        ]
+    },
+    {
+        "output": "u09A7_u09AC_u09CD",
+        "index": "13",
+        "tag": "blws",
+        "type": "4",
+        "input_glyphs": [
+            "u09A7",
+            "u09AC_u09CD"
+        ]
+    },
+    {
+        "output": "u09A7_u09F0_u09CD_u09C1",
+        "index": "13",
+        "tag": "blws",
+        "type": "4",
+        "input_glyphs": [
+            "u09A7_u09F0_u09CD",
+            "u09C1"
+        ]
+    },
+    {
+        "output": "u09A7_u09F0_u09CD_u09C2",
+        "index": "13",
+        "tag": "blws",
+        "type": "4",
+        "input_glyphs": [
+            "u09A7_u09F0_u09CD",
+            "u09C2"
+        ]
+    },
+    {
+        "output": "u09A8_u09AC_u09CD",
+        "index": "13",
+        "tag": "blws",
+        "type": "4",
+        "input_glyphs": [
+            "u09A8",
+            "u09AC_u09CD"
+        ]
+    },
+    {
+        "output": ".notdef#2",
+        "index": "13",
+        "tag": "blws",
+        "type": "4",
+        "input_glyphs": [
+            "u09A8_u09CD_u09A1_u09F0_u09CD",
+            "u09C1"
+        ]
+    },
+    {
+        "output": "u09A8_u09CD_u09A4_u09C1",
+        "index": "13",
+        "tag": "blws",
+        "type": "4",
+        "input_glyphs": [
+            "u09A8_u09CD_u09A4",
+            "u09C1"
+        ]
+    },
+    {
+        "output": "u09A8_u09CD_u09A4_u09AC_u09CD",
+        "index": "13",
+        "tag": "blws",
+        "type": "4",
+        "input_glyphs": [
+            "u09A8_u09CD_u09A4",
+            "u09AC_u09CD"
+        ]
+    },
+    {
+        "output": "u09A8_u09CD_u09A6_u09AC_u09CD",
+        "index": "13",
+        "tag": "blws",
+        "type": "4",
+        "input_glyphs": [
+            "u09A8_u09CD_u09A6",
+            "u09AC_u09CD"
+        ]
+    },
+    {
+        "output": "u09A8_u09CD_u09A7_u09AC_u09CD",
+        "index": "13",
+        "tag": "blws",
+        "type": "4",
+        "input_glyphs": [
+            "u09A8_u09CD_u09A7",
+            "u09AC_u09CD"
+        ]
+    },
+    {
+        "output": "u09AA_u09CD_u09A4_u09C1",
+        "index": "13",
+        "tag": "blws",
+        "type": "4",
+        "input_glyphs": [
+            "u09AA_u09CD_u09A4",
+            "u09C1"
+        ]
+    },
+    {
+        "output": "u09AA_u09F0_u09CD_u09C1",
+        "index": "13",
+        "tag": "blws",
+        "type": "4",
+        "input_glyphs": [
+            "u09AA_u09F0_u09CD",
+            "u09C1"
+        ]
+    },
+    {
+        "output": "u09AA_u09F0_u09CD_u09C2",
+        "index": "13",
+        "tag": "blws",
+        "type": "4",
+        "input_glyphs": [
+            "u09AA_u09F0_u09CD",
+            "u09C2"
+        ]
+    },
+    {
+        "output": "u09AC_u09AC_u09CD",
+        "index": "13",
+        "tag": "blws",
+        "type": "4",
+        "input_glyphs": [
+            "u09AC",
+            "u09AC_u09CD"
+        ]
+    },
+    {
+        "output": "u09AC_u09F0_u09CD_u09C1",
+        "index": "13",
+        "tag": "blws",
+        "type": "4",
+        "input_glyphs": [
+            "u09AC_u09F0_u09CD",
+            "u09C1"
+        ]
+    },
+    {
+        "output": "u09AC_u09F0_u09CD_u09C2",
+        "index": "13",
+        "tag": "blws",
+        "type": "4",
+        "input_glyphs": [
+            "u09AC_u09F0_u09CD",
+            "u09C2"
+        ]
+    },
+    {
+        "output": "u09AD_u09F0_u09CD_u09C1",
+        "index": "13",
+        "tag": "blws",
+        "type": "4",
+        "input_glyphs": [
+            "u09AD_u09F0_u09CD",
+            "u09C1"
+        ]
+    },
+    {
+        "output": "u09AD_u09F0_u09CD_u09C2",
+        "index": "13",
+        "tag": "blws",
+        "type": "4",
+        "input_glyphs": [
+            "u09AD_u09F0_u09CD",
+            "u09C2"
+        ]
+    },
+    {
+        "output": "u09AE_u09AC_u09CD",
+        "index": "13",
+        "tag": "blws",
+        "type": "4",
+        "input_glyphs": [
+            "u09AE",
+            "u09AC_u09CD"
+        ]
+    },
+    {
+        "output": "u09B0_u09C1",
+        "index": "13",
+        "tag": "blws",
+        "type": "4",
+        "input_glyphs": [
+            "u09B0",
+            "u09C1"
+        ]
+    },
+    {
+        "output": "u09B0_u09C2",
+        "index": "13",
+        "tag": "blws",
+        "type": "4",
+        "input_glyphs": [
+            "u09B0",
+            "u09C2"
+        ]
+    },
+    {
+        "output": "u09B2_u09AC_u09CD",
+        "index": "13",
+        "tag": "blws",
+        "type": "4",
+        "input_glyphs": [
+            "u09B2",
+            "u09AC_u09CD"
+        ]
+    },
+    {
+        "output": "u09B2_u09CD_u0997_afii61664_u09C1",
+        "index": "13",
+        "tag": "blws",
+        "type": "4",
+        "input_glyphs": [
+            "u09B2_u09CD_u0997",
+            "u09C1"
+        ]
+    },
+    {
+        "output": "u09B6_afii61664_u09C1",
+        "index": "13",
+        "tag": "blws",
+        "type": "4",
+        "input_glyphs": [
+            "u09B6",
+            "u09C1"
+        ]
+    },
+    {
+        "output": "u09B6_u09AC_u09CD",
+        "index": "13",
+        "tag": "blws",
+        "type": "4",
+        "input_glyphs": [
+            "u09B6",
+            "u09AC_u09CD"
+        ]
+    },
+    {
+        "output": "u09B6_u09F0_u09CD_u09C1",
+        "index": "13",
+        "tag": "blws",
+        "type": "4",
+        "input_glyphs": [
+            "u09B6_u09F0_u09CD",
+            "u09C1"
+        ]
+    },
+    {
+        "output": "u09B6_u09F0_u09CD_u09C2",
+        "index": "13",
+        "tag": "blws",
+        "type": "4",
+        "input_glyphs": [
+            "u09B6_u09F0_u09CD",
+            "u09C2"
+        ]
+    },
+    {
+        "output": "u09B7_u09AC_u09CD",
+        "index": "13",
+        "tag": "blws",
+        "type": "4",
+        "input_glyphs": [
+            "u09B7",
+            "u09AC_u09CD"
+        ]
+    },
+    {
+        "output": "u09B8_u09AC_u09CD",
+        "index": "13",
+        "tag": "blws",
+        "type": "4",
+        "input_glyphs": [
+            "u09B8",
+            "u09AC_u09CD"
+        ]
+    },
+    {
+        "output": ".notdef#11",
+        "index": "13",
+        "tag": "blws",
+        "type": "4",
+        "input_glyphs": [
+            "u09B8_u09CD_u0995_u09F0_u09CD",
+            "u09C1"
+        ]
+    },
+    {
+        "output": ".notdef#12",
+        "index": "13",
+        "tag": "blws",
+        "type": "4",
+        "input_glyphs": [
+            "u09B8_u09CD_u099F_u09F0_u09CD",
+            "u09C1"
+        ]
+    },
+    {
+        "output": "u09B8_u09CD_u09A4_u09C1",
+        "index": "13",
+        "tag": "blws",
+        "type": "4",
+        "input_glyphs": [
+            "u09B8_u09CD_u09A4",
+            "u09C1"
+        ]
+    },
+    {
+        "output": "u09B8_u09CD_u09A4_u09AC_u09CD",
+        "index": "13",
+        "tag": "blws",
+        "type": "4",
+        "input_glyphs": [
+            "u09B8_u09CD_u09A4",
+            "u09AC_u09CD"
+        ]
+    },
+    {
+        "output": ".notdef#13",
+        "index": "13",
+        "tag": "blws",
+        "type": "4",
+        "input_glyphs": [
+            "u09B8_u09CD_u09AA_u09F0_u09CD",
+            "u09C1"
+        ]
+    },
+    {
+        "output": "u09B8_u09F0_u09CD_u09C1",
+        "index": "13",
+        "tag": "blws",
+        "type": "4",
+        "input_glyphs": [
+            "u09B8_u09F0_u09CD",
+            "u09C1"
+        ]
+    },
+    {
+        "output": "u09B8_u09F0_u09CD_u09C2",
+        "index": "13",
+        "tag": "blws",
+        "type": "4",
+        "input_glyphs": [
+            "u09B8_u09F0_u09CD",
+            "u09C2"
+        ]
+    },
+    {
+        "output": "u09B9_u09C1",
+        "index": "13",
+        "tag": "blws",
+        "type": "4",
+        "input_glyphs": [
+            "u09B9",
+            "u09C1"
+        ]
+    },
+    {
+        "output": "u09B9_u09C3",
+        "index": "13",
+        "tag": "blws",
+        "type": "4",
+        "input_glyphs": [
+            "u09B9",
+            "u09C3"
+        ]
+    },
+    {
+        "output": "u09B9_u09AC_u09CD",
+        "index": "13",
+        "tag": "blws",
+        "type": "4",
+        "input_glyphs": [
+            "u09B9",
+            "u09AC_u09CD"
+        ]
+    },
+    {
+        "output": "u09F0_u09C1",
+        "index": "13",
+        "tag": "blws",
+        "type": "4",
+        "input_glyphs": [
+            "u09F0",
+            "u09C1"
+        ]
+    },
+    {
+        "output": "u09F0_u09C2",
+        "index": "13",
+        "tag": "blws",
+        "type": "4",
+        "input_glyphs": [
+            "u09F0",
+            "u09C2"
+        ]
+    },
+    {
+        "output": "u09F1_u09C1",
+        "index": "13",
+        "tag": "blws",
+        "type": "4",
+        "input_glyphs": [
+            "u09F1",
+            "u09C1"
+        ]
+    },
+    {
+        "output": "u09F1_u09C2",
+        "index": "13",
+        "tag": "blws",
+        "type": "4",
+        "input_glyphs": [
+            "u09F1",
+            "u09C2"
+        ]
+    },
+    {
+        "output": "u09B6_u09F0_u09CD_u09C0",
+        "index": "14",
+        "tag": "psts",
+        "type": "4",
+        "input_glyphs": [
+            "u09B6_u09F0_u09CD",
+            "u09C0"
+        ]
+    },
+    {
+        "output": "u0995_u09CD",
+        "index": "15",
+        "tag": "haln",
+        "type": "4",
+        "input_glyphs": [
+            "u0995",
+            "u09CD"
+        ]
+    },
+    {
+        "output": ".notdef#19",
+        "index": "15",
+        "tag": "haln",
+        "type": "4",
+        "input_glyphs": [
+            "u0995_u09CD_u09B7",
+            "u09CD"
+        ]
+    },
+    {
+        "output": "u0996_u09CD",
+        "index": "15",
+        "tag": "haln",
+        "type": "4",
+        "input_glyphs": [
+            "u0996",
+            "u09CD"
+        ]
+    },
+    {
+        "output": "u0997_u09CD",
+        "index": "15",
+        "tag": "haln",
+        "type": "4",
+        "input_glyphs": [
+            "u0997",
+            "u09CD"
+        ]
+    },
+    {
+        "output": "u0998_u09CD",
+        "index": "15",
+        "tag": "haln",
+        "type": "4",
+        "input_glyphs": [
+            "u0998",
+            "u09CD"
+        ]
+    },
+    {
+        "output": "u0999_u09CD",
+        "index": "15",
+        "tag": "haln",
+        "type": "4",
+        "input_glyphs": [
+            "u0999",
+            "u09CD"
+        ]
+    },
+    {
+        "output": "u099A_u09CD",
+        "index": "15",
+        "tag": "haln",
+        "type": "4",
+        "input_glyphs": [
+            "u099A",
+            "u09CD"
+        ]
+    },
+    {
+        "output": "u099B_u09CD",
+        "index": "15",
+        "tag": "haln",
+        "type": "4",
+        "input_glyphs": [
+            "u099B",
+            "u09CD"
+        ]
+    },
+    {
+        "output": "u099C_u09CD",
+        "index": "15",
+        "tag": "haln",
+        "type": "4",
+        "input_glyphs": [
+            "u099C",
+            "u09CD"
+        ]
+    },
+    {
+        "output": "u099D_u09CD",
+        "index": "15",
+        "tag": "haln",
+        "type": "4",
+        "input_glyphs": [
+            "u099D",
+            "u09CD"
+        ]
+    },
+    {
+        "output": "u099E_u09CD",
+        "index": "15",
+        "tag": "haln",
+        "type": "4",
+        "input_glyphs": [
+            "u099E",
+            "u09CD"
+        ]
+    },
+    {
+        "output": "u099F_u09CD",
+        "index": "15",
+        "tag": "haln",
+        "type": "4",
+        "input_glyphs": [
+            "u099F",
+            "u09CD"
+        ]
+    },
+    {
+        "output": "u09A0_u09CD",
+        "index": "15",
+        "tag": "haln",
+        "type": "4",
+        "input_glyphs": [
+            "u09A0",
+            "u09CD"
+        ]
+    },
+    {
+        "output": "u09A1_u09CD",
+        "index": "15",
+        "tag": "haln",
+        "type": "4",
+        "input_glyphs": [
+            "u09A1",
+            "u09CD"
+        ]
+    },
+    {
+        "output": "u09A2_u09CD",
+        "index": "15",
+        "tag": "haln",
+        "type": "4",
+        "input_glyphs": [
+            "u09A2",
+            "u09CD"
+        ]
+    },
+    {
+        "output": "u09A3_u09CD",
+        "index": "15",
+        "tag": "haln",
+        "type": "4",
+        "input_glyphs": [
+            "u09A3",
+            "u09CD"
+        ]
+    },
+    {
+        "output": ".notdef#16",
+        "index": "15",
+        "tag": "haln",
+        "type": "4",
+        "input_glyphs": [
+            "u09A4",
+            "u09CD"
+        ]
+    },
+    {
+        "output": "u09A4_u09CD",
+        "index": "15",
+        "tag": "haln",
+        "type": "4",
+        "input_glyphs": [
+            "u09A4.001",
+            ""
+        ]
+    },
+    {
+        "output": "u09A5_u09CD",
+        "index": "15",
+        "tag": "haln",
+        "type": "4",
+        "input_glyphs": [
+            "u09A5",
+            "u09CD"
+        ]
+    },
+    {
+        "output": "u09A6_u09CD",
+        "index": "15",
+        "tag": "haln",
+        "type": "4",
+        "input_glyphs": [
+            "u09A6",
+            "u09CD"
+        ]
+    },
+    {
+        "output": "u09A7_u09CD",
+        "index": "15",
+        "tag": "haln",
+        "type": "4",
+        "input_glyphs": [
+            "u09A7",
+            "u09CD"
+        ]
+    },
+    {
+        "output": "u09A8_u09CD",
+        "index": "15",
+        "tag": "haln",
+        "type": "4",
+        "input_glyphs": [
+            "u09A8",
+            "u09CD"
+        ]
+    },
+    {
+        "output": "u09AA_u09CD",
+        "index": "15",
+        "tag": "haln",
+        "type": "4",
+        "input_glyphs": [
+            "u09AA",
+            "u09CD"
+        ]
+    },
+    {
+        "output": "u09AB_u09CD",
+        "index": "15",
+        "tag": "haln",
+        "type": "4",
+        "input_glyphs": [
+            "u09AB",
+            "u09CD"
+        ]
+    },
+    {
+        "output": ".notdef#17",
+        "index": "15",
+        "tag": "haln",
+        "type": "4",
+        "input_glyphs": [
+            "u09AC",
+            "u09CD"
+        ]
+    },
+    {
+        "output": "u09AD_u09CD",
+        "index": "15",
+        "tag": "haln",
+        "type": "4",
+        "input_glyphs": [
+            "u09AD",
+            "u09CD"
+        ]
+    },
+    {
+        "output": "u09AE_u09CD",
+        "index": "15",
+        "tag": "haln",
+        "type": "4",
+        "input_glyphs": [
+            "u09AE",
+            "u09CD"
+        ]
+    },
+    {
+        "output": "u09AF_u09CD",
+        "index": "15",
+        "tag": "haln",
+        "type": "4",
+        "input_glyphs": [
+            "u09AF",
+            "u09CD"
+        ]
+    },
+    {
+        "output": ".notdef#18",
+        "index": "15",
+        "tag": "haln",
+        "type": "4",
+        "input_glyphs": [
+            "u09B0",
+            "u09CD"
+        ]
+    },
+    {
+        "output": "u09B2_u09CD",
+        "index": "15",
+        "tag": "haln",
+        "type": "4",
+        "input_glyphs": [
+            "u09B2",
+            "u09CD"
+        ]
+    },
+    {
+        "output": "u09B6_u09CD",
+        "index": "15",
+        "tag": "haln",
+        "type": "4",
+        "input_glyphs": [
+            "u09B6",
+            "u09CD"
+        ]
+    },
+    {
+        "output": "u09B7_u09CD",
+        "index": "15",
+        "tag": "haln",
+        "type": "4",
+        "input_glyphs": [
+            "u09B7",
+            "u09CD"
+        ]
+    },
+    {
+        "output": "u09B8_u09CD",
+        "index": "15",
+        "tag": "haln",
+        "type": "4",
+        "input_glyphs": [
+            "u09B8",
+            "u09CD"
+        ]
+    },
+    {
+        "output": "u09B9_u09CD",
+        "index": "15",
+        "tag": "haln",
+        "type": "4",
+        "input_glyphs": [
+            "u09B9",
+            "u09CD"
+        ]
+    },
+    {
+        "output": "u09DC_u09CD",
+        "index": "15",
+        "tag": "haln",
+        "type": "4",
+        "input_glyphs": [
+            "u09DC",
+            "u09CD"
+        ]
+    },
+    {
+        "output": "u09DD_u09CD",
+        "index": "15",
+        "tag": "haln",
+        "type": "4",
+        "input_glyphs": [
+            "u09DD",
+            "u09CD"
+        ]
+    },
+    {
+        "output": "u09DF_u09CD",
+        "index": "15",
+        "tag": "haln",
+        "type": "4",
+        "input_glyphs": [
+            "u09DF",
+            "u09CD"
+        ]
+    },
+    {
+        "output": ".notdef#20",
+        "index": "15",
+        "tag": "haln",
+        "type": "4",
+        "input_glyphs": [
+            "u09F0",
+            "u09CD"
+        ]
+    },
+    {
+        "output": "u09F1_u09CD",
+        "index": "15",
+        "tag": "haln",
+        "type": "4",
+        "input_glyphs": [
+            "u09F1",
+            "u09CD"
+        ]
+    }
+]

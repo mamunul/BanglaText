@@ -1,0 +1,554 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		59545E712C10496E009BD5BE /* CairoWrapper.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 59545E682C10496E009BD5BE /* CairoWrapper.cpp */; };
+		59545E722C10496E009BD5BE /* NameIndexUnicodeHelper.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 59545E6A2C10496E009BD5BE /* NameIndexUnicodeHelper.cpp */; };
+		59545E732C10496E009BD5BE /* TextConsoleRenderer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 59545E6C2C10496E009BD5BE /* TextConsoleRenderer.cpp */; };
+		59545E742C10496E009BD5BE /* TextImageExporter.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 59545E6E2C10496E009BD5BE /* TextImageExporter.cpp */; };
+		5964F0532C05B9BD005E339F /* HarfBuzzWrapper.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5964F0512C05B9BD005E339F /* HarfBuzzWrapper.cpp */; };
+		59AF5C162BF4A70C00F292C0 /* libcairo.2.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 59AF5C152BF4A70C00F292C0 /* libcairo.2.dylib */; };
+		59AF5C1D2BF4A72800F292C0 /* libharfbuzz.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 59AF5C192BF4A72800F292C0 /* libharfbuzz.a */; };
+		59AF5C1E2BF4A72800F292C0 /* libharfbuzz.0.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 59AF5C1A2BF4A72800F292C0 /* libharfbuzz.0.dylib */; };
+		59AF5C212BF4A73300F292C0 /* libfreetype.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 59AF5C1F2BF4A73300F292C0 /* libfreetype.a */; };
+		59AF5C222BF4A73300F292C0 /* libfreetype.6.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 59AF5C202BF4A73300F292C0 /* libfreetype.6.dylib */; };
+		59EE972A2C05B82D00BED96A /* FontHeaderCreator.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 59EE97282C05B82D00BED96A /* FontHeaderCreator.cpp */; };
+		EE19C49B2C1D6BFA003F3FAA /* BanglaTextCommon.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE19C4932C1D6BFA003F3FAA /* BanglaTextCommon.cpp */; };
+		EE19C49C2C1D6BFA003F3FAA /* BTGlyphDecoder.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE19C4952C1D6BFA003F3FAA /* BTGlyphDecoder.cpp */; };
+		EE19C49D2C1D6BFA003F3FAA /* BanglaTextUtility.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE19C4962C1D6BFA003F3FAA /* BanglaTextUtility.cpp */; };
+		EE19C49E2C1D6BFA003F3FAA /* BanglaTextRenderer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EE19C49A2C1D6BFA003F3FAA /* BanglaTextRenderer.cpp */; };
+		EE90E0902BF87C1500A9C052 /* libjsoncpp.25.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = EE90E08F2BF87C1500A9C052 /* libjsoncpp.25.dylib */; };
+		EEBE01252BFE4AD50012EC7F /* common.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEBE01242BFE4AD50012EC7F /* common.cpp */; };
+		EEC9DF6E2BF78FB400DFD848 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEC9DF622BF78FB400DFD848 /* main.cpp */; };
+		EEC9DF712BF78FB400DFD848 /* FreetypeWrapper.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEC9DF692BF78FB400DFD848 /* FreetypeWrapper.cpp */; };
+		EEC9DF742BF7904F00DFD848 /* FontDataExtractor.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEC9DF722BF7904F00DFD848 /* FontDataExtractor.cpp */; };
+		EEE777D92BF7CD8A009C8C91 /* libicuuc.a in Frameworks */ = {isa = PBXBuildFile; fileRef = EEE777D12BF7CD8A009C8C91 /* libicuuc.a */; };
+		EEE777DB2BF7CD8A009C8C91 /* libicuuc.74.2.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = EEE777D32BF7CD8A009C8C91 /* libicuuc.74.2.dylib */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		59AF5BFD2BF4A12B00F292C0 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		592EC5282C1594C400FB6EF5 /* Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Header.h; sourceTree = "<group>"; };
+		59545E642C103E7B009BD5BE /* HeaderStrings.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HeaderStrings.h; sourceTree = "<group>"; };
+		59545E682C10496E009BD5BE /* CairoWrapper.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = CairoWrapper.cpp; sourceTree = "<group>"; };
+		59545E692C10496E009BD5BE /* CairoWrapper.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = CairoWrapper.hpp; sourceTree = "<group>"; };
+		59545E6A2C10496E009BD5BE /* NameIndexUnicodeHelper.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = NameIndexUnicodeHelper.cpp; sourceTree = "<group>"; };
+		59545E6B2C10496E009BD5BE /* NameIndexUnicodeHelper.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = NameIndexUnicodeHelper.hpp; sourceTree = "<group>"; };
+		59545E6C2C10496E009BD5BE /* TextConsoleRenderer.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = TextConsoleRenderer.cpp; sourceTree = "<group>"; };
+		59545E6D2C10496E009BD5BE /* TextConsoleRenderer.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = TextConsoleRenderer.hpp; sourceTree = "<group>"; };
+		59545E6E2C10496E009BD5BE /* TextImageExporter.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = TextImageExporter.cpp; sourceTree = "<group>"; };
+		59545E6F2C10496E009BD5BE /* TextImageExporter.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = TextImageExporter.hpp; sourceTree = "<group>"; };
+		5964F0512C05B9BD005E339F /* HarfBuzzWrapper.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = HarfBuzzWrapper.cpp; sourceTree = "<group>"; };
+		5964F0522C05B9BD005E339F /* HarfBuzzWrapper.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = HarfBuzzWrapper.hpp; sourceTree = "<group>"; };
+		59A340CE2C199BDD00D6BDD4 /* BanglaMNRegular_21pt.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BanglaMNRegular_21pt.h; path = ../../../FontsHeader/BanglaMNRegular_21pt.h; sourceTree = "<group>"; };
+		59A340D02C199BDD00D6BDD4 /* BanglaMNRegular_33pt.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BanglaMNRegular_33pt.h; path = ../../../FontsHeader/BanglaMNRegular_33pt.h; sourceTree = "<group>"; };
+		59A340DA2C199E3900D6BDD4 /* SangamMN_31pt.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SangamMN_31pt.h; path = ../../../FontsHeader/SangamMN_31pt.h; sourceTree = "<group>"; };
+		59A340DB2C199E3900D6BDD4 /* SangamMN_21pt.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SangamMN_21pt.h; path = ../../../FontsHeader/SangamMN_21pt.h; sourceTree = "<group>"; };
+		59A340DF2C199E3900D6BDD4 /* SangamMN_25pt.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SangamMN_25pt.h; path = ../../../FontsHeader/SangamMN_25pt.h; sourceTree = "<group>"; };
+		59A340E12C199F9C00D6BDD4 /* Kalpurush_33pt.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Kalpurush_33pt.h; path = ../../../FontsHeader/Kalpurush_33pt.h; sourceTree = "<group>"; };
+		59A340E32C199F9C00D6BDD4 /* Kalpurush_20pt.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Kalpurush_20pt.h; path = ../../../FontsHeader/Kalpurush_20pt.h; sourceTree = "<group>"; };
+		59A340E52C199F9C00D6BDD4 /* Kalpurush_25pt.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Kalpurush_25pt.h; path = ../../../FontsHeader/Kalpurush_25pt.h; sourceTree = "<group>"; };
+		59A340E72C19A22400D6BDD4 /* Kohinur_25pt.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Kohinur_25pt.h; path = ../../../FontsHeader/Kohinur_25pt.h; sourceTree = "<group>"; };
+		59A340E92C19A22400D6BDD4 /* Kohinur_22pt.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Kohinur_22pt.h; path = ../../../FontsHeader/Kohinur_22pt.h; sourceTree = "<group>"; };
+		59A340EB2C19A22400D6BDD4 /* Kohinur_30pt.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Kohinur_30pt.h; path = ../../../FontsHeader/Kohinur_30pt.h; sourceTree = "<group>"; };
+		59AF5BFF2BF4A12B00F292C0 /* BanglaFontConverter */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = BanglaFontConverter; sourceTree = BUILT_PRODUCTS_DIR; };
+		59AF5C112BF4A6EE00F292C0 /* libfontconfig.1.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libfontconfig.1.dylib; path = ../../../../../../../opt/homebrew/Cellar/fontconfig/2.15.0/lib/libfontconfig.1.dylib; sourceTree = "<group>"; };
+		59AF5C132BF4A6F000F292C0 /* libfontconfig.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libfontconfig.a; path = ../../../../../../../opt/homebrew/Cellar/fontconfig/2.15.0/lib/libfontconfig.a; sourceTree = "<group>"; };
+		59AF5C152BF4A70C00F292C0 /* libcairo.2.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libcairo.2.dylib; path = ../../../../../../../opt/homebrew/Cellar/cairo/1.18.0/lib/libcairo.2.dylib; sourceTree = "<group>"; };
+		59AF5C172BF4A72800F292C0 /* libharfbuzz-cairo.0.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = "libharfbuzz-cairo.0.dylib"; path = "../../../../../../../opt/homebrew/Cellar/harfbuzz/8.4.0/lib/libharfbuzz-cairo.0.dylib"; sourceTree = "<group>"; };
+		59AF5C182BF4A72800F292C0 /* libharfbuzz-cairo.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = "libharfbuzz-cairo.a"; path = "../../../../../../../opt/homebrew/Cellar/harfbuzz/8.4.0/lib/libharfbuzz-cairo.a"; sourceTree = "<group>"; };
+		59AF5C192BF4A72800F292C0 /* libharfbuzz.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libharfbuzz.a; path = ../../../../../../../opt/homebrew/Cellar/harfbuzz/8.4.0/lib/libharfbuzz.a; sourceTree = "<group>"; };
+		59AF5C1A2BF4A72800F292C0 /* libharfbuzz.0.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libharfbuzz.0.dylib; path = ../../../../../../../opt/homebrew/Cellar/harfbuzz/8.4.0/lib/libharfbuzz.0.dylib; sourceTree = "<group>"; };
+		59AF5C1F2BF4A73300F292C0 /* libfreetype.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libfreetype.a; path = ../../../../../../../opt/homebrew/Cellar/freetype/2.13.2/lib/libfreetype.a; sourceTree = "<group>"; };
+		59AF5C202BF4A73300F292C0 /* libfreetype.6.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libfreetype.6.dylib; path = ../../../../../../../opt/homebrew/Cellar/freetype/2.13.2/lib/libfreetype.6.dylib; sourceTree = "<group>"; };
+		59AF5C232BF4A74500F292C0 /* BanglaFontConverter.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = BanglaFontConverter.entitlements; sourceTree = "<group>"; };
+		59EE97282C05B82D00BED96A /* FontHeaderCreator.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = FontHeaderCreator.cpp; sourceTree = "<group>"; };
+		59EE97292C05B82D00BED96A /* FontHeaderCreator.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = FontHeaderCreator.hpp; sourceTree = "<group>"; };
+		EE19C4932C1D6BFA003F3FAA /* BanglaTextCommon.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = BanglaTextCommon.cpp; path = ../../../../src/Utility/BanglaTextCommon.cpp; sourceTree = "<group>"; };
+		EE19C4942C1D6BFA003F3FAA /* BanglaTextCommon.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; name = BanglaTextCommon.hpp; path = ../../../../src/Utility/BanglaTextCommon.hpp; sourceTree = "<group>"; };
+		EE19C4952C1D6BFA003F3FAA /* BTGlyphDecoder.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = BTGlyphDecoder.cpp; path = ../../../../src/Utility/BTGlyphDecoder.cpp; sourceTree = "<group>"; };
+		EE19C4962C1D6BFA003F3FAA /* BanglaTextUtility.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = BanglaTextUtility.cpp; path = ../../../../src/Utility/BanglaTextUtility.cpp; sourceTree = "<group>"; };
+		EE19C4972C1D6BFA003F3FAA /* BanglaTextUtility.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; name = BanglaTextUtility.hpp; path = ../../../../src/Utility/BanglaTextUtility.hpp; sourceTree = "<group>"; };
+		EE19C4982C1D6BFA003F3FAA /* BanglaTextRenderer.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; name = BanglaTextRenderer.hpp; path = ../../../../src/Utility/BanglaTextRenderer.hpp; sourceTree = "<group>"; };
+		EE19C4992C1D6BFA003F3FAA /* BTGlyphDecoder.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; name = BTGlyphDecoder.hpp; path = ../../../../src/Utility/BTGlyphDecoder.hpp; sourceTree = "<group>"; };
+		EE19C49A2C1D6BFA003F3FAA /* BanglaTextRenderer.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = BanglaTextRenderer.cpp; path = ../../../../src/Utility/BanglaTextRenderer.cpp; sourceTree = "<group>"; };
+		EE1FFB502C188A8B00F38902 /* BanglaMNRegular_25pt.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BanglaMNRegular_25pt.h; path = ../../../FontsHeader/BanglaMNRegular_25pt.h; sourceTree = "<group>"; };
+		EE90E08F2BF87C1500A9C052 /* libjsoncpp.25.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libjsoncpp.25.dylib; path = ../../../../../../../opt/homebrew/Cellar/jsoncpp/1.9.5/lib/libjsoncpp.25.dylib; sourceTree = "<group>"; };
+		EEBE01232BFE49520012EC7F /* common.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = common.hpp; sourceTree = "<group>"; };
+		EEBE01242BFE4AD50012EC7F /* common.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = common.cpp; sourceTree = "<group>"; };
+		EEC9DF622BF78FB400DFD848 /* main.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		EEC9DF692BF78FB400DFD848 /* FreetypeWrapper.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = FreetypeWrapper.cpp; sourceTree = "<group>"; };
+		EEC9DF6A2BF78FB400DFD848 /* FreetypeWrapper.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = FreetypeWrapper.hpp; sourceTree = "<group>"; };
+		EEC9DF722BF7904F00DFD848 /* FontDataExtractor.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = FontDataExtractor.cpp; sourceTree = "<group>"; };
+		EEC9DF732BF7904F00DFD848 /* FontDataExtractor.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = FontDataExtractor.hpp; sourceTree = "<group>"; };
+		EEE777CB2BF7CC5A009C8C91 /* libicudata.74.2.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libicudata.74.2.dylib; path = ../../../../../../../opt/homebrew/Cellar/icu4c/74.2/lib/libicudata.74.2.dylib; sourceTree = "<group>"; };
+		EEE777CC2BF7CC5A009C8C91 /* libicudata.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libicudata.a; path = ../../../../../../../opt/homebrew/Cellar/icu4c/74.2/lib/libicudata.a; sourceTree = "<group>"; };
+		EEE777D12BF7CD8A009C8C91 /* libicuuc.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libicuuc.a; path = ../../../../../../../opt/homebrew/Cellar/icu4c/74.2/lib/libicuuc.a; sourceTree = "<group>"; };
+		EEE777D22BF7CD8A009C8C91 /* libicuio.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libicuio.a; path = ../../../../../../../opt/homebrew/Cellar/icu4c/74.2/lib/libicuio.a; sourceTree = "<group>"; };
+		EEE777D32BF7CD8A009C8C91 /* libicuuc.74.2.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libicuuc.74.2.dylib; path = ../../../../../../../opt/homebrew/Cellar/icu4c/74.2/lib/libicuuc.74.2.dylib; sourceTree = "<group>"; };
+		EEE777D42BF7CD8A009C8C91 /* libicuio.74.2.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libicuio.74.2.dylib; path = ../../../../../../../opt/homebrew/Cellar/icu4c/74.2/lib/libicuio.74.2.dylib; sourceTree = "<group>"; };
+		EEE777D52BF7CD8A009C8C91 /* libicutu.74.2.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libicutu.74.2.dylib; path = ../../../../../../../opt/homebrew/Cellar/icu4c/74.2/lib/libicutu.74.2.dylib; sourceTree = "<group>"; };
+		EEE777D62BF7CD8A009C8C91 /* libicutu.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libicutu.a; path = ../../../../../../../opt/homebrew/Cellar/icu4c/74.2/lib/libicutu.a; sourceTree = "<group>"; };
+		EEE777D72BF7CD8A009C8C91 /* libicui18n.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libicui18n.a; path = ../../../../../../../opt/homebrew/Cellar/icu4c/74.2/lib/libicui18n.a; sourceTree = "<group>"; };
+		EEE777D82BF7CD8A009C8C91 /* libicui18n.74.2.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libicui18n.74.2.dylib; path = ../../../../../../../opt/homebrew/Cellar/icu4c/74.2/lib/libicui18n.74.2.dylib; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		59AF5BFC2BF4A12B00F292C0 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EE90E0902BF87C1500A9C052 /* libjsoncpp.25.dylib in Frameworks */,
+				EEE777D92BF7CD8A009C8C91 /* libicuuc.a in Frameworks */,
+				EEE777DB2BF7CD8A009C8C91 /* libicuuc.74.2.dylib in Frameworks */,
+				59AF5C162BF4A70C00F292C0 /* libcairo.2.dylib in Frameworks */,
+				59AF5C1D2BF4A72800F292C0 /* libharfbuzz.a in Frameworks */,
+				59AF5C1E2BF4A72800F292C0 /* libharfbuzz.0.dylib in Frameworks */,
+				59AF5C212BF4A73300F292C0 /* libfreetype.a in Frameworks */,
+				59AF5C222BF4A73300F292C0 /* libfreetype.6.dylib in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		59545E702C10496E009BD5BE /* TextGeneration */ = {
+			isa = PBXGroup;
+			children = (
+				59545E682C10496E009BD5BE /* CairoWrapper.cpp */,
+				59545E692C10496E009BD5BE /* CairoWrapper.hpp */,
+				59545E6A2C10496E009BD5BE /* NameIndexUnicodeHelper.cpp */,
+				59545E6B2C10496E009BD5BE /* NameIndexUnicodeHelper.hpp */,
+				59545E6C2C10496E009BD5BE /* TextConsoleRenderer.cpp */,
+				59545E6D2C10496E009BD5BE /* TextConsoleRenderer.hpp */,
+				59545E6E2C10496E009BD5BE /* TextImageExporter.cpp */,
+				59545E6F2C10496E009BD5BE /* TextImageExporter.hpp */,
+			);
+			path = TextGeneration;
+			sourceTree = "<group>";
+		};
+		59AF5BF62BF4A12B00F292C0 = {
+			isa = PBXGroup;
+			children = (
+				59AF5C012BF4A12B00F292C0 /* BanglaFontConverter */,
+				59AF5C002BF4A12B00F292C0 /* Products */,
+				59AF5C102BF4A6EE00F292C0 /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		59AF5C002BF4A12B00F292C0 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				59AF5BFF2BF4A12B00F292C0 /* BanglaFontConverter */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		59AF5C012BF4A12B00F292C0 /* BanglaFontConverter */ = {
+			isa = PBXGroup;
+			children = (
+				EE19C4922C1D6BE9003F3FAA /* BangtaTextLibrary */,
+				EE1FFB4F2C188A7900F38902 /* Fonts */,
+				59545E702C10496E009BD5BE /* TextGeneration */,
+				EE96FEF72C061670006B051E /* Helper */,
+				EE96FEF62C061654006B051E /* FontHeaderGeneration */,
+				EE96FEF52C0615C7006B051E /* FontDataExtractor */,
+				EEC9DF622BF78FB400DFD848 /* main.cpp */,
+				592EC5282C1594C400FB6EF5 /* Header.h */,
+				59AF5C232BF4A74500F292C0 /* BanglaFontConverter.entitlements */,
+			);
+			path = BanglaFontConverter;
+			sourceTree = "<group>";
+		};
+		59AF5C102BF4A6EE00F292C0 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				EE90E08F2BF87C1500A9C052 /* libjsoncpp.25.dylib */,
+				EEE777D82BF7CD8A009C8C91 /* libicui18n.74.2.dylib */,
+				EEE777D72BF7CD8A009C8C91 /* libicui18n.a */,
+				EEE777D42BF7CD8A009C8C91 /* libicuio.74.2.dylib */,
+				EEE777D22BF7CD8A009C8C91 /* libicuio.a */,
+				EEE777D52BF7CD8A009C8C91 /* libicutu.74.2.dylib */,
+				EEE777D62BF7CD8A009C8C91 /* libicutu.a */,
+				EEE777D32BF7CD8A009C8C91 /* libicuuc.74.2.dylib */,
+				EEE777D12BF7CD8A009C8C91 /* libicuuc.a */,
+				EEE777CB2BF7CC5A009C8C91 /* libicudata.74.2.dylib */,
+				EEE777CC2BF7CC5A009C8C91 /* libicudata.a */,
+				59AF5C202BF4A73300F292C0 /* libfreetype.6.dylib */,
+				59AF5C1F2BF4A73300F292C0 /* libfreetype.a */,
+				59AF5C172BF4A72800F292C0 /* libharfbuzz-cairo.0.dylib */,
+				59AF5C182BF4A72800F292C0 /* libharfbuzz-cairo.a */,
+				59AF5C1A2BF4A72800F292C0 /* libharfbuzz.0.dylib */,
+				59AF5C192BF4A72800F292C0 /* libharfbuzz.a */,
+				59AF5C152BF4A70C00F292C0 /* libcairo.2.dylib */,
+				59AF5C132BF4A6F000F292C0 /* libfontconfig.a */,
+				59AF5C112BF4A6EE00F292C0 /* libfontconfig.1.dylib */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		EE19C4922C1D6BE9003F3FAA /* BangtaTextLibrary */ = {
+			isa = PBXGroup;
+			children = (
+				EE19C4932C1D6BFA003F3FAA /* BanglaTextCommon.cpp */,
+				EE19C4942C1D6BFA003F3FAA /* BanglaTextCommon.hpp */,
+				EE19C49A2C1D6BFA003F3FAA /* BanglaTextRenderer.cpp */,
+				EE19C4982C1D6BFA003F3FAA /* BanglaTextRenderer.hpp */,
+				EE19C4962C1D6BFA003F3FAA /* BanglaTextUtility.cpp */,
+				EE19C4972C1D6BFA003F3FAA /* BanglaTextUtility.hpp */,
+				EE19C4952C1D6BFA003F3FAA /* BTGlyphDecoder.cpp */,
+				EE19C4992C1D6BFA003F3FAA /* BTGlyphDecoder.hpp */,
+			);
+			path = BangtaTextLibrary;
+			sourceTree = "<group>";
+		};
+		EE1FFB4F2C188A7900F38902 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				59A340E92C19A22400D6BDD4 /* Kohinur_22pt.h */,
+				59A340E72C19A22400D6BDD4 /* Kohinur_25pt.h */,
+				59A340EB2C19A22400D6BDD4 /* Kohinur_30pt.h */,
+				59A340E32C199F9C00D6BDD4 /* Kalpurush_20pt.h */,
+				59A340E52C199F9C00D6BDD4 /* Kalpurush_25pt.h */,
+				59A340E12C199F9C00D6BDD4 /* Kalpurush_33pt.h */,
+				59A340DB2C199E3900D6BDD4 /* SangamMN_21pt.h */,
+				59A340DF2C199E3900D6BDD4 /* SangamMN_25pt.h */,
+				59A340DA2C199E3900D6BDD4 /* SangamMN_31pt.h */,
+				59A340CE2C199BDD00D6BDD4 /* BanglaMNRegular_21pt.h */,
+				59A340D02C199BDD00D6BDD4 /* BanglaMNRegular_33pt.h */,
+				EE1FFB502C188A8B00F38902 /* BanglaMNRegular_25pt.h */,
+			);
+			path = Fonts;
+			sourceTree = "<group>";
+		};
+		EE96FEF52C0615C7006B051E /* FontDataExtractor */ = {
+			isa = PBXGroup;
+			children = (
+				EEC9DF692BF78FB400DFD848 /* FreetypeWrapper.cpp */,
+				EEC9DF6A2BF78FB400DFD848 /* FreetypeWrapper.hpp */,
+				EEC9DF722BF7904F00DFD848 /* FontDataExtractor.cpp */,
+				EEC9DF732BF7904F00DFD848 /* FontDataExtractor.hpp */,
+				5964F0512C05B9BD005E339F /* HarfBuzzWrapper.cpp */,
+				5964F0522C05B9BD005E339F /* HarfBuzzWrapper.hpp */,
+			);
+			path = FontDataExtractor;
+			sourceTree = "<group>";
+		};
+		EE96FEF62C061654006B051E /* FontHeaderGeneration */ = {
+			isa = PBXGroup;
+			children = (
+				59EE97282C05B82D00BED96A /* FontHeaderCreator.cpp */,
+				59EE97292C05B82D00BED96A /* FontHeaderCreator.hpp */,
+				59545E642C103E7B009BD5BE /* HeaderStrings.h */,
+			);
+			path = FontHeaderGeneration;
+			sourceTree = "<group>";
+		};
+		EE96FEF72C061670006B051E /* Helper */ = {
+			isa = PBXGroup;
+			children = (
+				EEBE01232BFE49520012EC7F /* common.hpp */,
+				EEBE01242BFE4AD50012EC7F /* common.cpp */,
+			);
+			path = Helper;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		59AF5BFE2BF4A12B00F292C0 /* BanglaFontConverter */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 59AF5C062BF4A12B00F292C0 /* Build configuration list for PBXNativeTarget "BanglaFontConverter" */;
+			buildPhases = (
+				59AF5BFB2BF4A12B00F292C0 /* Sources */,
+				59AF5BFC2BF4A12B00F292C0 /* Frameworks */,
+				59AF5BFD2BF4A12B00F292C0 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = BanglaFontConverter;
+			productName = FontGlyph;
+			productReference = 59AF5BFF2BF4A12B00F292C0 /* BanglaFontConverter */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		59AF5BF72BF4A12B00F292C0 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1540;
+				TargetAttributes = {
+					59AF5BFE2BF4A12B00F292C0 = {
+						CreatedOnToolsVersion = 15.0;
+					};
+				};
+			};
+			buildConfigurationList = 59AF5BFA2BF4A12B00F292C0 /* Build configuration list for PBXProject "BanglaFontConverter" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 59AF5BF62BF4A12B00F292C0;
+			productRefGroup = 59AF5C002BF4A12B00F292C0 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				59AF5BFE2BF4A12B00F292C0 /* BanglaFontConverter */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		59AF5BFB2BF4A12B00F292C0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EEC9DF742BF7904F00DFD848 /* FontDataExtractor.cpp in Sources */,
+				59545E722C10496E009BD5BE /* NameIndexUnicodeHelper.cpp in Sources */,
+				EE19C49E2C1D6BFA003F3FAA /* BanglaTextRenderer.cpp in Sources */,
+				EE19C49D2C1D6BFA003F3FAA /* BanglaTextUtility.cpp in Sources */,
+				59EE972A2C05B82D00BED96A /* FontHeaderCreator.cpp in Sources */,
+				EE19C49C2C1D6BFA003F3FAA /* BTGlyphDecoder.cpp in Sources */,
+				59545E732C10496E009BD5BE /* TextConsoleRenderer.cpp in Sources */,
+				EEBE01252BFE4AD50012EC7F /* common.cpp in Sources */,
+				59545E742C10496E009BD5BE /* TextImageExporter.cpp in Sources */,
+				5964F0532C05B9BD005E339F /* HarfBuzzWrapper.cpp in Sources */,
+				EE19C49B2C1D6BFA003F3FAA /* BanglaTextCommon.cpp in Sources */,
+				EEC9DF6E2BF78FB400DFD848 /* main.cpp in Sources */,
+				EEC9DF712BF78FB400DFD848 /* FreetypeWrapper.cpp in Sources */,
+				59545E712C10496E009BD5BE /* CairoWrapper.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		59AF5C042BF4A12B00F292C0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEAD_CODE_STRIPPING = YES;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MACOSX_DEPLOYMENT_TARGET = 14.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		59AF5C052BF4A12B00F292C0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEAD_CODE_STRIPPING = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MACOSX_DEPLOYMENT_TARGET = 14.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		59AF5C072BF4A12B00F292C0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_ENTITLEMENTS = BanglaFontConverter/BanglaFontConverter.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
+				DEVELOPMENT_TEAM = 9GAPXPF2Z5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				HEADER_SEARCH_PATHS = (
+					/opt/homebrew/Cellar/freetype/2.13.2/include/freetype2,
+					/opt/homebrew/Cellar/harfbuzz/8.4.0/include/harfbuzz,
+					/opt/homebrew/Cellar/cairo/1.18.0/include/cairo,
+					/opt/homebrew/Cellar/fontconfig/2.15.0/include/fontconfig,
+					/opt/homebrew/opt/icu4c/include,
+					/opt/homebrew/Cellar/jsoncpp/1.9.5/include,
+				);
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					/usr/local/lib,
+					/opt/homebrew/Cellar/freetype/2.13.2/lib,
+					/opt/homebrew/Cellar/harfbuzz/8.4.0/lib,
+					/opt/homebrew/Cellar/cairo/1.18.0/lib,
+					/opt/homebrew/Cellar/fontconfig/2.15.0/lib,
+					/opt/homebrew/opt/icu4c/lib,
+					/opt/homebrew/Cellar/icu4c/74.2/lib,
+					/opt/homebrew/Cellar/jsoncpp/1.9.5/lib,
+				);
+				"PRODUCT_BUNDLE_IDENTIFIER[sdk=macosx*]" = com.mamunul.fontglyph;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		59AF5C082BF4A12B00F292C0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_ENTITLEMENTS = BanglaFontConverter/BanglaFontConverter.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
+				DEVELOPMENT_TEAM = 9GAPXPF2Z5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				HEADER_SEARCH_PATHS = (
+					/opt/homebrew/Cellar/freetype/2.13.2/include/freetype2,
+					/opt/homebrew/Cellar/harfbuzz/8.4.0/include/harfbuzz,
+					/opt/homebrew/Cellar/cairo/1.18.0/include/cairo,
+					/opt/homebrew/Cellar/fontconfig/2.15.0/include/fontconfig,
+					/opt/homebrew/opt/icu4c/include,
+					/opt/homebrew/Cellar/jsoncpp/1.9.5/include,
+				);
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					/usr/local/lib,
+					/opt/homebrew/Cellar/freetype/2.13.2/lib,
+					/opt/homebrew/Cellar/harfbuzz/8.4.0/lib,
+					/opt/homebrew/Cellar/cairo/1.18.0/lib,
+					/opt/homebrew/Cellar/fontconfig/2.15.0/lib,
+					/opt/homebrew/opt/icu4c/lib,
+					/opt/homebrew/Cellar/icu4c/74.2/lib,
+					/opt/homebrew/Cellar/jsoncpp/1.9.5/lib,
+				);
+				"PRODUCT_BUNDLE_IDENTIFIER[sdk=macosx*]" = com.mamunul.fontglyph;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		59AF5BFA2BF4A12B00F292C0 /* Build configuration list for PBXProject "BanglaFontConverter" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				59AF5C042BF4A12B00F292C0 /* Debug */,
+				59AF5C052BF4A12B00F292C0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		59AF5C062BF4A12B00F292C0 /* Build configuration list for PBXNativeTarget "BanglaFontConverter" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				59AF5C072BF4A12B00F292C0 /* Debug */,
+				59AF5C082BF4A12B00F292C0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 59AF5BF72BF4A12B00F292C0 /* Project object */;
+}

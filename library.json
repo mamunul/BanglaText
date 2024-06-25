@@ -1,0 +1,24 @@
+{
+    "name": "BanglaText",
+    "version": "1.0.0",
+    "keywords": "esp,esp8266,esp32,espressif8266,espressif32,nodemcu,wemos,arduino,bangla,font",
+    "description": "Bangla text renderer in esp supported displays for ESP boards",
+    "authors": [
+        {
+            "name": "mamunul",
+            "url": "https://github.com/mamunul"
+        }
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mamunul/BanglaText.git"
+    },
+    "export": {
+        "include": ["src", "examples", "LICENSE", "BanglaText.h"]
+      },
+    "frameworks": "arduino",
+    "platforms": [
+        "espressif8266",
+        "espressif32"
+    ]
+}

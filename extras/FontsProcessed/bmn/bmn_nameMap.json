@@ -1,0 +1,2730 @@
+[
+    {
+        "id": "0",
+        "name": ".notdef"
+    },
+    {
+        "id": "1",
+        "name": "uni0000"
+    },
+    {
+        "id": "2",
+        "name": "uni000D"
+    },
+    {
+        "id": "3",
+        "name": "space"
+    },
+    {
+        "id": "4",
+        "name": "exclam"
+    },
+    {
+        "id": "5",
+        "name": "quotedbl"
+    },
+    {
+        "id": "6",
+        "name": "numbersign"
+    },
+    {
+        "id": "7",
+        "name": "dollar"
+    },
+    {
+        "id": "8",
+        "name": "percent"
+    },
+    {
+        "id": "9",
+        "name": "ampersand"
+    },
+    {
+        "id": "10",
+        "name": "quotesingle"
+    },
+    {
+        "id": "11",
+        "name": "parenleft"
+    },
+    {
+        "id": "12",
+        "name": "parenright"
+    },
+    {
+        "id": "13",
+        "name": "asterisk"
+    },
+    {
+        "id": "14",
+        "name": "plus"
+    },
+    {
+        "id": "15",
+        "name": "comma"
+    },
+    {
+        "id": "16",
+        "name": "hyphen"
+    },
+    {
+        "id": "17",
+        "name": "period"
+    },
+    {
+        "id": "18",
+        "name": "slash"
+    },
+    {
+        "id": "19",
+        "name": "zero"
+    },
+    {
+        "id": "20",
+        "name": "one"
+    },
+    {
+        "id": "21",
+        "name": "two"
+    },
+    {
+        "id": "22",
+        "name": "three"
+    },
+    {
+        "id": "23",
+        "name": "four"
+    },
+    {
+        "id": "24",
+        "name": "five"
+    },
+    {
+        "id": "25",
+        "name": "six"
+    },
+    {
+        "id": "26",
+        "name": "seven"
+    },
+    {
+        "id": "27",
+        "name": "eight"
+    },
+    {
+        "id": "28",
+        "name": "nine"
+    },
+    {
+        "id": "29",
+        "name": "colon"
+    },
+    {
+        "id": "30",
+        "name": "semicolon"
+    },
+    {
+        "id": "31",
+        "name": "less"
+    },
+    {
+        "id": "32",
+        "name": "equal"
+    },
+    {
+        "id": "33",
+        "name": "greater"
+    },
+    {
+        "id": "34",
+        "name": "question"
+    },
+    {
+        "id": "35",
+        "name": "at"
+    },
+    {
+        "id": "36",
+        "name": "A"
+    },
+    {
+        "id": "37",
+        "name": "B"
+    },
+    {
+        "id": "38",
+        "name": "C"
+    },
+    {
+        "id": "39",
+        "name": "D"
+    },
+    {
+        "id": "40",
+        "name": "E"
+    },
+    {
+        "id": "41",
+        "name": "F"
+    },
+    {
+        "id": "42",
+        "name": "G"
+    },
+    {
+        "id": "43",
+        "name": "H"
+    },
+    {
+        "id": "44",
+        "name": "I"
+    },
+    {
+        "id": "45",
+        "name": "J"
+    },
+    {
+        "id": "46",
+        "name": "K"
+    },
+    {
+        "id": "47",
+        "name": "L"
+    },
+    {
+        "id": "48",
+        "name": "M"
+    },
+    {
+        "id": "49",
+        "name": "N"
+    },
+    {
+        "id": "50",
+        "name": "O"
+    },
+    {
+        "id": "51",
+        "name": "P"
+    },
+    {
+        "id": "52",
+        "name": "Q"
+    },
+    {
+        "id": "53",
+        "name": "R"
+    },
+    {
+        "id": "54",
+        "name": "S"
+    },
+    {
+        "id": "55",
+        "name": "T"
+    },
+    {
+        "id": "56",
+        "name": "U"
+    },
+    {
+        "id": "57",
+        "name": "V"
+    },
+    {
+        "id": "58",
+        "name": "W"
+    },
+    {
+        "id": "59",
+        "name": "X"
+    },
+    {
+        "id": "60",
+        "name": "Y"
+    },
+    {
+        "id": "61",
+        "name": "Z"
+    },
+    {
+        "id": "62",
+        "name": "bracketleft"
+    },
+    {
+        "id": "63",
+        "name": "backslash"
+    },
+    {
+        "id": "64",
+        "name": "bracketright"
+    },
+    {
+        "id": "65",
+        "name": "asciicircum"
+    },
+    {
+        "id": "66",
+        "name": "underscore"
+    },
+    {
+        "id": "67",
+        "name": "grave"
+    },
+    {
+        "id": "68",
+        "name": "a"
+    },
+    {
+        "id": "69",
+        "name": "b"
+    },
+    {
+        "id": "70",
+        "name": "c"
+    },
+    {
+        "id": "71",
+        "name": "d"
+    },
+    {
+        "id": "72",
+        "name": "e"
+    },
+    {
+        "id": "73",
+        "name": "f"
+    },
+    {
+        "id": "74",
+        "name": "g"
+    },
+    {
+        "id": "75",
+        "name": "h"
+    },
+    {
+        "id": "76",
+        "name": "i"
+    },
+    {
+        "id": "77",
+        "name": "j"
+    },
+    {
+        "id": "78",
+        "name": "k"
+    },
+    {
+        "id": "79",
+        "name": "l"
+    },
+    {
+        "id": "80",
+        "name": "m"
+    },
+    {
+        "id": "81",
+        "name": "n"
+    },
+    {
+        "id": "82",
+        "name": "o"
+    },
+    {
+        "id": "83",
+        "name": "p"
+    },
+    {
+        "id": "84",
+        "name": "q"
+    },
+    {
+        "id": "85",
+        "name": "r"
+    },
+    {
+        "id": "86",
+        "name": "s"
+    },
+    {
+        "id": "87",
+        "name": "t"
+    },
+    {
+        "id": "88",
+        "name": "u"
+    },
+    {
+        "id": "89",
+        "name": "v"
+    },
+    {
+        "id": "90",
+        "name": "w"
+    },
+    {
+        "id": "91",
+        "name": "x"
+    },
+    {
+        "id": "92",
+        "name": "y"
+    },
+    {
+        "id": "93",
+        "name": "z"
+    },
+    {
+        "id": "94",
+        "name": "braceleft"
+    },
+    {
+        "id": "95",
+        "name": "bar"
+    },
+    {
+        "id": "96",
+        "name": "braceright"
+    },
+    {
+        "id": "97",
+        "name": "asciitilde"
+    },
+    {
+        "id": "98",
+        "name": "NBSPACE"
+    },
+    {
+        "id": "99",
+        "name": "copyright"
+    },
+    {
+        "id": "100",
+        "name": "onequarter"
+    },
+    {
+        "id": "101",
+        "name": "onehalf"
+    },
+    {
+        "id": "102",
+        "name": "threequarters"
+    },
+    {
+        "id": "103",
+        "name": "bn_danda"
+    },
+    {
+        "id": "104",
+        "name": "bn_doubledanda"
+    },
+    {
+        "id": "105",
+        "name": "bn_anji"
+    },
+    {
+        "id": "106",
+        "name": "bn_chandrabindu"
+    },
+    {
+        "id": "107",
+        "name": "bn_anusvar"
+    },
+    {
+        "id": "108",
+        "name": "bn_bisarga"
+    },
+    {
+        "id": "109",
+        "name": "bn_a"
+    },
+    {
+        "id": "110",
+        "name": "bn_aa"
+    },
+    {
+        "id": "111",
+        "name": "bn_i"
+    },
+    {
+        "id": "112",
+        "name": "bn_ii"
+    },
+    {
+        "id": "113",
+        "name": "bn_u"
+    },
+    {
+        "id": "114",
+        "name": "bn_uu"
+    },
+    {
+        "id": "115",
+        "name": "bn_ri"
+    },
+    {
+        "id": "116",
+        "name": "bn_li"
+    },
+    {
+        "id": "117",
+        "name": "bn_e"
+    },
+    {
+        "id": "118",
+        "name": "bn_ai"
+    },
+    {
+        "id": "119",
+        "name": "bn_o"
+    },
+    {
+        "id": "120",
+        "name": "bn_au"
+    },
+    {
+        "id": "121",
+        "name": "bn_ka"
+    },
+    {
+        "id": "122",
+        "name": "bn_kha"
+    },
+    {
+        "id": "123",
+        "name": "bn_ga"
+    },
+    {
+        "id": "124",
+        "name": "bn_gha"
+    },
+    {
+        "id": "125",
+        "name": "bn_nga"
+    },
+    {
+        "id": "126",
+        "name": "bn_ca"
+    },
+    {
+        "id": "127",
+        "name": "bn_cha"
+    },
+    {
+        "id": "128",
+        "name": "bn_ja"
+    },
+    {
+        "id": "129",
+        "name": "bn_jha"
+    },
+    {
+        "id": "130",
+        "name": "bn_nya"
+    },
+    {
+        "id": "131",
+        "name": "bn_tta"
+    },
+    {
+        "id": "132",
+        "name": "bn_ttha"
+    },
+    {
+        "id": "133",
+        "name": "bn_dda"
+    },
+    {
+        "id": "134",
+        "name": "bn_ddha"
+    },
+    {
+        "id": "135",
+        "name": "bn_nna"
+    },
+    {
+        "id": "136",
+        "name": "bn_ta"
+    },
+    {
+        "id": "137",
+        "name": "bn_tha"
+    },
+    {
+        "id": "138",
+        "name": "bn_da"
+    },
+    {
+        "id": "139",
+        "name": "bn_dha"
+    },
+    {
+        "id": "140",
+        "name": "bn_na"
+    },
+    {
+        "id": "141",
+        "name": "bn_pa"
+    },
+    {
+        "id": "142",
+        "name": "bn_pha"
+    },
+    {
+        "id": "143",
+        "name": "bn_ba"
+    },
+    {
+        "id": "144",
+        "name": "bn_bha"
+    },
+    {
+        "id": "145",
+        "name": "bn_ma"
+    },
+    {
+        "id": "146",
+        "name": "bn_ya"
+    },
+    {
+        "id": "147",
+        "name": "bn_ra"
+    },
+    {
+        "id": "148",
+        "name": "bn_la"
+    },
+    {
+        "id": "149",
+        "name": "bn_sha"
+    },
+    {
+        "id": "150",
+        "name": "bn_ssa"
+    },
+    {
+        "id": "151",
+        "name": "bn_sa"
+    },
+    {
+        "id": "152",
+        "name": "bn_ha"
+    },
+    {
+        "id": "153",
+        "name": "bn_nukta"
+    },
+    {
+        "id": "154",
+        "name": "bn_avagraha"
+    },
+    {
+        "id": "155",
+        "name": "bn_aakaar"
+    },
+    {
+        "id": "156",
+        "name": "bn_ikaar"
+    },
+    {
+        "id": "157",
+        "name": "bn_iikaar"
+    },
+    {
+        "id": "158",
+        "name": "bn_ukaar"
+    },
+    {
+        "id": "159",
+        "name": "bn_uukaar"
+    },
+    {
+        "id": "160",
+        "name": "bn_rikaar"
+    },
+    {
+        "id": "161",
+        "name": "bn_rrikaar"
+    },
+    {
+        "id": "162",
+        "name": "bn_ekaar"
+    },
+    {
+        "id": "163",
+        "name": "bn_aikaar"
+    },
+    {
+        "id": "164",
+        "name": "bn_okaar"
+    },
+    {
+        "id": "165",
+        "name": "bn_aukaar"
+    },
+    {
+        "id": "166",
+        "name": "bn_halanth"
+    },
+    {
+        "id": "167",
+        "name": "bn_khanda_ta"
+    },
+    {
+        "id": "168",
+        "name": "bn_aumark"
+    },
+    {
+        "id": "169",
+        "name": "bn_rra"
+    },
+    {
+        "id": "170",
+        "name": "bn_rha"
+    },
+    {
+        "id": "171",
+        "name": "bn_yya"
+    },
+    {
+        "id": "172",
+        "name": "bn_rri"
+    },
+    {
+        "id": "173",
+        "name": "bn_lli"
+    },
+    {
+        "id": "174",
+        "name": "bn_likaar"
+    },
+    {
+        "id": "175",
+        "name": "bn_llikaar"
+    },
+    {
+        "id": "176",
+        "name": "bn_zero"
+    },
+    {
+        "id": "177",
+        "name": "bn_one"
+    },
+    {
+        "id": "178",
+        "name": "bn_two"
+    },
+    {
+        "id": "179",
+        "name": "bn_three"
+    },
+    {
+        "id": "180",
+        "name": "bn_four"
+    },
+    {
+        "id": "181",
+        "name": "bn_five"
+    },
+    {
+        "id": "182",
+        "name": "bn_six"
+    },
+    {
+        "id": "183",
+        "name": "bn_seven"
+    },
+    {
+        "id": "184",
+        "name": "bn_eight"
+    },
+    {
+        "id": "185",
+        "name": "bn_nine"
+    },
+    {
+        "id": "186",
+        "name": "asa_ra"
+    },
+    {
+        "id": "187",
+        "name": "asa_ba"
+    },
+    {
+        "id": "188",
+        "name": "bn_rupeemark"
+    },
+    {
+        "id": "189",
+        "name": "bn_rupeesign"
+    },
+    {
+        "id": "190",
+        "name": "bn_currency1"
+    },
+    {
+        "id": "191",
+        "name": "bn_currency2"
+    },
+    {
+        "id": "192",
+        "name": "bn_currency3"
+    },
+    {
+        "id": "193",
+        "name": "bn_currency4"
+    },
+    {
+        "id": "194",
+        "name": "bn_currencyless"
+    },
+    {
+        "id": "195",
+        "name": "bn_currency16"
+    },
+    {
+        "id": "196",
+        "name": "bn_isshar"
+    },
+    {
+        "id": "197",
+        "name": "uni09FB.ganda"
+    },
+    {
+        "id": "198",
+        "name": "uni200B"
+    },
+    {
+        "id": "199",
+        "name": "ZWNJ"
+    },
+    {
+        "id": "200",
+        "name": "ZWJ"
+    },
+    {
+        "id": "201",
+        "name": "endash"
+    },
+    {
+        "id": "202",
+        "name": "emdash"
+    },
+    {
+        "id": "203",
+        "name": "quoteleft"
+    },
+    {
+        "id": "204",
+        "name": "quoteright"
+    },
+    {
+        "id": "205",
+        "name": "quotedblleft"
+    },
+    {
+        "id": "206",
+        "name": "quotedblright"
+    },
+    {
+        "id": "207",
+        "name": "bullet"
+    },
+    {
+        "id": "208",
+        "name": "uni20B9.rupee"
+    },
+    {
+        "id": "209",
+        "name": "uni2219"
+    },
+    {
+        "id": "210",
+        "name": "uni25CC"
+    },
+    {
+        "id": "211",
+        "name": "fi"
+    },
+    {
+        "id": "212",
+        "name": "bn_k_ssa"
+    },
+    {
+        "id": "213",
+        "name": "bn_j_nya"
+    },
+    {
+        "id": "214",
+        "name": "bn_ekaar.init"
+    },
+    {
+        "id": "215",
+        "name": "bn_aikaar.init"
+    },
+    {
+        "id": "216",
+        "name": "bn_reph"
+    },
+    {
+        "id": "217",
+        "name": "bn_ra_phala"
+    },
+    {
+        "id": "218",
+        "name": "bn_ya_phala"
+    },
+    {
+        "id": "219",
+        "name": "bn_ba_phala"
+    },
+    {
+        "id": "220",
+        "name": "bn_ka_nukta"
+    },
+    {
+        "id": "221",
+        "name": "bn_kha_nukta"
+    },
+    {
+        "id": "222",
+        "name": "bn_ga_nukta"
+    },
+    {
+        "id": "223",
+        "name": "bn_gha_nukta"
+    },
+    {
+        "id": "224",
+        "name": "bn_nga_nukta"
+    },
+    {
+        "id": "225",
+        "name": "bn_ca_nukta"
+    },
+    {
+        "id": "226",
+        "name": "bn_cha_nukta"
+    },
+    {
+        "id": "227",
+        "name": "bn_ja_nukta"
+    },
+    {
+        "id": "228",
+        "name": "bn_jha_nukta"
+    },
+    {
+        "id": "229",
+        "name": "bn_nya_nukta"
+    },
+    {
+        "id": "230",
+        "name": "bn_tta_nukta"
+    },
+    {
+        "id": "231",
+        "name": "bn_ttha_nukta"
+    },
+    {
+        "id": "232",
+        "name": "bn_nna_nukta"
+    },
+    {
+        "id": "233",
+        "name": "bn_ta_nukta"
+    },
+    {
+        "id": "234",
+        "name": "bn_tha_nukta"
+    },
+    {
+        "id": "235",
+        "name": "bn_da_nukta"
+    },
+    {
+        "id": "236",
+        "name": "bn_dha_nukta"
+    },
+    {
+        "id": "237",
+        "name": "bn_na_nukta"
+    },
+    {
+        "id": "238",
+        "name": "bn_pa_nukta"
+    },
+    {
+        "id": "239",
+        "name": "bn_pha_nukta"
+    },
+    {
+        "id": "240",
+        "name": "bn_bha_nukta"
+    },
+    {
+        "id": "241",
+        "name": "bn_ma_nukta"
+    },
+    {
+        "id": "242",
+        "name": "bn_la_nukta"
+    },
+    {
+        "id": "243",
+        "name": "bn_sha_nukta"
+    },
+    {
+        "id": "244",
+        "name": "bn_ssa_nukta"
+    },
+    {
+        "id": "245",
+        "name": "bn_sa_nukta"
+    },
+    {
+        "id": "246",
+        "name": "bn_ha_nukta"
+    },
+    {
+        "id": "247",
+        "name": "bn_ka_halanth"
+    },
+    {
+        "id": "248",
+        "name": "bn_kha_halanth"
+    },
+    {
+        "id": "249",
+        "name": "bn_ga_halanth"
+    },
+    {
+        "id": "250",
+        "name": "bn_gha_halanth"
+    },
+    {
+        "id": "251",
+        "name": "bn_nga_halanth"
+    },
+    {
+        "id": "252",
+        "name": "bn_ca_halanth"
+    },
+    {
+        "id": "253",
+        "name": "bn_cha_halanth"
+    },
+    {
+        "id": "254",
+        "name": "bn_ja_halanth"
+    },
+    {
+        "id": "255",
+        "name": "bn_jha_halanth"
+    },
+    {
+        "id": "256",
+        "name": "bn_nya_halanth"
+    },
+    {
+        "id": "257",
+        "name": "bn_tta_halanth"
+    },
+    {
+        "id": "258",
+        "name": "bn_ttha_halanth"
+    },
+    {
+        "id": "259",
+        "name": "bn_dda_halanth"
+    },
+    {
+        "id": "260",
+        "name": "bn_ddha_halanth"
+    },
+    {
+        "id": "261",
+        "name": "bn_nna_halanth"
+    },
+    {
+        "id": "262",
+        "name": "bn_ta_halanth"
+    },
+    {
+        "id": "263",
+        "name": "bn_tha_halanth"
+    },
+    {
+        "id": "264",
+        "name": "bn_da_halanth"
+    },
+    {
+        "id": "265",
+        "name": "bn_dha_halanth"
+    },
+    {
+        "id": "266",
+        "name": "bn_na_halanth"
+    },
+    {
+        "id": "267",
+        "name": "bn_pa_halanth"
+    },
+    {
+        "id": "268",
+        "name": "bn_pha_halanth"
+    },
+    {
+        "id": "269",
+        "name": "bn_ba_halanth"
+    },
+    {
+        "id": "270",
+        "name": "bn_bha_halanth"
+    },
+    {
+        "id": "271",
+        "name": "bn_ma_halanth"
+    },
+    {
+        "id": "272",
+        "name": "bn_ya_halanth"
+    },
+    {
+        "id": "273",
+        "name": "bn_la_halanth"
+    },
+    {
+        "id": "274",
+        "name": "bn_sha_halanth"
+    },
+    {
+        "id": "275",
+        "name": "bn_ssa_halanth"
+    },
+    {
+        "id": "276",
+        "name": "bn_sa_halanth"
+    },
+    {
+        "id": "277",
+        "name": "bn_ha_halanth"
+    },
+    {
+        "id": "278",
+        "name": "bn_rra_halanth"
+    },
+    {
+        "id": "279",
+        "name": "bn_rha_halanth"
+    },
+    {
+        "id": "280",
+        "name": "bn_yya_halanth"
+    },
+    {
+        "id": "281",
+        "name": "asa_ra_halanth"
+    },
+    {
+        "id": "282",
+        "name": "asa_ba_halanth"
+    },
+    {
+        "id": "283",
+        "name": "bn_k_ssa_halanth"
+    },
+    {
+        "id": "284",
+        "name": "bn_j_nya_halanth"
+    },
+    {
+        "id": "285",
+        "name": "bn_ka_half"
+    },
+    {
+        "id": "286",
+        "name": "bn_kha_half"
+    },
+    {
+        "id": "287",
+        "name": "bn_ga_half"
+    },
+    {
+        "id": "288",
+        "name": "bn_gha_half"
+    },
+    {
+        "id": "289",
+        "name": "bn_nga_half"
+    },
+    {
+        "id": "290",
+        "name": "bn_ca_half"
+    },
+    {
+        "id": "291",
+        "name": "bn_cha_half"
+    },
+    {
+        "id": "292",
+        "name": "bn_ja_half"
+    },
+    {
+        "id": "293",
+        "name": "bn_jha_half"
+    },
+    {
+        "id": "294",
+        "name": "bn_nya_half"
+    },
+    {
+        "id": "295",
+        "name": "bn_tta_half"
+    },
+    {
+        "id": "296",
+        "name": "bn_ttha_half"
+    },
+    {
+        "id": "297",
+        "name": "bn_dda_half"
+    },
+    {
+        "id": "298",
+        "name": "bn_ddha_half"
+    },
+    {
+        "id": "299",
+        "name": "bn_nna_half"
+    },
+    {
+        "id": "300",
+        "name": "bn_ta_half"
+    },
+    {
+        "id": "301",
+        "name": "bn_tha_half"
+    },
+    {
+        "id": "302",
+        "name": "bn_da_half"
+    },
+    {
+        "id": "303",
+        "name": "bn_dha_half"
+    },
+    {
+        "id": "304",
+        "name": "bn_na_half"
+    },
+    {
+        "id": "305",
+        "name": "bn_pa_half"
+    },
+    {
+        "id": "306",
+        "name": "bn_pha_half"
+    },
+    {
+        "id": "307",
+        "name": "bn_ba_half"
+    },
+    {
+        "id": "308",
+        "name": "bn_bha_half"
+    },
+    {
+        "id": "309",
+        "name": "bn_ma_half"
+    },
+    {
+        "id": "310",
+        "name": "bn_ya_half"
+    },
+    {
+        "id": "311",
+        "name": "bn_la_half"
+    },
+    {
+        "id": "312",
+        "name": "bn_sha_half"
+    },
+    {
+        "id": "313",
+        "name": "bn_ssa_half"
+    },
+    {
+        "id": "314",
+        "name": "bn_sa_half"
+    },
+    {
+        "id": "315",
+        "name": "bn_ha_half"
+    },
+    {
+        "id": "316",
+        "name": "asa_ra_half"
+    },
+    {
+        "id": "317",
+        "name": "asa_ba_half"
+    },
+    {
+        "id": "318",
+        "name": "bn_k_ra"
+    },
+    {
+        "id": "319",
+        "name": "bn_kh_ra"
+    },
+    {
+        "id": "320",
+        "name": "bn_g_ra"
+    },
+    {
+        "id": "321",
+        "name": "bn_gh_ra"
+    },
+    {
+        "id": "322",
+        "name": "bn_c_ra"
+    },
+    {
+        "id": "323",
+        "name": "bn_ch_ra"
+    },
+    {
+        "id": "324",
+        "name": "bn_j_ra"
+    },
+    {
+        "id": "325",
+        "name": "bn_tt_ra"
+    },
+    {
+        "id": "326",
+        "name": "bn_tth_ra"
+    },
+    {
+        "id": "327",
+        "name": "bn_dd_ra"
+    },
+    {
+        "id": "328",
+        "name": "bn_ddh_ra"
+    },
+    {
+        "id": "329",
+        "name": "bn_t_ra"
+    },
+    {
+        "id": "330",
+        "name": "bn_th_ra"
+    },
+    {
+        "id": "331",
+        "name": "bn_d_ra"
+    },
+    {
+        "id": "332",
+        "name": "bn_dh_ra"
+    },
+    {
+        "id": "333",
+        "name": "bn_n_ra"
+    },
+    {
+        "id": "334",
+        "name": "bn_p_ra"
+    },
+    {
+        "id": "335",
+        "name": "bn_ph_ra"
+    },
+    {
+        "id": "336",
+        "name": "bn_b_ra"
+    },
+    {
+        "id": "337",
+        "name": "bn_bh_ra"
+    },
+    {
+        "id": "338",
+        "name": "bn_m_ra"
+    },
+    {
+        "id": "339",
+        "name": "bn_sh_ra"
+    },
+    {
+        "id": "340",
+        "name": "bn_ss_ra"
+    },
+    {
+        "id": "341",
+        "name": "bn_s_ra"
+    },
+    {
+        "id": "342",
+        "name": "bn_h_ra"
+    },
+    {
+        "id": "343",
+        "name": "asa_b_ra"
+    },
+    {
+        "id": "344",
+        "name": "bn_k_ss_ra"
+    },
+    {
+        "id": "345",
+        "name": "bn_ny_ra"
+    },
+    {
+        "id": "346",
+        "name": "bn_ng_ra"
+    },
+    {
+        "id": "347",
+        "name": "bn_jh_ra"
+    },
+    {
+        "id": "348",
+        "name": "bn_k_ba"
+    },
+    {
+        "id": "349",
+        "name": "bn_g_ba"
+    },
+    {
+        "id": "350",
+        "name": "bn_gh_ba"
+    },
+    {
+        "id": "351",
+        "name": "bn_c_ba"
+    },
+    {
+        "id": "352",
+        "name": "bn_ch_ba"
+    },
+    {
+        "id": "353",
+        "name": "bn_j_ba"
+    },
+    {
+        "id": "354",
+        "name": "bn_tt_ba"
+    },
+    {
+        "id": "355",
+        "name": "bn_dd_ba"
+    },
+    {
+        "id": "356",
+        "name": "bn_nn_ba"
+    },
+    {
+        "id": "357",
+        "name": "bn_t_ba"
+    },
+    {
+        "id": "358",
+        "name": "bn_th_ba"
+    },
+    {
+        "id": "359",
+        "name": "bn_d_ba"
+    },
+    {
+        "id": "360",
+        "name": "bn_dh_ba"
+    },
+    {
+        "id": "361",
+        "name": "bn_n_ba"
+    },
+    {
+        "id": "362",
+        "name": "bn_p_ba"
+    },
+    {
+        "id": "363",
+        "name": "bn_b_ba"
+    },
+    {
+        "id": "364",
+        "name": "bn_bh_ba"
+    },
+    {
+        "id": "365",
+        "name": "bn_m_ba"
+    },
+    {
+        "id": "366",
+        "name": "bn_l_ba"
+    },
+    {
+        "id": "367",
+        "name": "bn_sh_ba"
+    },
+    {
+        "id": "368",
+        "name": "bn_s_ba"
+    },
+    {
+        "id": "369",
+        "name": "bn_h_ba"
+    },
+    {
+        "id": "370",
+        "name": "bn_kh_ba"
+    },
+    {
+        "id": "371",
+        "name": "bn_ng_ba"
+    },
+    {
+        "id": "372",
+        "name": "bn_jh_ba"
+    },
+    {
+        "id": "373",
+        "name": "bn_ny_ba"
+    },
+    {
+        "id": "374",
+        "name": "bn_tth_ba"
+    },
+    {
+        "id": "375",
+        "name": "bn_ddh_ba"
+    },
+    {
+        "id": "376",
+        "name": "bn_ph_ba"
+    },
+    {
+        "id": "377",
+        "name": "bn_y_ba"
+    },
+    {
+        "id": "378",
+        "name": "bn_ss_ba"
+    },
+    {
+        "id": "379",
+        "name": "bn_ukaar_right"
+    },
+    {
+        "id": "380",
+        "name": "bn_uukaar_right"
+    },
+    {
+        "id": "381",
+        "name": "bn_k_ka"
+    },
+    {
+        "id": "382",
+        "name": "bn_k_tta"
+    },
+    {
+        "id": "383",
+        "name": "bn_k_tt_ra"
+    },
+    {
+        "id": "384",
+        "name": "bn_k_ta"
+    },
+    {
+        "id": "385",
+        "name": "bn_k_t_ba"
+    },
+    {
+        "id": "386",
+        "name": "bn_k_t_ra"
+    },
+    {
+        "id": "387",
+        "name": "bn_k_na"
+    },
+    {
+        "id": "388",
+        "name": "bn_k_ma"
+    },
+    {
+        "id": "389",
+        "name": "bn_k_la"
+    },
+    {
+        "id": "390",
+        "name": "bn_k_ss_nna"
+    },
+    {
+        "id": "391",
+        "name": "bn_k_ss_ma"
+    },
+    {
+        "id": "392",
+        "name": "bn_k_sa"
+    },
+    {
+        "id": "393",
+        "name": "bn_g_ga"
+    },
+    {
+        "id": "394",
+        "name": "bn_g_da"
+    },
+    {
+        "id": "395",
+        "name": "bn_g_dha"
+    },
+    {
+        "id": "396",
+        "name": "bn_g_dh_ba"
+    },
+    {
+        "id": "397",
+        "name": "bn_g_la"
+    },
+    {
+        "id": "398",
+        "name": "bn_g_na"
+    },
+    {
+        "id": "399",
+        "name": "bn_g_ma"
+    },
+    {
+        "id": "400",
+        "name": "bn_gh_na"
+    },
+    {
+        "id": "401",
+        "name": "bn_ng_ka"
+    },
+    {
+        "id": "402",
+        "name": "bn_ng_k_ra"
+    },
+    {
+        "id": "403",
+        "name": "bn_ng_k_ssa"
+    },
+    {
+        "id": "404",
+        "name": "bn_ng_k_ss_ra"
+    },
+    {
+        "id": "405",
+        "name": "bn_ng_kha"
+    },
+    {
+        "id": "406",
+        "name": "bn_ng_ga"
+    },
+    {
+        "id": "407",
+        "name": "bn_ng_gha"
+    },
+    {
+        "id": "408",
+        "name": "bn_ng_gh_ra"
+    },
+    {
+        "id": "409",
+        "name": "bn_ng_ma"
+    },
+    {
+        "id": "410",
+        "name": "bn_c_ca"
+    },
+    {
+        "id": "411",
+        "name": "bn_c_cha"
+    },
+    {
+        "id": "412",
+        "name": "bn_c_ch_ba"
+    },
+    {
+        "id": "413",
+        "name": "bn_c_ch_ra"
+    },
+    {
+        "id": "414",
+        "name": "bn_c_nya"
+    },
+    {
+        "id": "415",
+        "name": "bn_c_na"
+    },
+    {
+        "id": "416",
+        "name": "bn_j_ja"
+    },
+    {
+        "id": "417",
+        "name": "bn_j_j_ba"
+    },
+    {
+        "id": "418",
+        "name": "bn_j_jha"
+    },
+    {
+        "id": "419",
+        "name": "bn_ny_ca"
+    },
+    {
+        "id": "420",
+        "name": "bn_ny_cha"
+    },
+    {
+        "id": "421",
+        "name": "bn_ny_ja"
+    },
+    {
+        "id": "422",
+        "name": "bn_ny_jha"
+    },
+    {
+        "id": "423",
+        "name": "bn_tt_tt_ra"
+    },
+    {
+        "id": "424",
+        "name": "bn_tt_tta"
+    },
+    {
+        "id": "425",
+        "name": "bn_tt_ma"
+    },
+    {
+        "id": "426",
+        "name": "bn_dd_ga"
+    },
+    {
+        "id": "427",
+        "name": "bn_dd_dda"
+    },
+    {
+        "id": "428",
+        "name": "bn_dd_ma"
+    },
+    {
+        "id": "429",
+        "name": "bn_nn_tta"
+    },
+    {
+        "id": "430",
+        "name": "bn_nn_tt_ra"
+    },
+    {
+        "id": "431",
+        "name": "bn_nn_ttha"
+    },
+    {
+        "id": "432",
+        "name": "bn_nn_dda"
+    },
+    {
+        "id": "433",
+        "name": "bn_nn_dd_ra"
+    },
+    {
+        "id": "434",
+        "name": "bn_nn_ddha"
+    },
+    {
+        "id": "435",
+        "name": "bn_nn_nna"
+    },
+    {
+        "id": "436",
+        "name": "bn_nn_ma"
+    },
+    {
+        "id": "437",
+        "name": "bn_t_ta"
+    },
+    {
+        "id": "438",
+        "name": "bn_t_t_ba"
+    },
+    {
+        "id": "439",
+        "name": "bn_t_tha"
+    },
+    {
+        "id": "440",
+        "name": "bn_t_na"
+    },
+    {
+        "id": "441",
+        "name": "bn_t_ma"
+    },
+    {
+        "id": "442",
+        "name": "bn_t_la"
+    },
+    {
+        "id": "443",
+        "name": "bn_d_ga"
+    },
+    {
+        "id": "444",
+        "name": "bn_d_gha"
+    },
+    {
+        "id": "445",
+        "name": "bn_d_da"
+    },
+    {
+        "id": "446",
+        "name": "bn_d_d_ba"
+    },
+    {
+        "id": "447",
+        "name": "bn_d_d_ra"
+    },
+    {
+        "id": "448",
+        "name": "bn_d_dha"
+    },
+    {
+        "id": "449",
+        "name": "bn_d_dh_ba"
+    },
+    {
+        "id": "450",
+        "name": "bn_d_na"
+    },
+    {
+        "id": "451",
+        "name": "bn_d_bha"
+    },
+    {
+        "id": "452",
+        "name": "bn_d_bh_ra"
+    },
+    {
+        "id": "453",
+        "name": "bn_d_ma"
+    },
+    {
+        "id": "454",
+        "name": "bn_dh_na"
+    },
+    {
+        "id": "455",
+        "name": "bn_dh_ma"
+    },
+    {
+        "id": "456",
+        "name": "bn_n_tta"
+    },
+    {
+        "id": "457",
+        "name": "bn_n_tt_ra"
+    },
+    {
+        "id": "458",
+        "name": "bn_n_ttha"
+    },
+    {
+        "id": "459",
+        "name": "bn_n_dda"
+    },
+    {
+        "id": "460",
+        "name": "bn_n_dd_ra"
+    },
+    {
+        "id": "461",
+        "name": "bn_n_ddha"
+    },
+    {
+        "id": "462",
+        "name": "bn_n_ta"
+    },
+    {
+        "id": "463",
+        "name": "bn_n_t_ba"
+    },
+    {
+        "id": "464",
+        "name": "bn_n_t_ra"
+    },
+    {
+        "id": "465",
+        "name": "bn_n_tha"
+    },
+    {
+        "id": "466",
+        "name": "bn_n_da"
+    },
+    {
+        "id": "467",
+        "name": "bn_n_d_ba"
+    },
+    {
+        "id": "468",
+        "name": "bn_n_d_ra"
+    },
+    {
+        "id": "469",
+        "name": "bn_n_dha"
+    },
+    {
+        "id": "470",
+        "name": "bn_n_dh_ba"
+    },
+    {
+        "id": "471",
+        "name": "bn_n_dh_ra"
+    },
+    {
+        "id": "472",
+        "name": "bn_n_na"
+    },
+    {
+        "id": "473",
+        "name": "bn_n_ma"
+    },
+    {
+        "id": "474",
+        "name": "bn_n_sa"
+    },
+    {
+        "id": "475",
+        "name": "bn_p_tta"
+    },
+    {
+        "id": "476",
+        "name": "bn_p_ta"
+    },
+    {
+        "id": "477",
+        "name": "bn_p_pa"
+    },
+    {
+        "id": "478",
+        "name": "bn_p_ma"
+    },
+    {
+        "id": "479",
+        "name": "bn_p_na"
+    },
+    {
+        "id": "480",
+        "name": "bn_p_la"
+    },
+    {
+        "id": "481",
+        "name": "bn_p_sa"
+    },
+    {
+        "id": "482",
+        "name": "bn_ph_tta"
+    },
+    {
+        "id": "483",
+        "name": "bn_ph_la"
+    },
+    {
+        "id": "484",
+        "name": "bn_b_ja"
+    },
+    {
+        "id": "485",
+        "name": "bn_b_da"
+    },
+    {
+        "id": "486",
+        "name": "bn_b_d_ra"
+    },
+    {
+        "id": "487",
+        "name": "bn_b_dha"
+    },
+    {
+        "id": "488",
+        "name": "bn_b_na"
+    },
+    {
+        "id": "489",
+        "name": "bn_b_bha"
+    },
+    {
+        "id": "490",
+        "name": "bn_b_la"
+    },
+    {
+        "id": "491",
+        "name": "bn_bh_la"
+    },
+    {
+        "id": "492",
+        "name": "bn_m_ta"
+    },
+    {
+        "id": "493",
+        "name": "bn_m_tha"
+    },
+    {
+        "id": "494",
+        "name": "bn_m_da"
+    },
+    {
+        "id": "495",
+        "name": "bn_m_na"
+    },
+    {
+        "id": "496",
+        "name": "bn_m_pa"
+    },
+    {
+        "id": "497",
+        "name": "bn_m_p_ra"
+    },
+    {
+        "id": "498",
+        "name": "bn_m_p_la"
+    },
+    {
+        "id": "499",
+        "name": "bn_m_pha"
+    },
+    {
+        "id": "500",
+        "name": "bn_m_ph_ra"
+    },
+    {
+        "id": "501",
+        "name": "bn_m_bha"
+    },
+    {
+        "id": "502",
+        "name": "bn_m_bh_ra"
+    },
+    {
+        "id": "503",
+        "name": "bn_m_ma"
+    },
+    {
+        "id": "504",
+        "name": "bn_m_la"
+    },
+    {
+        "id": "505",
+        "name": "bn_m_sa"
+    },
+    {
+        "id": "506",
+        "name": "bn_m_s_ra"
+    },
+    {
+        "id": "507",
+        "name": "bn_l_ka"
+    },
+    {
+        "id": "508",
+        "name": "bn_l_ga"
+    },
+    {
+        "id": "509",
+        "name": "bn_l_tta"
+    },
+    {
+        "id": "510",
+        "name": "bn_l_tt_ra"
+    },
+    {
+        "id": "511",
+        "name": "bn_l_dda"
+    },
+    {
+        "id": "512",
+        "name": "bn_l_dd_ra"
+    },
+    {
+        "id": "513",
+        "name": "bn_l_ta"
+    },
+    {
+        "id": "514",
+        "name": "bn_l_da"
+    },
+    {
+        "id": "515",
+        "name": "bn_l_dha"
+    },
+    {
+        "id": "516",
+        "name": "bn_l_pa"
+    },
+    {
+        "id": "517",
+        "name": "bn_l_pha"
+    },
+    {
+        "id": "518",
+        "name": "bn_l_ph_ra"
+    },
+    {
+        "id": "519",
+        "name": "bn_l_ma"
+    },
+    {
+        "id": "520",
+        "name": "bn_l_la"
+    },
+    {
+        "id": "521",
+        "name": "bn_sh_ca"
+    },
+    {
+        "id": "522",
+        "name": "bn_sh_cha"
+    },
+    {
+        "id": "523",
+        "name": "bn_sh_ta"
+    },
+    {
+        "id": "524",
+        "name": "bn_sh_na"
+    },
+    {
+        "id": "525",
+        "name": "bn_sh_ma"
+    },
+    {
+        "id": "526",
+        "name": "bn_sh_la"
+    },
+    {
+        "id": "527",
+        "name": "bn_ss_ka"
+    },
+    {
+        "id": "528",
+        "name": "bn_ss_k_ra"
+    },
+    {
+        "id": "529",
+        "name": "bn_ss_tta"
+    },
+    {
+        "id": "530",
+        "name": "bn_ss_tt_ra"
+    },
+    {
+        "id": "531",
+        "name": "bn_ss_ttha"
+    },
+    {
+        "id": "532",
+        "name": "bn_ss_nna"
+    },
+    {
+        "id": "533",
+        "name": "bn_ss_pa"
+    },
+    {
+        "id": "534",
+        "name": "bn_ss_p_ra"
+    },
+    {
+        "id": "535",
+        "name": "bn_ss_pha"
+    },
+    {
+        "id": "536",
+        "name": "bn_ss_ph_ra"
+    },
+    {
+        "id": "537",
+        "name": "bn_ss_ma"
+    },
+    {
+        "id": "538",
+        "name": "bn_s_ka"
+    },
+    {
+        "id": "539",
+        "name": "bn_s_k_ra"
+    },
+    {
+        "id": "540",
+        "name": "bn_s_kha"
+    },
+    {
+        "id": "541",
+        "name": "bn_s_tta"
+    },
+    {
+        "id": "542",
+        "name": "bn_s_tt_ra"
+    },
+    {
+        "id": "543",
+        "name": "bn_s_ta"
+    },
+    {
+        "id": "544",
+        "name": "bn_s_t_ba"
+    },
+    {
+        "id": "545",
+        "name": "bn_s_t_ra"
+    },
+    {
+        "id": "546",
+        "name": "bn_s_tha"
+    },
+    {
+        "id": "547",
+        "name": "bn_s_na"
+    },
+    {
+        "id": "548",
+        "name": "bn_s_pa"
+    },
+    {
+        "id": "549",
+        "name": "bn_s_p_ra"
+    },
+    {
+        "id": "550",
+        "name": "bn_s_p_la"
+    },
+    {
+        "id": "551",
+        "name": "bn_s_pha"
+    },
+    {
+        "id": "552",
+        "name": "bn_s_ph_ra"
+    },
+    {
+        "id": "553",
+        "name": "bn_s_ma"
+    },
+    {
+        "id": "554",
+        "name": "bn_s_la"
+    },
+    {
+        "id": "555",
+        "name": "bn_h_nna"
+    },
+    {
+        "id": "556",
+        "name": "bn_h_na"
+    },
+    {
+        "id": "557",
+        "name": "bn_h_ma"
+    },
+    {
+        "id": "558",
+        "name": "bn_h_la"
+    },
+    {
+        "id": "559",
+        "name": "bn_rr_ga"
+    },
+    {
+        "id": "560",
+        "name": "bn_m_b_ra"
+    },
+    {
+        "id": "561",
+        "name": "bn_tta_ikaar"
+    },
+    {
+        "id": "562",
+        "name": "bn_tt_ra_ikaar"
+    },
+    {
+        "id": "563",
+        "name": "bn_k_tta_ikaar"
+    },
+    {
+        "id": "564",
+        "name": "bn_k_tt_ra_ikaar"
+    },
+    {
+        "id": "565",
+        "name": "bn_tt_tt_ra_ikaar"
+    },
+    {
+        "id": "566",
+        "name": "bn_tt_tta_ikaar"
+    },
+    {
+        "id": "567",
+        "name": "bn_tt_ma_ikaar"
+    },
+    {
+        "id": "568",
+        "name": "bn_nn_ttha_ikaar"
+    },
+    {
+        "id": "569",
+        "name": "bn_n_ttha_ikaar"
+    },
+    {
+        "id": "570",
+        "name": "bn_ph_tta_ikaar"
+    },
+    {
+        "id": "571",
+        "name": "bn_ss_tta_ikaar"
+    },
+    {
+        "id": "572",
+        "name": "bn_ss_tt_ra_ikaar"
+    },
+    {
+        "id": "573",
+        "name": "bn_ttha_ikaar"
+    },
+    {
+        "id": "574",
+        "name": "bn_tth_ra_ikaar"
+    },
+    {
+        "id": "575",
+        "name": "bn_tt_ba_ikaar"
+    },
+    {
+        "id": "576",
+        "name": "bn_tt_nukta_ikaar"
+    },
+    {
+        "id": "577",
+        "name": "bn_tta_iikaar"
+    },
+    {
+        "id": "578",
+        "name": "bn_ttha_iikaar"
+    },
+    {
+        "id": "579",
+        "name": "bn_tt_ra_iikaar"
+    },
+    {
+        "id": "580",
+        "name": "bn_tth_ra_iikaar"
+    },
+    {
+        "id": "581",
+        "name": "bn_k_tta_iikaar"
+    },
+    {
+        "id": "582",
+        "name": "bn_k_tt_ra_iikaar"
+    },
+    {
+        "id": "583",
+        "name": "bn_tt_tt_ra_iikaar"
+    },
+    {
+        "id": "584",
+        "name": "bn_tt_tta_iikaar"
+    },
+    {
+        "id": "585",
+        "name": "bn_tt_ma_iikaar"
+    },
+    {
+        "id": "586",
+        "name": "bn_nn_tta_iikaar"
+    },
+    {
+        "id": "587",
+        "name": "bn_nn_tt_ra_iikaar"
+    },
+    {
+        "id": "588",
+        "name": "bn_nn_ttha_iikaar"
+    },
+    {
+        "id": "589",
+        "name": "bn_n_tta_iikaar"
+    },
+    {
+        "id": "590",
+        "name": "bn_n_tt_ra_iikaar"
+    },
+    {
+        "id": "591",
+        "name": "bn_n_ttha_iikaar"
+    },
+    {
+        "id": "592",
+        "name": "bn_p_tta_iikaar"
+    },
+    {
+        "id": "593",
+        "name": "bn_ph_tta_iikaar"
+    },
+    {
+        "id": "594",
+        "name": "bn_l_tta_iikaar"
+    },
+    {
+        "id": "595",
+        "name": "bn_l_tt_ra_iikaar"
+    },
+    {
+        "id": "596",
+        "name": "bn_ss_tta_iikaar"
+    },
+    {
+        "id": "597",
+        "name": "bn_ss_tt_ra_iikaar"
+    },
+    {
+        "id": "598",
+        "name": "bn_ss_ttha_iikaar"
+    },
+    {
+        "id": "599",
+        "name": "bn_s_tta_iikaar"
+    },
+    {
+        "id": "600",
+        "name": "bn_s_tt_ra_iikaar"
+    },
+    {
+        "id": "601",
+        "name": "bn_tt_ba_iikaar"
+    },
+    {
+        "id": "602",
+        "name": "bn_tt_nukta_iikaar"
+    },
+    {
+        "id": "603",
+        "name": "bn_tth_nukta_iikaar"
+    },
+    {
+        "id": "604",
+        "name": "bn_g_ukaar"
+    },
+    {
+        "id": "605",
+        "name": "bn_d_ukaar"
+    },
+    {
+        "id": "606",
+        "name": "bn_n_t_ukaar"
+    },
+    {
+        "id": "607",
+        "name": "bn_l_g_ukaar"
+    },
+    {
+        "id": "608",
+        "name": "bn_sh_ukaar"
+    },
+    {
+        "id": "609",
+        "name": "bn_s_t_ukaar"
+    },
+    {
+        "id": "610",
+        "name": "bn_h_ukaar"
+    },
+    {
+        "id": "611",
+        "name": "bn_chandrabindu.25CC"
+    },
+    {
+        "id": "612",
+        "name": "bn_anusvar.25CC"
+    },
+    {
+        "id": "613",
+        "name": "bn_bisarga.25CC"
+    },
+    {
+        "id": "614",
+        "name": "bn_nukta.25CC"
+    },
+    {
+        "id": "615",
+        "name": "bn_aakaar.25CC"
+    },
+    {
+        "id": "616",
+        "name": "bn_ikaar.25CC"
+    },
+    {
+        "id": "617",
+        "name": "bn_iikaar.25CC"
+    },
+    {
+        "id": "618",
+        "name": "bn_ukaar.25CC"
+    },
+    {
+        "id": "619",
+        "name": "bn_uukaar.25CC"
+    },
+    {
+        "id": "620",
+        "name": "bn_rikaar.25CC"
+    },
+    {
+        "id": "621",
+        "name": "bn_rrikaar.25CC"
+    },
+    {
+        "id": "622",
+        "name": "bn_ekaar.25CC"
+    },
+    {
+        "id": "623",
+        "name": "bn_aikaar.25CC"
+    },
+    {
+        "id": "624",
+        "name": "bn_halanth.25CC"
+    },
+    {
+        "id": "625",
+        "name": "bn_aumark.25CC"
+    },
+    {
+        "id": "626",
+        "name": "bn_likaar.25CC"
+    },
+    {
+        "id": "627",
+        "name": "bn_llikaar.25CC"
+    },
+    {
+        "id": "628",
+        "name": "bn_chandra.001"
+    },
+    {
+        "id": "629",
+        "name": "bn_reph_chandrabindu"
+    },
+    {
+        "id": "630",
+        "name": "bn_reph_iikaar"
+    },
+    {
+        "id": "631",
+        "name": "bn_iikaar_chandra"
+    },
+    {
+        "id": "632",
+        "name": "bn_reph_iikaar_chandra"
+    },
+    {
+        "id": "633",
+        "name": "bn_reph_aumark"
+    },
+    {
+        "id": "634",
+        "name": "bn_aumark_chandra"
+    },
+    {
+        "id": "635",
+        "name": "bn_reph_aumark_chandra"
+    },
+    {
+        "id": "636",
+        "name": "bn_nukta_ukaar"
+    },
+    {
+        "id": "637",
+        "name": "bn_nukta_uukaar"
+    },
+    {
+        "id": "638",
+        "name": "bn_nukta_rikaar"
+    },
+    {
+        "id": "639",
+        "name": "bn_nukta_rrikaar"
+    },
+    {
+        "id": "640",
+        "name": "bn_nukta_likaar"
+    },
+    {
+        "id": "641",
+        "name": "bn_nukta_llikaar"
+    },
+    {
+        "id": "642",
+        "name": "bn_nukta_halanth"
+    },
+    {
+        "id": "643",
+        "name": "Out-Of-Range-GID-32076"
+    },
+    {
+        "id": "644",
+        "name": "Out-Of-Range-GID-32077"
+    },
+    {
+        "id": "645",
+        "name": "Out-Of-Range-GID-32078"
+    },
+    {
+        "id": "646",
+        "name": "Out-Of-Range-GID-32079"
+    },
+    {
+        "id": "647",
+        "name": "Out-Of-Range-GID-32080"
+    },
+    {
+        "id": "648",
+        "name": "Out-Of-Range-GID-32081"
+    },
+    {
+        "id": "649",
+        "name": "Out-Of-Range-GID-32082"
+    },
+    {
+        "id": "650",
+        "name": "Out-Of-Range-GID-32083"
+    },
+    {
+        "id": "651",
+        "name": "Out-Of-Range-GID-32084"
+    },
+    {
+        "id": "652",
+        "name": "Out-Of-Range-GID-32085"
+    },
+    {
+        "id": "653",
+        "name": "Out-Of-Range-GID-32086"
+    },
+    {
+        "id": "654",
+        "name": "Out-Of-Range-GID-32087"
+    },
+    {
+        "id": "655",
+        "name": "Out-Of-Range-GID-32088"
+    },
+    {
+        "id": "656",
+        "name": "Out-Of-Range-GID-32089"
+    },
+    {
+        "id": "657",
+        "name": "Out-Of-Range-GID-32090"
+    },
+    {
+        "id": "658",
+        "name": "Out-Of-Range-GID-32091"
+    },
+    {
+        "id": "659",
+        "name": "Out-Of-Range-GID-32092"
+    },
+    {
+        "id": "660",
+        "name": "Out-Of-Range-GID-32093"
+    },
+    {
+        "id": "661",
+        "name": "Out-Of-Range-GID-32094"
+    },
+    {
+        "id": "662",
+        "name": "Out-Of-Range-GID-32095"
+    },
+    {
+        "id": "663",
+        "name": "Out-Of-Range-GID-32096"
+    },
+    {
+        "id": "664",
+        "name": "Out-Of-Range-GID-32097"
+    },
+    {
+        "id": "665",
+        "name": "Out-Of-Range-GID-32098"
+    },
+    {
+        "id": "666",
+        "name": "Out-Of-Range-GID-32099"
+    },
+    {
+        "id": "667",
+        "name": "Out-Of-Range-GID-32100"
+    },
+    {
+        "id": "668",
+        "name": "Out-Of-Range-GID-32101"
+    },
+    {
+        "id": "669",
+        "name": "Out-Of-Range-GID-32102"
+    },
+    {
+        "id": "670",
+        "name": "Out-Of-Range-GID-32103"
+    },
+    {
+        "id": "671",
+        "name": "Out-Of-Range-GID-32104"
+    },
+    {
+        "id": "672",
+        "name": "Out-Of-Range-GID-32105"
+    },
+    {
+        "id": "673",
+        "name": "Out-Of-Range-GID-32106"
+    },
+    {
+        "id": "674",
+        "name": "Out-Of-Range-GID-32107"
+    },
+    {
+        "id": "675",
+        "name": "Out-Of-Range-GID-32110"
+    },
+    {
+        "id": "676",
+        "name": "Out-Of-Range-GID-32111"
+    },
+    {
+        "id": "677",
+        "name": "Out-Of-Range-GID-32112"
+    },
+    {
+        "id": "678",
+        "name": "Out-Of-Range-GID-32108"
+    },
+    {
+        "id": "679",
+        "name": "Out-Of-Range-GID-32109"
+    },
+    {
+        "id": "680",
+        "name": "Out-Of-Range-GID-32113"
+    },
+    {
+        "id": "681",
+        "name": "Out-Of-Range-GID-32114"
+    }
+]
